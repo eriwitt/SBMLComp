@@ -1,0 +1,3693 @@
+	PROPIONATE__45__COA__45__TRANSFERASE__45__RXN	PROPIONATE-COA-TRANSFERASE-RXN	(reversible: True) :
+		1.0	ACETYL__45__COA_c	(acetyl-CoA)	1.0	PROPIONATE_c	(propanoate)	|	1.0	ACET_c	(acetate)	1.0	PROPIONYL__45__COA_c	(propanoyl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: PROPIONATE-COA-TRANSFERASE-RXN</p>
+    <p>EC Number: 2.8.3.1</p>
+    <p>GENE_ASSOCIATION: (Sfum_3933)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	RXN0__45__268	RXN0-268	(reversible: False) :
+		1.0	PROPIONYL__45__COA_c	(propanoyl-CoA)	1.0	SUC_c	(succinate)	|	1.0	PROPIONATE_c	(propanoate)	1.0	SUC__45__COA_c	(succinyl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN0-268</p>
+    <p>EC Number: 2.8.3.-</p>
+    <p>SUBSYSTEM: P108-PWY</p>
+    <p>Confidence level: 0</p>
+  </body>
+</notes>
+
+	ACECOATRANS__45__RXN__45__CPD__45__10267__47__ACET__47____47__CPD__45__3617__47__ACETYL__45__COA__46__36__46__	ACECOATRANS-RXN-CPD-10267/ACET//CPD-3617/ACETYL-COA.36.	(reversible: False) :
+		1.0	CPD__45__10267_c	(decanoyl-CoA)	1.0	ACET_c	(acetate)	|	1.0	CPD__45__3617_c	(decanoate)	1.0	ACETYL__45__COA_c	(acetyl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: ACECOATRANS-RXN</p>
+    <p>EC Number: 2.8.3.8</p>
+    <p>GENE_ASSOCIATION: (Sfum_2291)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	RXN__45__1082	RXN-1082	(reversible: True) :
+		1.0	ACETYL__45__COA_c	(acetyl-CoA)	1.0	R__45__2__45__HYDROXYGLUTARATE_c	((R)-2-hydroxyglutarate)	|	1.0	ACET_c	(acetate)	1.0	_2__45__HYDROXYGLUTARYL__45__COA_c	((R)-2-hydroxyglutaryl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-1082</p>
+    <p>EC Number: 2.8.3.12</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS19280) or (SFUM_RS04205) or (SFUM_RS04210) or (SFUM_RS05905)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	ACECOATRANS__45__RXN__45__CPD__45__10267__47__ACET__47____47__CPD__45__3617__47__ACETYL__45__COA__46__36__46__	ACECOATRANS-RXN-CPD-10267/ACET//CPD-3617/ACETYL-COA.36.	(reversible: False) :
+		1.0	CPD__45__10267_c	(decanoyl-CoA)	1.0	ACET_c	(acetate)	|	1.0	CPD__45__3617_c	(decanoate)	1.0	ACETYL__45__COA_c	(acetyl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: ACECOATRANS-RXN</p>
+    <p>EC Number: 2.8.3.8</p>
+    <p>GENE_ASSOCIATION: (Sfum_2291)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	GLUTACONATE__45__COA__45__TRANSFERASE__45__RXN	GLUTACONATE-COA-TRANSFERASE-RXN	(reversible: True) :
+		1.0	ACETYL__45__COA_c	(acetyl-CoA)	1.0	GLUTACONATE_c	((E)-glutaconate)	|	1.0	ACET_c	(acetate)	1.0	GLUTACONYL__45__COA_c	((E)-glutaconyl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: GLUTACONATE-COA-TRANSFERASE-RXN</p>
+    <p>EC Number: 2.8.3.12</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS19280) or (SFUM_RS04205) or (SFUM_RS04210) or (SFUM_RS05905)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	ACECOATRANS__45__RXN__45__CPD__45__10267__47__ACET__47____47__CPD__45__3617__47__ACETYL__45__COA__46__36__46__	ACECOATRANS-RXN-CPD-10267/ACET//CPD-3617/ACETYL-COA.36.	(reversible: False) :
+		1.0	CPD__45__10267_c	(decanoyl-CoA)	1.0	ACET_c	(acetate)	|	1.0	CPD__45__3617_c	(decanoate)	1.0	ACETYL__45__COA_c	(acetyl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: ACECOATRANS-RXN</p>
+    <p>EC Number: 2.8.3.8</p>
+    <p>GENE_ASSOCIATION: (Sfum_2291)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	ACETOACETYL__45__COA__45__TRANSFER__45__RXN	ACETOACETYL-COA-TRANSFER-RXN	(reversible: False) :
+		1.0	ACETYL__45__COA_c	(acetyl-CoA)	1.0	_3__45__KETOBUTYRATE_c	(acetoacetate)	|	1.0	ACET_c	(acetate)	1.0	ACETOACETYL__45__COA_c	(acetoacetyl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: ACETOACETYL-COA-TRANSFER-RXN</p>
+    <p>EC Number: 2.8.3.9</p>
+    <p>SUBSYSTEM: ACETOACETATE-DEG-PWY</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS11850)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	GLUTAMATE__45__SYNTHASE__45__FERREDOXIN__45__RXN	GLUTAMATE-SYNTHASE-FERREDOXIN-RXN	(reversible: True) :
+		2.0	GLT_c	(L-glutamate)	2.0	Oxidized__45__ferredoxins_c	(an oxidized ferredoxin [iron-sulfur] cluster)	|	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	1.0	GLN_c	(L-glutamine)	2.0	Reduced__45__ferredoxins_c	(a reduced ferredoxin [iron-sulfur] cluster)	2.0	PROTON_c	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: GLUTAMATE-SYNTHASE-FERREDOXIN-RXN</p>
+    <p>EC Number: 1.4.7.1</p>
+    <p>GENE_ASSOCIATION: (Sfum_1724) or (Sfum_4067)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	ANTHRANSYN__45__RXN	ANTHRANSYN-RXN	(reversible: False) :
+		1.0	CHORISMATE_c	(chorismate)	1.0	GLN_c	(L-glutamine)	|	1.0	PROTON_c	(H+)	1.0	ANTHRANILATE_c	(anthranilate)	1.0	GLT_c	(L-glutamate)	1.0	PYRUVATE_c	(pyruvate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: ANTHRANSYN-RXN</p>
+    <p>EC Number: 4.1.3.27</p>
+    <p>SUBSYSTEM: TRPSYN-PWY</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS09180)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	GLUTAMATE__45__SYNTHASE__45__FERREDOXIN__45__RXN	GLUTAMATE-SYNTHASE-FERREDOXIN-RXN	(reversible: True) :
+		2.0	GLT_c	(L-glutamate)	2.0	Oxidized__45__ferredoxins_c	(an oxidized ferredoxin [iron-sulfur] cluster)	|	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	1.0	GLN_c	(L-glutamine)	2.0	Reduced__45__ferredoxins_c	(a reduced ferredoxin [iron-sulfur] cluster)	2.0	PROTON_c	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: GLUTAMATE-SYNTHASE-FERREDOXIN-RXN</p>
+    <p>EC Number: 1.4.7.1</p>
+    <p>GENE_ASSOCIATION: (Sfum_1724) or (Sfum_4067)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	GLUTAMIDOTRANS__45__RXN	GLUTAMIDOTRANS-RXN	(reversible: False) :
+		1.0	PHOSPHORIBULOSYL__45__FORMIMINO__45__AICAR__45__P_c	(phosphoribulosylformimino-AICAR-phosphate)	1.0	GLN_c	(L-glutamine)	|	1.0	PROTON_c	(H+)	1.0	GLT_c	(L-glutamate)	1.0	D__45__ERYTHRO__45__IMIDAZOLE__45__GLYCEROL__45__P_c	(D-erythro-imidazole-glycerol-phosphate)	1.0	AICAR_c	(5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: GLUTAMIDOTRANS-RXN</p>
+    <p>EC Number: 4.3.2.-</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS02485) or (SFUM_RS19085)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	TRYPTOPHAN__45__AMINOTRANSFERASE__45__RXN	TRYPTOPHAN-AMINOTRANSFERASE-RXN	(reversible: True) :
+		1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	1.0	TRP_c	(L-tryptophan)	|	1.0	GLT_c	(L-glutamate)	1.0	INDOLE_PYRUVATE_c	((indol-3-yl)pyruvate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: TRYPTOPHAN-AMINOTRANSFERASE-RXN</p>
+    <p>EC Number: 2.6.1.27</p>
+    <p>GENE_ASSOCIATION: (Sfum_3898)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	PSERTRANSAMPYR__45__RXN	PSERTRANSAMPYR-RXN	(reversible: True) :
+		1.0	_3OH__45__4P__45__OH__45__ALPHA__45__KETOBUTYRATE_c	((3R)-3-hydroxy-2-oxo-4 phosphooxybutanoate)	1.0	GLT_c	(L-glutamate)	|	1.0	_4__45__PHOSPHONOOXY__45__THREONINE_c	(4-phosphooxy-L-threonine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: PSERTRANSAMPYR-RXN</p>
+    <p>EC Number: 2.6.1.52</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS10785)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	TRYPTOPHAN__45__AMINOTRANSFERASE__45__RXN	TRYPTOPHAN-AMINOTRANSFERASE-RXN	(reversible: True) :
+		1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	1.0	TRP_c	(L-tryptophan)	|	1.0	GLT_c	(L-glutamate)	1.0	INDOLE_PYRUVATE_c	((indol-3-yl)pyruvate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: TRYPTOPHAN-AMINOTRANSFERASE-RXN</p>
+    <p>EC Number: 2.6.1.27</p>
+    <p>GENE_ASSOCIATION: (Sfum_3898)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	BRANCHED__45__CHAINAMINOTRANSFERVAL__45__RXN	BRANCHED-CHAINAMINOTRANSFERVAL-RXN	(reversible: False) :
+		1.0	GLT_c	(L-glutamate)	1.0	_2__45__KETO__45__ISOVALERATE_c	(3-methyl-2-oxobutanoate)	|	1.0	VAL_c	(L-valine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: BRANCHED-CHAINAMINOTRANSFERVAL-RXN</p>
+    <p>EC Number: 2.6.1.42</p>
+    <p>SUBSYSTEM: VALSYN-PWY, BRANCHED-CHAIN-AA-SYN-PWY</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS16025)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	TRYPTOPHAN__45__AMINOTRANSFERASE__45__RXN	TRYPTOPHAN-AMINOTRANSFERASE-RXN	(reversible: True) :
+		1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	1.0	TRP_c	(L-tryptophan)	|	1.0	GLT_c	(L-glutamate)	1.0	INDOLE_PYRUVATE_c	((indol-3-yl)pyruvate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: TRYPTOPHAN-AMINOTRANSFERASE-RXN</p>
+    <p>EC Number: 2.6.1.27</p>
+    <p>GENE_ASSOCIATION: (Sfum_3898)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	BRANCHED__45__CHAINAMINOTRANSFERLEU__45__RXN	BRANCHED-CHAINAMINOTRANSFERLEU-RXN	(reversible: False) :
+		1.0	GLT_c	(L-glutamate)	1.0	_2K__45__4CH3__45__PENTANOATE_c	(4-methyl-2-oxopentanoate)	|	1.0	LEU_c	(L-leucine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: BRANCHED-CHAINAMINOTRANSFERLEU-RXN</p>
+    <p>EC Number: 2.6.1.6/2.6.1.42</p>
+    <p>SUBSYSTEM: LEUSYN-PWY, BRANCHED-CHAIN-AA-SYN-PWY</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS16025)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	TRYPTOPHAN__45__AMINOTRANSFERASE__45__RXN	TRYPTOPHAN-AMINOTRANSFERASE-RXN	(reversible: True) :
+		1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	1.0	TRP_c	(L-tryptophan)	|	1.0	GLT_c	(L-glutamate)	1.0	INDOLE_PYRUVATE_c	((indol-3-yl)pyruvate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: TRYPTOPHAN-AMINOTRANSFERASE-RXN</p>
+    <p>EC Number: 2.6.1.27</p>
+    <p>GENE_ASSOCIATION: (Sfum_3898)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	BRANCHED__45__CHAINAMINOTRANSFERILEU__45__RXN	BRANCHED-CHAINAMINOTRANSFERILEU-RXN	(reversible: False) :
+		1.0	GLT_c	(L-glutamate)	1.0	_2__45__KETO__45__3__45__METHYL__45__VALERATE_c	((S)-3-methyl-2-oxopentanoate)	|	1.0	ILE_c	(L-isoleucine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: BRANCHED-CHAINAMINOTRANSFERILEU-RXN</p>
+    <p>EC Number: 2.6.1.42</p>
+    <p>SUBSYSTEM: ILEUSYN-PWY, BRANCHED-CHAIN-AA-SYN-PWY</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS16025)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	TRYPTOPHAN__45__AMINOTRANSFERASE__45__RXN	TRYPTOPHAN-AMINOTRANSFERASE-RXN	(reversible: True) :
+		1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	1.0	TRP_c	(L-tryptophan)	|	1.0	GLT_c	(L-glutamate)	1.0	INDOLE_PYRUVATE_c	((indol-3-yl)pyruvate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: TRYPTOPHAN-AMINOTRANSFERASE-RXN</p>
+    <p>EC Number: 2.6.1.27</p>
+    <p>GENE_ASSOCIATION: (Sfum_3898)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	ACETYLORNTRANSAM__45__RXN	ACETYLORNTRANSAM-RXN	(reversible: False) :
+		1.0	GLT_c	(L-glutamate)	1.0	CPD__45__469_c	(N-acetyl-L-glutamate 5-semialdehyde)	|	1.0	N__45__ALPHA__45__ACETYLORNITHINE_c	(N-acetyl-L-ornithine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: ACETYLORNTRANSAM-RXN</p>
+    <p>EC Number: 2.6.1.11</p>
+    <p>SUBSYSTEM: ARGSYNBSUB-PWY</p>
+    <p>Confidence level: 0</p>
+  </body>
+</notes>
+
+	SHIKIMATE__45__5__45__DEHYDROGENASE__45__RXN	SHIKIMATE-5-DEHYDROGENASE-RXN	(reversible: False) :
+		1.0	PROTON_c	(H+)	1.0	_3__45__DEHYDRO__45__SHIKIMATE_c	(3-dehydroshikimate)	1.0	NADPH_c	(NADPH)	|	1.0	SHIKIMATE_c	(shikimate)	1.0	NADP_c	(NADP+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: SHIKIMATE-5-DEHYDROGENASE-RXN</p>
+    <p>EC Number: 1.1.1.25</p>
+    <p>SUBSYSTEM: PWY-6163, ARO-PWY, COMPLETE-ARO-PWY</p>
+    <p>GENE_ASSOCIATION: (Sfum_2721)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	RXN__45__17897	RXN-17897	(reversible: True) :
+		2.0	Reduced__45__ferredoxins_c	(a reduced ferredoxin [iron-sulfur] cluster)	1.0	NADP_c	(NADP+)	1.0	PROTON_c	(H+)	|	2.0	Oxidized__45__ferredoxins_c	(an oxidized ferredoxin [iron-sulfur] cluster)	1.0	NADPH_c	(NADPH)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-17897</p>
+    <p>EC Number: 1.18.1.2</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS11130)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	SHIKIMATE__45__5__45__DEHYDROGENASE__45__RXN	SHIKIMATE-5-DEHYDROGENASE-RXN	(reversible: False) :
+		1.0	PROTON_c	(H+)	1.0	_3__45__DEHYDRO__45__SHIKIMATE_c	(3-dehydroshikimate)	1.0	NADPH_c	(NADPH)	|	1.0	SHIKIMATE_c	(shikimate)	1.0	NADP_c	(NADP+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: SHIKIMATE-5-DEHYDROGENASE-RXN</p>
+    <p>EC Number: 1.1.1.25</p>
+    <p>SUBSYSTEM: PWY-6163, ARO-PWY, COMPLETE-ARO-PWY</p>
+    <p>GENE_ASSOCIATION: (Sfum_2721)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	RXN__45__13685	RXN-13685	(reversible: True) :
+		2.0	Reduced__45__adrenal__45__ferredoxins_c	(a reduced  adrenodoxin)	1.0	NADP_c	(NADP+)	1.0	PROTON_c	(H+)	|	2.0	Oxidized__45__adrenal__45__ferredoxins_c	(an oxidized adrenodoxin)	1.0	NADPH_c	(NADPH)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-13685</p>
+    <p>EC Number: 1.18.1.6</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS11130)</p>
+    <p>Confidence level: 0</p>
+  </body>
+</notes>
+
+	TRANS__45__RXN__45__157__45__Hpr__45__pi__45__phospho__45__L__45__histidines__47__ALPHA__45__GLUCOSE__47____47__D__45__glucopyranose__45__6__45__phosphate__47__Hpr__45__Histidine__46__85__46__	TRANS-RXN-157-Hpr-pi-phospho-L-histidines/ALPHA-GLUCOSE//D-glucopyranose-6-phosphate/Hpr-Histidine.85.	(reversible: False) :
+		1.0	Hpr__45__pi__45__phospho__45__L__45__histidines_CCO__45__IN	(an [HPr protein]-Npi-phospho-L-histidine)	1.0	ALPHA__45__GLUCOSE_CCO__45__OUT	(alpha-D-glucopyranose)	|	1.0	D__45__glucopyranose__45__6__45__phosphate_CCO__45__IN	(D-glucopyranose 6-phosphate)	1.0	Hpr__45__Histidine_CCO__45__IN	(an [HPr]-L-histidine)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: TRANS-RXN-157</p>
+    <p>EC Number: 2.7.1.199</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	RXN__45__17355	RXN-17355	(reversible: False) :
+		1.0	PTS__45__I__45__pi__45__phospho__45__L__45__histidines_c	(a [PTS enzyme I]-Npi-phospho-L-histidine)	1.0	Hpr__45__Histidine_c	(an [HPr]-L-histidine)	|	1.0	PTS__45__I__45__Histidines_c	(a [PTS enzyme I]-L-histidine)	1.0	Hpr__45__pi__45__phospho__45__L__45__histidines_c	(an [HPr protein]-Npi-phospho-L-histidine)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-17355</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS04015)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	TRANS__45__RXN__45__157__45__Hpr__45__pi__45__phospho__45__L__45__histidines__47__ALPHA__45__GLUCOSE__47____47__D__45__glucopyranose__45__6__45__phosphate__47__Hpr__45__Histidine__46__85__46__	TRANS-RXN-157-Hpr-pi-phospho-L-histidines/ALPHA-GLUCOSE//D-glucopyranose-6-phosphate/Hpr-Histidine.85.	(reversible: False) :
+		1.0	Hpr__45__pi__45__phospho__45__L__45__histidines_CCO__45__IN	(an [HPr protein]-Npi-phospho-L-histidine)	1.0	ALPHA__45__GLUCOSE_CCO__45__OUT	(alpha-D-glucopyranose)	|	1.0	D__45__glucopyranose__45__6__45__phosphate_CCO__45__IN	(D-glucopyranose 6-phosphate)	1.0	Hpr__45__Histidine_CCO__45__IN	(an [HPr]-L-histidine)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: TRANS-RXN-157</p>
+    <p>EC Number: 2.7.1.199</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	_2__46__7__46__3__46__9__45__RXN	2.7.3.9-RXN	(reversible: False) :
+		1.0	PHOSPHO__45__ENOL__45__PYRUVATE_c	(phosphoenolpyruvate)	1.0	Hpr__45__Histidine_c	(an [HPr]-L-histidine)	|	1.0	PYRUVATE_c	(pyruvate)	1.0	Hpr__45__pi__45__phospho__45__L__45__histidines_c	(an [HPr protein]-Npi-phospho-L-histidine)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 2.7.3.9-RXN</p>
+    <p>EC Number: 2.7.3.9</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS04015)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	ACECOATRANS__45__RXN__45__LAUROYLCOA__45__CPD__47__ACET__47____47__DODECANOATE__47__ACETYL__45__COA__46__44__46__	ACECOATRANS-RXN-LAUROYLCOA-CPD/ACET//DODECANOATE/ACETYL-COA.44.	(reversible: False) :
+		1.0	LAUROYLCOA__45__CPD_c	(lauroyl-CoA)	1.0	ACET_c	(acetate)	|	1.0	DODECANOATE_c	(laurate)	1.0	ACETYL__45__COA_c	(acetyl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: ACECOATRANS-RXN</p>
+    <p>EC Number: 2.8.3.8</p>
+    <p>GENE_ASSOCIATION: (Sfum_2291)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	RXN__45__1082	RXN-1082	(reversible: True) :
+		1.0	ACETYL__45__COA_c	(acetyl-CoA)	1.0	R__45__2__45__HYDROXYGLUTARATE_c	((R)-2-hydroxyglutarate)	|	1.0	ACET_c	(acetate)	1.0	_2__45__HYDROXYGLUTARYL__45__COA_c	((R)-2-hydroxyglutaryl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-1082</p>
+    <p>EC Number: 2.8.3.12</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS19280) or (SFUM_RS04205) or (SFUM_RS04210) or (SFUM_RS05905)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	ACECOATRANS__45__RXN__45__LAUROYLCOA__45__CPD__47__ACET__47____47__DODECANOATE__47__ACETYL__45__COA__46__44__46__	ACECOATRANS-RXN-LAUROYLCOA-CPD/ACET//DODECANOATE/ACETYL-COA.44.	(reversible: False) :
+		1.0	LAUROYLCOA__45__CPD_c	(lauroyl-CoA)	1.0	ACET_c	(acetate)	|	1.0	DODECANOATE_c	(laurate)	1.0	ACETYL__45__COA_c	(acetyl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: ACECOATRANS-RXN</p>
+    <p>EC Number: 2.8.3.8</p>
+    <p>GENE_ASSOCIATION: (Sfum_2291)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	GLUTACONATE__45__COA__45__TRANSFERASE__45__RXN	GLUTACONATE-COA-TRANSFERASE-RXN	(reversible: True) :
+		1.0	ACETYL__45__COA_c	(acetyl-CoA)	1.0	GLUTACONATE_c	((E)-glutaconate)	|	1.0	ACET_c	(acetate)	1.0	GLUTACONYL__45__COA_c	((E)-glutaconyl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: GLUTACONATE-COA-TRANSFERASE-RXN</p>
+    <p>EC Number: 2.8.3.12</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS19280) or (SFUM_RS04205) or (SFUM_RS04210) or (SFUM_RS05905)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	ACECOATRANS__45__RXN__45__LAUROYLCOA__45__CPD__47__ACET__47____47__DODECANOATE__47__ACETYL__45__COA__46__44__46__	ACECOATRANS-RXN-LAUROYLCOA-CPD/ACET//DODECANOATE/ACETYL-COA.44.	(reversible: False) :
+		1.0	LAUROYLCOA__45__CPD_c	(lauroyl-CoA)	1.0	ACET_c	(acetate)	|	1.0	DODECANOATE_c	(laurate)	1.0	ACETYL__45__COA_c	(acetyl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: ACECOATRANS-RXN</p>
+    <p>EC Number: 2.8.3.8</p>
+    <p>GENE_ASSOCIATION: (Sfum_2291)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	ACETOACETYL__45__COA__45__TRANSFER__45__RXN	ACETOACETYL-COA-TRANSFER-RXN	(reversible: False) :
+		1.0	ACETYL__45__COA_c	(acetyl-CoA)	1.0	_3__45__KETOBUTYRATE_c	(acetoacetate)	|	1.0	ACET_c	(acetate)	1.0	ACETOACETYL__45__COA_c	(acetoacetyl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: ACETOACETYL-COA-TRANSFER-RXN</p>
+    <p>EC Number: 2.8.3.9</p>
+    <p>SUBSYSTEM: ACETOACETATE-DEG-PWY</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS11850)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN0__45__2522	RXN0-2522	(reversible: False) :
+		1.0	Hpr__45__pi__45__phospho__45__L__45__histidines_CCO__45__IN	(an [HPr protein]-Npi-phospho-L-histidine)	1.0	_2__45__O__45__ALPHA__45__MANNOSYL__45__D__45__GLYCERATE_CCO__45__OUT	(2-O-(alpha-D-mannosyl)-D-glycerate)	|	1.0	CPD0__45__1063_CCO__45__IN	(2-O-(6-phospho-alpha-D-mannosyl)-D-glycerate)	1.0	Hpr__45__Histidine_CCO__45__IN	(an [HPr]-L-histidine)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN0-2522</p>
+    <p>EC Number: 2.7.1.195</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	RXN__45__17355	RXN-17355	(reversible: False) :
+		1.0	PTS__45__I__45__pi__45__phospho__45__L__45__histidines_c	(a [PTS enzyme I]-Npi-phospho-L-histidine)	1.0	Hpr__45__Histidine_c	(an [HPr]-L-histidine)	|	1.0	PTS__45__I__45__Histidines_c	(a [PTS enzyme I]-L-histidine)	1.0	Hpr__45__pi__45__phospho__45__L__45__histidines_c	(an [HPr protein]-Npi-phospho-L-histidine)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-17355</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS04015)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN0__45__2522	RXN0-2522	(reversible: False) :
+		1.0	Hpr__45__pi__45__phospho__45__L__45__histidines_CCO__45__IN	(an [HPr protein]-Npi-phospho-L-histidine)	1.0	_2__45__O__45__ALPHA__45__MANNOSYL__45__D__45__GLYCERATE_CCO__45__OUT	(2-O-(alpha-D-mannosyl)-D-glycerate)	|	1.0	CPD0__45__1063_CCO__45__IN	(2-O-(6-phospho-alpha-D-mannosyl)-D-glycerate)	1.0	Hpr__45__Histidine_CCO__45__IN	(an [HPr]-L-histidine)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN0-2522</p>
+    <p>EC Number: 2.7.1.195</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	_2__46__7__46__3__46__9__45__RXN	2.7.3.9-RXN	(reversible: False) :
+		1.0	PHOSPHO__45__ENOL__45__PYRUVATE_c	(phosphoenolpyruvate)	1.0	Hpr__45__Histidine_c	(an [HPr]-L-histidine)	|	1.0	PYRUVATE_c	(pyruvate)	1.0	Hpr__45__pi__45__phospho__45__L__45__histidines_c	(an [HPr protein]-Npi-phospho-L-histidine)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 2.7.3.9-RXN</p>
+    <p>EC Number: 2.7.3.9</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS04015)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	TRANS__45__RXN__45__157__45__Hpr__45__pi__45__phospho__45__L__45__histidines__47__Glucopyranose__47____47__GLC__45__6__45__P__47__Hpr__45__Histidine__46__65__46__	TRANS-RXN-157-Hpr-pi-phospho-L-histidines/Glucopyranose//GLC-6-P/Hpr-Histidine.65.	(reversible: False) :
+		1.0	Hpr__45__pi__45__phospho__45__L__45__histidines_CCO__45__IN	(an [HPr protein]-Npi-phospho-L-histidine)	1.0	Glucopyranose_CCO__45__OUT	(D-glucopyranose)	|	1.0	GLC__45__6__45__P_CCO__45__IN	(beta-D-glucose 6-phosphate)	1.0	Hpr__45__Histidine_CCO__45__IN	(an [HPr]-L-histidine)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: TRANS-RXN-157</p>
+    <p>EC Number: 2.7.1.199</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	RXN__45__17355	RXN-17355	(reversible: False) :
+		1.0	PTS__45__I__45__pi__45__phospho__45__L__45__histidines_c	(a [PTS enzyme I]-Npi-phospho-L-histidine)	1.0	Hpr__45__Histidine_c	(an [HPr]-L-histidine)	|	1.0	PTS__45__I__45__Histidines_c	(a [PTS enzyme I]-L-histidine)	1.0	Hpr__45__pi__45__phospho__45__L__45__histidines_c	(an [HPr protein]-Npi-phospho-L-histidine)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-17355</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS04015)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	TRANS__45__RXN__45__157__45__Hpr__45__pi__45__phospho__45__L__45__histidines__47__Glucopyranose__47____47__GLC__45__6__45__P__47__Hpr__45__Histidine__46__65__46__	TRANS-RXN-157-Hpr-pi-phospho-L-histidines/Glucopyranose//GLC-6-P/Hpr-Histidine.65.	(reversible: False) :
+		1.0	Hpr__45__pi__45__phospho__45__L__45__histidines_CCO__45__IN	(an [HPr protein]-Npi-phospho-L-histidine)	1.0	Glucopyranose_CCO__45__OUT	(D-glucopyranose)	|	1.0	GLC__45__6__45__P_CCO__45__IN	(beta-D-glucose 6-phosphate)	1.0	Hpr__45__Histidine_CCO__45__IN	(an [HPr]-L-histidine)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: TRANS-RXN-157</p>
+    <p>EC Number: 2.7.1.199</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	_2__46__7__46__3__46__9__45__RXN	2.7.3.9-RXN	(reversible: False) :
+		1.0	PHOSPHO__45__ENOL__45__PYRUVATE_c	(phosphoenolpyruvate)	1.0	Hpr__45__Histidine_c	(an [HPr]-L-histidine)	|	1.0	PYRUVATE_c	(pyruvate)	1.0	Hpr__45__pi__45__phospho__45__L__45__histidines_c	(an [HPr protein]-Npi-phospho-L-histidine)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 2.7.3.9-RXN</p>
+    <p>EC Number: 2.7.3.9</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS04015)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN0__45__1602	RXN0-1602	(reversible: True) :
+		1.0	DITP_c	(dITP)	1.0	WATER_c	(H2O)	|	1.0	PROTON_c	(H+)	1.0	DIMP_c	(dIMP)	1.0	PPI_c	(diphosphate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN0-1602</p>
+    <p>EC Number: 3.6.1.66</p>
+    <p>GENE_ASSOCIATION: (Sfum_0691)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	IGPSYN__45__RXN	IGPSYN-RXN	(reversible: False) :
+		1.0	PROTON_c	(H+)	1.0	CARBOXYPHENYLAMINO__45__DEOXYRIBULOSE__45__P_c	(1-(o-carboxyphenylamino)-1'-deoxyribulose 5'-phosphate)	|	1.0	INDOLE__45__3__45__GLYCEROL__45__P_c	((1S,2R)-1-C-(indol-3-yl)glycerol 3-phosphate)	1.0	CARBON__45__DIOXIDE_c	(CO2)	1.0	WATER_c	(H2O)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: IGPSYN-RXN</p>
+    <p>EC Number: 4.1.1.48</p>
+    <p>SUBSYSTEM: TRPSYN-PWY</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS09165)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN0__45__1602	RXN0-1602	(reversible: True) :
+		1.0	DITP_c	(dITP)	1.0	WATER_c	(H2O)	|	1.0	PROTON_c	(H+)	1.0	DIMP_c	(dIMP)	1.0	PPI_c	(diphosphate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN0-1602</p>
+    <p>EC Number: 3.6.1.66</p>
+    <p>GENE_ASSOCIATION: (Sfum_0691)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	PREPHENATEDEHYDRAT__45__RXN	PREPHENATEDEHYDRAT-RXN	(reversible: True) :
+		1.0	PROTON_c	(H+)	1.0	PREPHENATE_c	(prephenate)	|	1.0	PHENYL__45__PYRUVATE_c	(keto-phenylpyruvate)	1.0	WATER_c	(H2O)	1.0	CARBON__45__DIOXIDE_c	(CO2)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: PREPHENATEDEHYDRAT-RXN</p>
+    <p>EC Number: 4.2.1.51</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS14115)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN0__45__1603	RXN0-1603	(reversible: True) :
+		1.0	XTP_c	(XTP)	1.0	WATER_c	(H2O)	|	1.0	PROTON_c	(H+)	1.0	XANTHOSINE__45__5__45__PHOSPHATE_c	(XMP)	1.0	PPI_c	(diphosphate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN0-1603</p>
+    <p>EC Number: 3.6.1.66</p>
+    <p>GENE_ASSOCIATION: (Sfum_0691)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	IGPSYN__45__RXN	IGPSYN-RXN	(reversible: False) :
+		1.0	PROTON_c	(H+)	1.0	CARBOXYPHENYLAMINO__45__DEOXYRIBULOSE__45__P_c	(1-(o-carboxyphenylamino)-1'-deoxyribulose 5'-phosphate)	|	1.0	INDOLE__45__3__45__GLYCEROL__45__P_c	((1S,2R)-1-C-(indol-3-yl)glycerol 3-phosphate)	1.0	CARBON__45__DIOXIDE_c	(CO2)	1.0	WATER_c	(H2O)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: IGPSYN-RXN</p>
+    <p>EC Number: 4.1.1.48</p>
+    <p>SUBSYSTEM: TRPSYN-PWY</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS09165)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN0__45__1603	RXN0-1603	(reversible: True) :
+		1.0	XTP_c	(XTP)	1.0	WATER_c	(H2O)	|	1.0	PROTON_c	(H+)	1.0	XANTHOSINE__45__5__45__PHOSPHATE_c	(XMP)	1.0	PPI_c	(diphosphate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN0-1603</p>
+    <p>EC Number: 3.6.1.66</p>
+    <p>GENE_ASSOCIATION: (Sfum_0691)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	PREPHENATEDEHYDRAT__45__RXN	PREPHENATEDEHYDRAT-RXN	(reversible: True) :
+		1.0	PROTON_c	(H+)	1.0	PREPHENATE_c	(prephenate)	|	1.0	PHENYL__45__PYRUVATE_c	(keto-phenylpyruvate)	1.0	WATER_c	(H2O)	1.0	CARBON__45__DIOXIDE_c	(CO2)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: PREPHENATEDEHYDRAT-RXN</p>
+    <p>EC Number: 4.2.1.51</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS14115)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	GABATRANSAM__45__RXN	GABATRANSAM-RXN	(reversible: True) :
+		1.0	_4__45__AMINO__45__BUTYRATE_c	(4-aminobutanoate)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	|	1.0	SUCC__45__S__45__ALD_c	(succinate semialdehyde)	1.0	GLT_c	(L-glutamate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: GABATRANSAM-RXN</p>
+    <p>EC Number: 2.6.1.19</p>
+    <p>GENE_ASSOCIATION: (Sfum_2649)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	PSERTRANSAMPYR__45__RXN	PSERTRANSAMPYR-RXN	(reversible: True) :
+		1.0	_3OH__45__4P__45__OH__45__ALPHA__45__KETOBUTYRATE_c	((3R)-3-hydroxy-2-oxo-4 phosphooxybutanoate)	1.0	GLT_c	(L-glutamate)	|	1.0	_4__45__PHOSPHONOOXY__45__THREONINE_c	(4-phosphooxy-L-threonine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: PSERTRANSAMPYR-RXN</p>
+    <p>EC Number: 2.6.1.52</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS10785)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	GABATRANSAM__45__RXN	GABATRANSAM-RXN	(reversible: True) :
+		1.0	_4__45__AMINO__45__BUTYRATE_c	(4-aminobutanoate)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	|	1.0	SUCC__45__S__45__ALD_c	(succinate semialdehyde)	1.0	GLT_c	(L-glutamate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: GABATRANSAM-RXN</p>
+    <p>EC Number: 2.6.1.19</p>
+    <p>GENE_ASSOCIATION: (Sfum_2649)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	BRANCHED__45__CHAINAMINOTRANSFERVAL__45__RXN	BRANCHED-CHAINAMINOTRANSFERVAL-RXN	(reversible: False) :
+		1.0	GLT_c	(L-glutamate)	1.0	_2__45__KETO__45__ISOVALERATE_c	(3-methyl-2-oxobutanoate)	|	1.0	VAL_c	(L-valine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: BRANCHED-CHAINAMINOTRANSFERVAL-RXN</p>
+    <p>EC Number: 2.6.1.42</p>
+    <p>SUBSYSTEM: VALSYN-PWY, BRANCHED-CHAIN-AA-SYN-PWY</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS16025)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	GABATRANSAM__45__RXN	GABATRANSAM-RXN	(reversible: True) :
+		1.0	_4__45__AMINO__45__BUTYRATE_c	(4-aminobutanoate)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	|	1.0	SUCC__45__S__45__ALD_c	(succinate semialdehyde)	1.0	GLT_c	(L-glutamate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: GABATRANSAM-RXN</p>
+    <p>EC Number: 2.6.1.19</p>
+    <p>GENE_ASSOCIATION: (Sfum_2649)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	BRANCHED__45__CHAINAMINOTRANSFERLEU__45__RXN	BRANCHED-CHAINAMINOTRANSFERLEU-RXN	(reversible: False) :
+		1.0	GLT_c	(L-glutamate)	1.0	_2K__45__4CH3__45__PENTANOATE_c	(4-methyl-2-oxopentanoate)	|	1.0	LEU_c	(L-leucine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: BRANCHED-CHAINAMINOTRANSFERLEU-RXN</p>
+    <p>EC Number: 2.6.1.6/2.6.1.42</p>
+    <p>SUBSYSTEM: LEUSYN-PWY, BRANCHED-CHAIN-AA-SYN-PWY</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS16025)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	GABATRANSAM__45__RXN	GABATRANSAM-RXN	(reversible: True) :
+		1.0	_4__45__AMINO__45__BUTYRATE_c	(4-aminobutanoate)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	|	1.0	SUCC__45__S__45__ALD_c	(succinate semialdehyde)	1.0	GLT_c	(L-glutamate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: GABATRANSAM-RXN</p>
+    <p>EC Number: 2.6.1.19</p>
+    <p>GENE_ASSOCIATION: (Sfum_2649)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	BRANCHED__45__CHAINAMINOTRANSFERILEU__45__RXN	BRANCHED-CHAINAMINOTRANSFERILEU-RXN	(reversible: False) :
+		1.0	GLT_c	(L-glutamate)	1.0	_2__45__KETO__45__3__45__METHYL__45__VALERATE_c	((S)-3-methyl-2-oxopentanoate)	|	1.0	ILE_c	(L-isoleucine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: BRANCHED-CHAINAMINOTRANSFERILEU-RXN</p>
+    <p>EC Number: 2.6.1.42</p>
+    <p>SUBSYSTEM: ILEUSYN-PWY, BRANCHED-CHAIN-AA-SYN-PWY</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS16025)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	GABATRANSAM__45__RXN	GABATRANSAM-RXN	(reversible: True) :
+		1.0	_4__45__AMINO__45__BUTYRATE_c	(4-aminobutanoate)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	|	1.0	SUCC__45__S__45__ALD_c	(succinate semialdehyde)	1.0	GLT_c	(L-glutamate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: GABATRANSAM-RXN</p>
+    <p>EC Number: 2.6.1.19</p>
+    <p>GENE_ASSOCIATION: (Sfum_2649)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	ACETYLORNTRANSAM__45__RXN	ACETYLORNTRANSAM-RXN	(reversible: False) :
+		1.0	GLT_c	(L-glutamate)	1.0	CPD__45__469_c	(N-acetyl-L-glutamate 5-semialdehyde)	|	1.0	N__45__ALPHA__45__ACETYLORNITHINE_c	(N-acetyl-L-ornithine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: ACETYLORNTRANSAM-RXN</p>
+    <p>EC Number: 2.6.1.11</p>
+    <p>SUBSYSTEM: ARGSYNBSUB-PWY</p>
+    <p>Confidence level: 0</p>
+  </body>
+</notes>
+
+	RXN__45__15727	RXN-15727	(reversible: False) :
+		1.0	PENTANOYLCOA__45__CPD_c	(pentanoyl-CoA)	1.0	ACET_c	(acetate)	|	1.0	VALERATE_c	(pentanoate)	1.0	ACETYL__45__COA_c	(acetyl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-15727</p>
+    <p>EC Number: 2.8.3.8</p>
+    <p>GENE_ASSOCIATION: (Sfum_2291)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	RXN__45__1082	RXN-1082	(reversible: True) :
+		1.0	ACETYL__45__COA_c	(acetyl-CoA)	1.0	R__45__2__45__HYDROXYGLUTARATE_c	((R)-2-hydroxyglutarate)	|	1.0	ACET_c	(acetate)	1.0	_2__45__HYDROXYGLUTARYL__45__COA_c	((R)-2-hydroxyglutaryl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-1082</p>
+    <p>EC Number: 2.8.3.12</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS19280) or (SFUM_RS04205) or (SFUM_RS04210) or (SFUM_RS05905)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__15727	RXN-15727	(reversible: False) :
+		1.0	PENTANOYLCOA__45__CPD_c	(pentanoyl-CoA)	1.0	ACET_c	(acetate)	|	1.0	VALERATE_c	(pentanoate)	1.0	ACETYL__45__COA_c	(acetyl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-15727</p>
+    <p>EC Number: 2.8.3.8</p>
+    <p>GENE_ASSOCIATION: (Sfum_2291)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	GLUTACONATE__45__COA__45__TRANSFERASE__45__RXN	GLUTACONATE-COA-TRANSFERASE-RXN	(reversible: True) :
+		1.0	ACETYL__45__COA_c	(acetyl-CoA)	1.0	GLUTACONATE_c	((E)-glutaconate)	|	1.0	ACET_c	(acetate)	1.0	GLUTACONYL__45__COA_c	((E)-glutaconyl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: GLUTACONATE-COA-TRANSFERASE-RXN</p>
+    <p>EC Number: 2.8.3.12</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS19280) or (SFUM_RS04205) or (SFUM_RS04210) or (SFUM_RS05905)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__15727	RXN-15727	(reversible: False) :
+		1.0	PENTANOYLCOA__45__CPD_c	(pentanoyl-CoA)	1.0	ACET_c	(acetate)	|	1.0	VALERATE_c	(pentanoate)	1.0	ACETYL__45__COA_c	(acetyl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-15727</p>
+    <p>EC Number: 2.8.3.8</p>
+    <p>GENE_ASSOCIATION: (Sfum_2291)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	ACETOACETYL__45__COA__45__TRANSFER__45__RXN	ACETOACETYL-COA-TRANSFER-RXN	(reversible: False) :
+		1.0	ACETYL__45__COA_c	(acetyl-CoA)	1.0	_3__45__KETOBUTYRATE_c	(acetoacetate)	|	1.0	ACET_c	(acetate)	1.0	ACETOACETYL__45__COA_c	(acetoacetyl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: ACETOACETYL-COA-TRANSFER-RXN</p>
+    <p>EC Number: 2.8.3.9</p>
+    <p>SUBSYSTEM: ACETOACETATE-DEG-PWY</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS11850)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	_4__46__3__46__1__46__4__45__RXN	4.3.1.4-RXN	(reversible: True) :
+		1.0	CPD__45__671_c	(a 5-formiminotetrahydrofolate)	2.0	PROTON_c	(H+)	|	1.0	AMMONIUM_c	(ammonium)	1.0	_5__45__10__45__METHENYL__45__THF__45__GLU__45__N_c	(a 5,10-methenyltetrahydrofolate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 4.3.1.4-RXN</p>
+    <p>EC Number: 4.3.1.4</p>
+    <p>GENE_ASSOCIATION: (Sfum_1186)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	METHENYLTHFCYCLOHYDRO__45__RXN	METHENYLTHFCYCLOHYDRO-RXN	(reversible: True) :
+		1.0	_5__45__10__45__METHENYL__45__THF__45__GLU__45__N_c	(a 5,10-methenyltetrahydrofolate)	1.0	WATER_c	(H2O)	|	1.0	FORMYL__45__THF__45__GLU__45__N_c	(an N10-formyl-tetrahydrofolate)	1.0	PROTON_c	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: METHENYLTHFCYCLOHYDRO-RXN</p>
+    <p>EC Number: 3.5.4.9</p>
+    <p>SUBSYSTEM: PWY-1722</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS13925)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	TYROSINE__45__AMINOTRANSFERASE__45__RXN	TYROSINE-AMINOTRANSFERASE-RXN	(reversible: True) :
+		1.0	TYR_c	(L-tyrosine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	|	1.0	P__45__HYDROXY__45__PHENYLPYRUVATE_c	(4-hydroxyphenylpyruvate)	1.0	GLT_c	(L-glutamate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: TYROSINE-AMINOTRANSFERASE-RXN</p>
+    <p>EC Number: 2.6.1.5/2.6.1.57</p>
+    <p>SUBSYSTEM: PWY-5886, TYRSYN, COMPLETE-ARO-PWY</p>
+    <p>GENE_ASSOCIATION: (Sfum_3898)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	PSERTRANSAMPYR__45__RXN	PSERTRANSAMPYR-RXN	(reversible: True) :
+		1.0	_3OH__45__4P__45__OH__45__ALPHA__45__KETOBUTYRATE_c	((3R)-3-hydroxy-2-oxo-4 phosphooxybutanoate)	1.0	GLT_c	(L-glutamate)	|	1.0	_4__45__PHOSPHONOOXY__45__THREONINE_c	(4-phosphooxy-L-threonine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: PSERTRANSAMPYR-RXN</p>
+    <p>EC Number: 2.6.1.52</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS10785)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	TYROSINE__45__AMINOTRANSFERASE__45__RXN	TYROSINE-AMINOTRANSFERASE-RXN	(reversible: True) :
+		1.0	TYR_c	(L-tyrosine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	|	1.0	P__45__HYDROXY__45__PHENYLPYRUVATE_c	(4-hydroxyphenylpyruvate)	1.0	GLT_c	(L-glutamate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: TYROSINE-AMINOTRANSFERASE-RXN</p>
+    <p>EC Number: 2.6.1.5/2.6.1.57</p>
+    <p>SUBSYSTEM: PWY-5886, TYRSYN, COMPLETE-ARO-PWY</p>
+    <p>GENE_ASSOCIATION: (Sfum_3898)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	BRANCHED__45__CHAINAMINOTRANSFERVAL__45__RXN	BRANCHED-CHAINAMINOTRANSFERVAL-RXN	(reversible: False) :
+		1.0	GLT_c	(L-glutamate)	1.0	_2__45__KETO__45__ISOVALERATE_c	(3-methyl-2-oxobutanoate)	|	1.0	VAL_c	(L-valine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: BRANCHED-CHAINAMINOTRANSFERVAL-RXN</p>
+    <p>EC Number: 2.6.1.42</p>
+    <p>SUBSYSTEM: VALSYN-PWY, BRANCHED-CHAIN-AA-SYN-PWY</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS16025)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	TYROSINE__45__AMINOTRANSFERASE__45__RXN	TYROSINE-AMINOTRANSFERASE-RXN	(reversible: True) :
+		1.0	TYR_c	(L-tyrosine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	|	1.0	P__45__HYDROXY__45__PHENYLPYRUVATE_c	(4-hydroxyphenylpyruvate)	1.0	GLT_c	(L-glutamate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: TYROSINE-AMINOTRANSFERASE-RXN</p>
+    <p>EC Number: 2.6.1.5/2.6.1.57</p>
+    <p>SUBSYSTEM: PWY-5886, TYRSYN, COMPLETE-ARO-PWY</p>
+    <p>GENE_ASSOCIATION: (Sfum_3898)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	BRANCHED__45__CHAINAMINOTRANSFERLEU__45__RXN	BRANCHED-CHAINAMINOTRANSFERLEU-RXN	(reversible: False) :
+		1.0	GLT_c	(L-glutamate)	1.0	_2K__45__4CH3__45__PENTANOATE_c	(4-methyl-2-oxopentanoate)	|	1.0	LEU_c	(L-leucine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: BRANCHED-CHAINAMINOTRANSFERLEU-RXN</p>
+    <p>EC Number: 2.6.1.6/2.6.1.42</p>
+    <p>SUBSYSTEM: LEUSYN-PWY, BRANCHED-CHAIN-AA-SYN-PWY</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS16025)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	TYROSINE__45__AMINOTRANSFERASE__45__RXN	TYROSINE-AMINOTRANSFERASE-RXN	(reversible: True) :
+		1.0	TYR_c	(L-tyrosine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	|	1.0	P__45__HYDROXY__45__PHENYLPYRUVATE_c	(4-hydroxyphenylpyruvate)	1.0	GLT_c	(L-glutamate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: TYROSINE-AMINOTRANSFERASE-RXN</p>
+    <p>EC Number: 2.6.1.5/2.6.1.57</p>
+    <p>SUBSYSTEM: PWY-5886, TYRSYN, COMPLETE-ARO-PWY</p>
+    <p>GENE_ASSOCIATION: (Sfum_3898)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	BRANCHED__45__CHAINAMINOTRANSFERILEU__45__RXN	BRANCHED-CHAINAMINOTRANSFERILEU-RXN	(reversible: False) :
+		1.0	GLT_c	(L-glutamate)	1.0	_2__45__KETO__45__3__45__METHYL__45__VALERATE_c	((S)-3-methyl-2-oxopentanoate)	|	1.0	ILE_c	(L-isoleucine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: BRANCHED-CHAINAMINOTRANSFERILEU-RXN</p>
+    <p>EC Number: 2.6.1.42</p>
+    <p>SUBSYSTEM: ILEUSYN-PWY, BRANCHED-CHAIN-AA-SYN-PWY</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS16025)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	TYROSINE__45__AMINOTRANSFERASE__45__RXN	TYROSINE-AMINOTRANSFERASE-RXN	(reversible: True) :
+		1.0	TYR_c	(L-tyrosine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	|	1.0	P__45__HYDROXY__45__PHENYLPYRUVATE_c	(4-hydroxyphenylpyruvate)	1.0	GLT_c	(L-glutamate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: TYROSINE-AMINOTRANSFERASE-RXN</p>
+    <p>EC Number: 2.6.1.5/2.6.1.57</p>
+    <p>SUBSYSTEM: PWY-5886, TYRSYN, COMPLETE-ARO-PWY</p>
+    <p>GENE_ASSOCIATION: (Sfum_3898)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	ACETYLORNTRANSAM__45__RXN	ACETYLORNTRANSAM-RXN	(reversible: False) :
+		1.0	GLT_c	(L-glutamate)	1.0	CPD__45__469_c	(N-acetyl-L-glutamate 5-semialdehyde)	|	1.0	N__45__ALPHA__45__ACETYLORNITHINE_c	(N-acetyl-L-ornithine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: ACETYLORNTRANSAM-RXN</p>
+    <p>EC Number: 2.6.1.11</p>
+    <p>SUBSYSTEM: ARGSYNBSUB-PWY</p>
+    <p>Confidence level: 0</p>
+  </body>
+</notes>
+
+	RXN__45__14147	RXN-14147	(reversible: True) :
+		1.0	MET_c	(L-methionine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	|	1.0	CPD__45__479_c	(4-(methylsulfanyl)-2-oxobutanoate)	1.0	GLT_c	(L-glutamate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-14147</p>
+    <p>EC Number: 2.6.1.57</p>
+    <p>GENE_ASSOCIATION: (Sfum_3898)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	PSERTRANSAMPYR__45__RXN	PSERTRANSAMPYR-RXN	(reversible: True) :
+		1.0	_3OH__45__4P__45__OH__45__ALPHA__45__KETOBUTYRATE_c	((3R)-3-hydroxy-2-oxo-4 phosphooxybutanoate)	1.0	GLT_c	(L-glutamate)	|	1.0	_4__45__PHOSPHONOOXY__45__THREONINE_c	(4-phosphooxy-L-threonine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: PSERTRANSAMPYR-RXN</p>
+    <p>EC Number: 2.6.1.52</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS10785)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__14147	RXN-14147	(reversible: True) :
+		1.0	MET_c	(L-methionine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	|	1.0	CPD__45__479_c	(4-(methylsulfanyl)-2-oxobutanoate)	1.0	GLT_c	(L-glutamate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-14147</p>
+    <p>EC Number: 2.6.1.57</p>
+    <p>GENE_ASSOCIATION: (Sfum_3898)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	BRANCHED__45__CHAINAMINOTRANSFERVAL__45__RXN	BRANCHED-CHAINAMINOTRANSFERVAL-RXN	(reversible: False) :
+		1.0	GLT_c	(L-glutamate)	1.0	_2__45__KETO__45__ISOVALERATE_c	(3-methyl-2-oxobutanoate)	|	1.0	VAL_c	(L-valine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: BRANCHED-CHAINAMINOTRANSFERVAL-RXN</p>
+    <p>EC Number: 2.6.1.42</p>
+    <p>SUBSYSTEM: VALSYN-PWY, BRANCHED-CHAIN-AA-SYN-PWY</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS16025)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__14147	RXN-14147	(reversible: True) :
+		1.0	MET_c	(L-methionine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	|	1.0	CPD__45__479_c	(4-(methylsulfanyl)-2-oxobutanoate)	1.0	GLT_c	(L-glutamate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-14147</p>
+    <p>EC Number: 2.6.1.57</p>
+    <p>GENE_ASSOCIATION: (Sfum_3898)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	BRANCHED__45__CHAINAMINOTRANSFERLEU__45__RXN	BRANCHED-CHAINAMINOTRANSFERLEU-RXN	(reversible: False) :
+		1.0	GLT_c	(L-glutamate)	1.0	_2K__45__4CH3__45__PENTANOATE_c	(4-methyl-2-oxopentanoate)	|	1.0	LEU_c	(L-leucine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: BRANCHED-CHAINAMINOTRANSFERLEU-RXN</p>
+    <p>EC Number: 2.6.1.6/2.6.1.42</p>
+    <p>SUBSYSTEM: LEUSYN-PWY, BRANCHED-CHAIN-AA-SYN-PWY</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS16025)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__14147	RXN-14147	(reversible: True) :
+		1.0	MET_c	(L-methionine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	|	1.0	CPD__45__479_c	(4-(methylsulfanyl)-2-oxobutanoate)	1.0	GLT_c	(L-glutamate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-14147</p>
+    <p>EC Number: 2.6.1.57</p>
+    <p>GENE_ASSOCIATION: (Sfum_3898)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	BRANCHED__45__CHAINAMINOTRANSFERILEU__45__RXN	BRANCHED-CHAINAMINOTRANSFERILEU-RXN	(reversible: False) :
+		1.0	GLT_c	(L-glutamate)	1.0	_2__45__KETO__45__3__45__METHYL__45__VALERATE_c	((S)-3-methyl-2-oxopentanoate)	|	1.0	ILE_c	(L-isoleucine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: BRANCHED-CHAINAMINOTRANSFERILEU-RXN</p>
+    <p>EC Number: 2.6.1.42</p>
+    <p>SUBSYSTEM: ILEUSYN-PWY, BRANCHED-CHAIN-AA-SYN-PWY</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS16025)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__14147	RXN-14147	(reversible: True) :
+		1.0	MET_c	(L-methionine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	|	1.0	CPD__45__479_c	(4-(methylsulfanyl)-2-oxobutanoate)	1.0	GLT_c	(L-glutamate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-14147</p>
+    <p>EC Number: 2.6.1.57</p>
+    <p>GENE_ASSOCIATION: (Sfum_3898)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	ACETYLORNTRANSAM__45__RXN	ACETYLORNTRANSAM-RXN	(reversible: False) :
+		1.0	GLT_c	(L-glutamate)	1.0	CPD__45__469_c	(N-acetyl-L-glutamate 5-semialdehyde)	|	1.0	N__45__ALPHA__45__ACETYLORNITHINE_c	(N-acetyl-L-ornithine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: ACETYLORNTRANSAM-RXN</p>
+    <p>EC Number: 2.6.1.11</p>
+    <p>SUBSYSTEM: ARGSYNBSUB-PWY</p>
+    <p>Confidence level: 0</p>
+  </body>
+</notes>
+
+	RXN__45__16561	RXN-16561	(reversible: False) :
+		1.0	CO__45__A_c	(coenzyme A)	1.0	CPD__45__17815_c	((11Z)-3-oxo-hexadecenoyl-CoA)	|	1.0	ACETYL__45__COA_c	(acetyl-CoA)	1.0	CPD__45__17464_c	((9Z)-tetradecenoyl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-16561</p>
+    <p>EC Number: 2.3.1.155</p>
+    <p>GENE_ASSOCIATION: (Sfum_1403)</p>
+    <p>Confidence level: 0</p>
+  </body>
+</notes>
+	RXN__45__11852	RXN-11852	(reversible: True) :
+		1.0	ACETYL__45__COA_c	(acetyl-CoA)	1.0	CIS__45__3__45__HEXENOL_c	((Z)-hex-3-en-ol)	|	1.0	CPD__45__12846_c	((3Z)-hex-3-en-1-yl acetate)	1.0	CO__45__A_c	(coenzyme A)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-11852</p>
+    <p>EC Number: 2.3.1.195</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS20510) or (SFUM_RS09140)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__16561	RXN-16561	(reversible: False) :
+		1.0	CO__45__A_c	(coenzyme A)	1.0	CPD__45__17815_c	((11Z)-3-oxo-hexadecenoyl-CoA)	|	1.0	ACETYL__45__COA_c	(acetyl-CoA)	1.0	CPD__45__17464_c	((9Z)-tetradecenoyl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-16561</p>
+    <p>EC Number: 2.3.1.155</p>
+    <p>GENE_ASSOCIATION: (Sfum_1403)</p>
+    <p>Confidence level: 0</p>
+  </body>
+</notes>
+	ACP__45__S__45__ACETYLTRANSFER__45__RXN	ACP-S-ACETYLTRANSFER-RXN	(reversible: False) :
+		1.0	ACETYL__45__COA_c	(acetyl-CoA)	1.0	ACP_c	(a holo-[acyl-carrier protein])	|	1.0	CO__45__A_c	(coenzyme A)	1.0	ACETYL__45__ACP_c	(an acetyl-[acp])	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: ACP-S-ACETYLTRANSFER-RXN</p>
+    <p>EC Number: 2.3.1.38/2.3.1.85/2.3.1.86</p>
+    <p>SUBSYSTEM: PWY-5966</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS04515) or (SFUM_RS05845)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__16561	RXN-16561	(reversible: False) :
+		1.0	CO__45__A_c	(coenzyme A)	1.0	CPD__45__17815_c	((11Z)-3-oxo-hexadecenoyl-CoA)	|	1.0	ACETYL__45__COA_c	(acetyl-CoA)	1.0	CPD__45__17464_c	((9Z)-tetradecenoyl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-16561</p>
+    <p>EC Number: 2.3.1.155</p>
+    <p>GENE_ASSOCIATION: (Sfum_1403)</p>
+    <p>Confidence level: 0</p>
+  </body>
+</notes>
+	SERINE__45__O__45__ACETTRAN__45__RXN	SERINE-O-ACETTRAN-RXN	(reversible: False) :
+		1.0	SER_c	(L-serine)	1.0	ACETYL__45__COA_c	(acetyl-CoA)	|	1.0	ACETYLSERINE_c	(O-acetyl-L-serine)	1.0	CO__45__A_c	(coenzyme A)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: SERINE-O-ACETTRAN-RXN</p>
+    <p>EC Number: 2.3.1.30</p>
+    <p>SUBSYSTEM: CYSTSYN-PWY</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS13905)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__16561	RXN-16561	(reversible: False) :
+		1.0	CO__45__A_c	(coenzyme A)	1.0	CPD__45__17815_c	((11Z)-3-oxo-hexadecenoyl-CoA)	|	1.0	ACETYL__45__COA_c	(acetyl-CoA)	1.0	CPD__45__17464_c	((9Z)-tetradecenoyl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-16561</p>
+    <p>EC Number: 2.3.1.155</p>
+    <p>GENE_ASSOCIATION: (Sfum_1403)</p>
+    <p>Confidence level: 0</p>
+  </body>
+</notes>
+	PHOSACETYLTRANS__45__RXN	PHOSACETYLTRANS-RXN	(reversible: False) :
+		1.0	Pi_c	(phosphate)	1.0	ACETYL__45__COA_c	(acetyl-CoA)	|	1.0	ACETYL__45__P_c	(acetyl phosphate)	1.0	CO__45__A_c	(coenzyme A)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: PHOSACETYLTRANS-RXN</p>
+    <p>EC Number: 2.3.1.8</p>
+    <p>SUBSYSTEM: PWY0-1312, P142-PWY, PWY-5485, ACETATEUTIL-PWY</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS07630)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__16561	RXN-16561	(reversible: False) :
+		1.0	CO__45__A_c	(coenzyme A)	1.0	CPD__45__17815_c	((11Z)-3-oxo-hexadecenoyl-CoA)	|	1.0	ACETYL__45__COA_c	(acetyl-CoA)	1.0	CPD__45__17464_c	((9Z)-tetradecenoyl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-16561</p>
+    <p>EC Number: 2.3.1.155</p>
+    <p>GENE_ASSOCIATION: (Sfum_1403)</p>
+    <p>Confidence level: 0</p>
+  </body>
+</notes>
+	RXN__45__12710	RXN-12710	(reversible: True) :
+		1.0	CPD__45__13700_c	(3-oxo-4-pregnene-20-carboxyl-CoA)	1.0	ACETYL__45__COA_c	(acetyl-CoA)	|	1.0	CPD__45__13699_c	(3,22-dioxochol-4-en-24-oyl-CoA)	1.0	CO__45__A_c	(coenzyme A)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-12710</p>
+    <p>EC Number: 2.3.1.16</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS11785) or (SFUM_RS18500) or (SFUM_RS07285)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__16561	RXN-16561	(reversible: False) :
+		1.0	CO__45__A_c	(coenzyme A)	1.0	CPD__45__17815_c	((11Z)-3-oxo-hexadecenoyl-CoA)	|	1.0	ACETYL__45__COA_c	(acetyl-CoA)	1.0	CPD__45__17464_c	((9Z)-tetradecenoyl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-16561</p>
+    <p>EC Number: 2.3.1.155</p>
+    <p>GENE_ASSOCIATION: (Sfum_1403)</p>
+    <p>Confidence level: 0</p>
+  </body>
+</notes>
+	RXN__45__12565	RXN-12565	(reversible: True) :
+		1.0	BUTYRYL__45__COA_c	(butanoyl-CoA)	1.0	ACETYL__45__COA_c	(acetyl-CoA)	|	1.0	K__45__HEXANOYL__45__COA_c	(3-oxohexanoyl-CoA)	1.0	CO__45__A_c	(coenzyme A)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-12565</p>
+    <p>EC Number: 2.3.1.16</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS07285) or (SFUM_RS18500) or (SFUM_RS11785)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__16561	RXN-16561	(reversible: False) :
+		1.0	CO__45__A_c	(coenzyme A)	1.0	CPD__45__17815_c	((11Z)-3-oxo-hexadecenoyl-CoA)	|	1.0	ACETYL__45__COA_c	(acetyl-CoA)	1.0	CPD__45__17464_c	((9Z)-tetradecenoyl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-16561</p>
+    <p>EC Number: 2.3.1.155</p>
+    <p>GENE_ASSOCIATION: (Sfum_1403)</p>
+    <p>Confidence level: 0</p>
+  </body>
+</notes>
+	RXN__45__11246	RXN-11246	(reversible: True) :
+		1.0	CPD__45__201_c	(4-hydroxybenzoyl-CoA)	1.0	ACETYL__45__COA_c	(acetyl-CoA)	|	1.0	CPD__45__10600_c	(4-hydroxybenzoyl-acetyl-CoA)	1.0	CO__45__A_c	(coenzyme A)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-11246</p>
+    <p>EC Number: 2.3.1.16</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS11785) or (SFUM_RS18500) or (SFUM_RS07285)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__16561	RXN-16561	(reversible: False) :
+		1.0	CO__45__A_c	(coenzyme A)	1.0	CPD__45__17815_c	((11Z)-3-oxo-hexadecenoyl-CoA)	|	1.0	ACETYL__45__COA_c	(acetyl-CoA)	1.0	CPD__45__17464_c	((9Z)-tetradecenoyl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-16561</p>
+    <p>EC Number: 2.3.1.155</p>
+    <p>GENE_ASSOCIATION: (Sfum_1403)</p>
+    <p>Confidence level: 0</p>
+  </body>
+</notes>
+	RXN__45__10701	RXN-10701	(reversible: True) :
+		1.0	CPD__45__11529_c	((+)-7-epi-jasmonoyl-CoA)	1.0	ACETYL__45__COA_c	(acetyl-CoA)	|	1.0	CPD__45__11528_c	(3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-(3-oxobutanoyl)-CoA)	1.0	CO__45__A_c	(coenzyme A)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-10701</p>
+    <p>EC Number: 2.3.1.16</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS11785) or (SFUM_RS18500) or (SFUM_RS07285)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__16561	RXN-16561	(reversible: False) :
+		1.0	CO__45__A_c	(coenzyme A)	1.0	CPD__45__17815_c	((11Z)-3-oxo-hexadecenoyl-CoA)	|	1.0	ACETYL__45__COA_c	(acetyl-CoA)	1.0	CPD__45__17464_c	((9Z)-tetradecenoyl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-16561</p>
+    <p>EC Number: 2.3.1.155</p>
+    <p>GENE_ASSOCIATION: (Sfum_1403)</p>
+    <p>Confidence level: 0</p>
+  </body>
+</notes>
+	RXN__45__10700	RXN-10700	(reversible: True) :
+		1.0	CPD__45__11525_c	(3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-butanoyl-CoA)	1.0	ACETYL__45__COA_c	(acetyl-CoA)	|	1.0	CPD__45__11524_c	(3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-(3-oxohexanoyl)-CoA)	1.0	CO__45__A_c	(coenzyme A)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-10700</p>
+    <p>EC Number: 2.3.1.16</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS11785) or (SFUM_RS18500) or (SFUM_RS07285)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__16561	RXN-16561	(reversible: False) :
+		1.0	CO__45__A_c	(coenzyme A)	1.0	CPD__45__17815_c	((11Z)-3-oxo-hexadecenoyl-CoA)	|	1.0	ACETYL__45__COA_c	(acetyl-CoA)	1.0	CPD__45__17464_c	((9Z)-tetradecenoyl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-16561</p>
+    <p>EC Number: 2.3.1.155</p>
+    <p>GENE_ASSOCIATION: (Sfum_1403)</p>
+    <p>Confidence level: 0</p>
+  </body>
+</notes>
+	RXN__45__10699	RXN-10699	(reversible: True) :
+		1.0	CPD__45__11521_c	(3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-hexanoyl-CoA)	1.0	ACETYL__45__COA_c	(acetyl-CoA)	|	1.0	CPD__45__11520_c	(3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-(3-oxooctanoyl)-CoA)	1.0	CO__45__A_c	(coenzyme A)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-10699</p>
+    <p>EC Number: 2.3.1.16</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS11785) or (SFUM_RS18500) or (SFUM_RS07285)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__16561	RXN-16561	(reversible: False) :
+		1.0	CO__45__A_c	(coenzyme A)	1.0	CPD__45__17815_c	((11Z)-3-oxo-hexadecenoyl-CoA)	|	1.0	ACETYL__45__COA_c	(acetyl-CoA)	1.0	CPD__45__17464_c	((9Z)-tetradecenoyl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-16561</p>
+    <p>EC Number: 2.3.1.155</p>
+    <p>GENE_ASSOCIATION: (Sfum_1403)</p>
+    <p>Confidence level: 0</p>
+  </body>
+</notes>
+	RXN__45__14277	RXN-14277	(reversible: True) :
+		1.0	HEXANOYL__45__COA_c	(hexanoyl-CoA)	1.0	ACETYL__45__COA_c	(acetyl-CoA)	|	1.0	CPD0__45__2106_c	(3-oxooctanoyl-CoA)	1.0	CO__45__A_c	(coenzyme A)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-14277</p>
+    <p>EC Number: 2.3.1.16</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS07285) or (SFUM_RS18500) or (SFUM_RS11785)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__16561	RXN-16561	(reversible: False) :
+		1.0	CO__45__A_c	(coenzyme A)	1.0	CPD__45__17815_c	((11Z)-3-oxo-hexadecenoyl-CoA)	|	1.0	ACETYL__45__COA_c	(acetyl-CoA)	1.0	CPD__45__17464_c	((9Z)-tetradecenoyl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-16561</p>
+    <p>EC Number: 2.3.1.155</p>
+    <p>GENE_ASSOCIATION: (Sfum_1403)</p>
+    <p>Confidence level: 0</p>
+  </body>
+</notes>
+	RXN__45__14274	RXN-14274	(reversible: True) :
+		1.0	CPD__45__10267_c	(decanoyl-CoA)	1.0	ACETYL__45__COA_c	(acetyl-CoA)	|	1.0	CPD0__45__2105_c	(3-oxododecanoyl-CoA)	1.0	CO__45__A_c	(coenzyme A)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-14274</p>
+    <p>EC Number: 2.3.1.16</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS07285) or (SFUM_RS18500) or (SFUM_RS11785)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__16561	RXN-16561	(reversible: False) :
+		1.0	CO__45__A_c	(coenzyme A)	1.0	CPD__45__17815_c	((11Z)-3-oxo-hexadecenoyl-CoA)	|	1.0	ACETYL__45__COA_c	(acetyl-CoA)	1.0	CPD__45__17464_c	((9Z)-tetradecenoyl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-16561</p>
+    <p>EC Number: 2.3.1.155</p>
+    <p>GENE_ASSOCIATION: (Sfum_1403)</p>
+    <p>Confidence level: 0</p>
+  </body>
+</notes>
+	RXN__45__13617	RXN-13617	(reversible: True) :
+		1.0	CPD__45__196_c	(octanoyl-CoA)	1.0	ACETYL__45__COA_c	(acetyl-CoA)	|	1.0	CPD0__45__2123_c	(3-oxodecanoyl-CoA)	1.0	CO__45__A_c	(coenzyme A)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-13617</p>
+    <p>EC Number: 2.3.1.16</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS07285) or (SFUM_RS18500) or (SFUM_RS11785)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__16561	RXN-16561	(reversible: False) :
+		1.0	CO__45__A_c	(coenzyme A)	1.0	CPD__45__17815_c	((11Z)-3-oxo-hexadecenoyl-CoA)	|	1.0	ACETYL__45__COA_c	(acetyl-CoA)	1.0	CPD__45__17464_c	((9Z)-tetradecenoyl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-16561</p>
+    <p>EC Number: 2.3.1.155</p>
+    <p>GENE_ASSOCIATION: (Sfum_1403)</p>
+    <p>Confidence level: 0</p>
+  </body>
+</notes>
+	RXN__45__15943	RXN-15943	(reversible: True) :
+		1.0	DIHYDROXY__45__ACETONE__45__PHOSPHATE_c	(glycerone phosphate)	1.0	ACETYL__45__COA_c	(acetyl-CoA)	|	1.0	CPD0__45__2467_c	(3-hydroxy-5-phosphooxypentane-2,4-dione)	1.0	CO__45__A_c	(coenzyme A)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-15943</p>
+    <p>EC Number: 2.3.1.245</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS12725)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	NITRIC__45__OXIDE__45__SYNTHASE__45__RXN	NITRIC-OXIDE-SYNTHASE-RXN	(reversible: False) :
+		2.0	ARG_c	(L-arginine)	3.0	NADPH_c	(NADPH)	1.0	PROTON_c	(H+)	4.0	OXYGEN__45__MOLECULE_c	(oxygen)	|	2.0	L__45__CITRULLINE_c	(L-citrulline)	2.0	NITRIC__45__OXIDE_c	(nitric oxide)	3.0	NADP_c	(NADP+)	4.0	WATER_c	(H2O)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: NITRIC-OXIDE-SYNTHASE-RXN</p>
+    <p>EC Number: 1.14.13.39</p>
+    <p>GENE_ASSOCIATION: (Sfum_0340) or (Sfum_3253)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	RXN1F__45__20	RXN1F-20	(reversible: False) :
+		1.0	ATP_c	(ATP)	1.0	PROTOPORPHYRIN_IX_c	(protoporphyrin IX)	1.0	MG__43__2_c	(Mg2+)	1.0	WATER_c	(H2O)	|	3.0	PROTON_c	(H+)	1.0	MG__45__PROTOPORPHYRIN_c	(Mg-protoporphyrin)	1.0	Pi_c	(phosphate)	1.0	ADP_c	(ADP)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN1F-20</p>
+    <p>EC Number: 6.6.1.1</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS02560) or (SFUM_RS02565)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	NITRIC__45__OXIDE__45__SYNTHASE__45__RXN	NITRIC-OXIDE-SYNTHASE-RXN	(reversible: False) :
+		2.0	ARG_c	(L-arginine)	3.0	NADPH_c	(NADPH)	1.0	PROTON_c	(H+)	4.0	OXYGEN__45__MOLECULE_c	(oxygen)	|	2.0	L__45__CITRULLINE_c	(L-citrulline)	2.0	NITRIC__45__OXIDE_c	(nitric oxide)	3.0	NADP_c	(NADP+)	4.0	WATER_c	(H2O)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: NITRIC-OXIDE-SYNTHASE-RXN</p>
+    <p>EC Number: 1.14.13.39</p>
+    <p>GENE_ASSOCIATION: (Sfum_0340) or (Sfum_3253)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	R342__45__RXN	R342-RXN	(reversible: False) :
+		1.0	CPD__45__688_c	(hydrogenobyrinate a,c-diamide)	1.0	CO__43__2_c	(Co2+)	1.0	ATP_c	(ATP)	1.0	WATER_c	(H2O)	|	3.0	PROTON_c	(H+)	1.0	CPD__45__689_c	(cob(II)yrinate a,c-diamide)	1.0	ADP_c	(ADP)	1.0	Pi_c	(phosphate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: R342-RXN</p>
+    <p>EC Number: 6.6.1.2</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS02555)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	_3__46__4__46__11__46__18__45__RXN	3.4.11.18-RXN	(reversible: False) :
+		1.0	Protein__45__With__45__N__45__Terminal__45__Met_c	(a peptide with an N-terminal L-methionine)	1.0	WATER_c	(H2O)	|	1.0	MET_c	(L-methionine)	1.0	Peptides__45__holder_c	(a peptide)	1.0	PROTON_c	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 3.4.11.18-RXN</p>
+    <p>EC Number: 3.4.11.18</p>
+    <p>GENE_ASSOCIATION: (Sfum_1577)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	IGPSYN__45__RXN	IGPSYN-RXN	(reversible: False) :
+		1.0	PROTON_c	(H+)	1.0	CARBOXYPHENYLAMINO__45__DEOXYRIBULOSE__45__P_c	(1-(o-carboxyphenylamino)-1'-deoxyribulose 5'-phosphate)	|	1.0	INDOLE__45__3__45__GLYCEROL__45__P_c	((1S,2R)-1-C-(indol-3-yl)glycerol 3-phosphate)	1.0	CARBON__45__DIOXIDE_c	(CO2)	1.0	WATER_c	(H2O)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: IGPSYN-RXN</p>
+    <p>EC Number: 4.1.1.48</p>
+    <p>SUBSYSTEM: TRPSYN-PWY</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS09165)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	_3__46__4__46__11__46__18__45__RXN	3.4.11.18-RXN	(reversible: False) :
+		1.0	Protein__45__With__45__N__45__Terminal__45__Met_c	(a peptide with an N-terminal L-methionine)	1.0	WATER_c	(H2O)	|	1.0	MET_c	(L-methionine)	1.0	Peptides__45__holder_c	(a peptide)	1.0	PROTON_c	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 3.4.11.18-RXN</p>
+    <p>EC Number: 3.4.11.18</p>
+    <p>GENE_ASSOCIATION: (Sfum_1577)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	PREPHENATEDEHYDRAT__45__RXN	PREPHENATEDEHYDRAT-RXN	(reversible: True) :
+		1.0	PROTON_c	(H+)	1.0	PREPHENATE_c	(prephenate)	|	1.0	PHENYL__45__PYRUVATE_c	(keto-phenylpyruvate)	1.0	WATER_c	(H2O)	1.0	CARBON__45__DIOXIDE_c	(CO2)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: PREPHENATEDEHYDRAT-RXN</p>
+    <p>EC Number: 4.2.1.51</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS14115)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	TRANS__45__RXN__45__157__45__Hpr__45__pi__45__phospho__45__L__45__histidines__47__ALPHA__45__GLUCOSE__47____47__GLC__45__6__45__P__47__Hpr__45__Histidine__46__65__46__	TRANS-RXN-157-Hpr-pi-phospho-L-histidines/ALPHA-GLUCOSE//GLC-6-P/Hpr-Histidine.65.	(reversible: False) :
+		1.0	Hpr__45__pi__45__phospho__45__L__45__histidines_CCO__45__IN	(an [HPr protein]-Npi-phospho-L-histidine)	1.0	ALPHA__45__GLUCOSE_CCO__45__OUT	(alpha-D-glucopyranose)	|	1.0	GLC__45__6__45__P_CCO__45__IN	(beta-D-glucose 6-phosphate)	1.0	Hpr__45__Histidine_CCO__45__IN	(an [HPr]-L-histidine)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: TRANS-RXN-157</p>
+    <p>EC Number: 2.7.1.199</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	RXN__45__17355	RXN-17355	(reversible: False) :
+		1.0	PTS__45__I__45__pi__45__phospho__45__L__45__histidines_c	(a [PTS enzyme I]-Npi-phospho-L-histidine)	1.0	Hpr__45__Histidine_c	(an [HPr]-L-histidine)	|	1.0	PTS__45__I__45__Histidines_c	(a [PTS enzyme I]-L-histidine)	1.0	Hpr__45__pi__45__phospho__45__L__45__histidines_c	(an [HPr protein]-Npi-phospho-L-histidine)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-17355</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS04015)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	TRANS__45__RXN__45__157__45__Hpr__45__pi__45__phospho__45__L__45__histidines__47__ALPHA__45__GLUCOSE__47____47__GLC__45__6__45__P__47__Hpr__45__Histidine__46__65__46__	TRANS-RXN-157-Hpr-pi-phospho-L-histidines/ALPHA-GLUCOSE//GLC-6-P/Hpr-Histidine.65.	(reversible: False) :
+		1.0	Hpr__45__pi__45__phospho__45__L__45__histidines_CCO__45__IN	(an [HPr protein]-Npi-phospho-L-histidine)	1.0	ALPHA__45__GLUCOSE_CCO__45__OUT	(alpha-D-glucopyranose)	|	1.0	GLC__45__6__45__P_CCO__45__IN	(beta-D-glucose 6-phosphate)	1.0	Hpr__45__Histidine_CCO__45__IN	(an [HPr]-L-histidine)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: TRANS-RXN-157</p>
+    <p>EC Number: 2.7.1.199</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	_2__46__7__46__3__46__9__45__RXN	2.7.3.9-RXN	(reversible: False) :
+		1.0	PHOSPHO__45__ENOL__45__PYRUVATE_c	(phosphoenolpyruvate)	1.0	Hpr__45__Histidine_c	(an [HPr]-L-histidine)	|	1.0	PYRUVATE_c	(pyruvate)	1.0	Hpr__45__pi__45__phospho__45__L__45__histidines_c	(an [HPr protein]-Npi-phospho-L-histidine)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 2.7.3.9-RXN</p>
+    <p>EC Number: 2.7.3.9</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS04015)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__15007	RXN-15007	(reversible: True) :
+		1.0	LysW__45__L__45__ornithine_c	(a [2-aminoadipate carrier protein]-L-ornithine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	|	1.0	GLT_c	(L-glutamate)	1.0	LysW__45__L__45__glutamate__45__5__45__semialdehyde_c	(a [2-aminoadipate carrier protein]-L-glutamate 5-semialdehyde)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-15007</p>
+    <p>EC Number: 2.6.1.11</p>
+    <p>GENE_ASSOCIATION: (Sfum_0063)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	PSERTRANSAMPYR__45__RXN	PSERTRANSAMPYR-RXN	(reversible: True) :
+		1.0	_3OH__45__4P__45__OH__45__ALPHA__45__KETOBUTYRATE_c	((3R)-3-hydroxy-2-oxo-4 phosphooxybutanoate)	1.0	GLT_c	(L-glutamate)	|	1.0	_4__45__PHOSPHONOOXY__45__THREONINE_c	(4-phosphooxy-L-threonine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: PSERTRANSAMPYR-RXN</p>
+    <p>EC Number: 2.6.1.52</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS10785)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__15007	RXN-15007	(reversible: True) :
+		1.0	LysW__45__L__45__ornithine_c	(a [2-aminoadipate carrier protein]-L-ornithine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	|	1.0	GLT_c	(L-glutamate)	1.0	LysW__45__L__45__glutamate__45__5__45__semialdehyde_c	(a [2-aminoadipate carrier protein]-L-glutamate 5-semialdehyde)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-15007</p>
+    <p>EC Number: 2.6.1.11</p>
+    <p>GENE_ASSOCIATION: (Sfum_0063)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	BRANCHED__45__CHAINAMINOTRANSFERVAL__45__RXN	BRANCHED-CHAINAMINOTRANSFERVAL-RXN	(reversible: False) :
+		1.0	GLT_c	(L-glutamate)	1.0	_2__45__KETO__45__ISOVALERATE_c	(3-methyl-2-oxobutanoate)	|	1.0	VAL_c	(L-valine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: BRANCHED-CHAINAMINOTRANSFERVAL-RXN</p>
+    <p>EC Number: 2.6.1.42</p>
+    <p>SUBSYSTEM: VALSYN-PWY, BRANCHED-CHAIN-AA-SYN-PWY</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS16025)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__15007	RXN-15007	(reversible: True) :
+		1.0	LysW__45__L__45__ornithine_c	(a [2-aminoadipate carrier protein]-L-ornithine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	|	1.0	GLT_c	(L-glutamate)	1.0	LysW__45__L__45__glutamate__45__5__45__semialdehyde_c	(a [2-aminoadipate carrier protein]-L-glutamate 5-semialdehyde)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-15007</p>
+    <p>EC Number: 2.6.1.11</p>
+    <p>GENE_ASSOCIATION: (Sfum_0063)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	BRANCHED__45__CHAINAMINOTRANSFERLEU__45__RXN	BRANCHED-CHAINAMINOTRANSFERLEU-RXN	(reversible: False) :
+		1.0	GLT_c	(L-glutamate)	1.0	_2K__45__4CH3__45__PENTANOATE_c	(4-methyl-2-oxopentanoate)	|	1.0	LEU_c	(L-leucine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: BRANCHED-CHAINAMINOTRANSFERLEU-RXN</p>
+    <p>EC Number: 2.6.1.6/2.6.1.42</p>
+    <p>SUBSYSTEM: LEUSYN-PWY, BRANCHED-CHAIN-AA-SYN-PWY</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS16025)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__15007	RXN-15007	(reversible: True) :
+		1.0	LysW__45__L__45__ornithine_c	(a [2-aminoadipate carrier protein]-L-ornithine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	|	1.0	GLT_c	(L-glutamate)	1.0	LysW__45__L__45__glutamate__45__5__45__semialdehyde_c	(a [2-aminoadipate carrier protein]-L-glutamate 5-semialdehyde)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-15007</p>
+    <p>EC Number: 2.6.1.11</p>
+    <p>GENE_ASSOCIATION: (Sfum_0063)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	BRANCHED__45__CHAINAMINOTRANSFERILEU__45__RXN	BRANCHED-CHAINAMINOTRANSFERILEU-RXN	(reversible: False) :
+		1.0	GLT_c	(L-glutamate)	1.0	_2__45__KETO__45__3__45__METHYL__45__VALERATE_c	((S)-3-methyl-2-oxopentanoate)	|	1.0	ILE_c	(L-isoleucine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: BRANCHED-CHAINAMINOTRANSFERILEU-RXN</p>
+    <p>EC Number: 2.6.1.42</p>
+    <p>SUBSYSTEM: ILEUSYN-PWY, BRANCHED-CHAIN-AA-SYN-PWY</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS16025)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__15007	RXN-15007	(reversible: True) :
+		1.0	LysW__45__L__45__ornithine_c	(a [2-aminoadipate carrier protein]-L-ornithine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	|	1.0	GLT_c	(L-glutamate)	1.0	LysW__45__L__45__glutamate__45__5__45__semialdehyde_c	(a [2-aminoadipate carrier protein]-L-glutamate 5-semialdehyde)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-15007</p>
+    <p>EC Number: 2.6.1.11</p>
+    <p>GENE_ASSOCIATION: (Sfum_0063)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	ACETYLORNTRANSAM__45__RXN	ACETYLORNTRANSAM-RXN	(reversible: False) :
+		1.0	GLT_c	(L-glutamate)	1.0	CPD__45__469_c	(N-acetyl-L-glutamate 5-semialdehyde)	|	1.0	N__45__ALPHA__45__ACETYLORNITHINE_c	(N-acetyl-L-ornithine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: ACETYLORNTRANSAM-RXN</p>
+    <p>EC Number: 2.6.1.11</p>
+    <p>SUBSYSTEM: ARGSYNBSUB-PWY</p>
+    <p>Confidence level: 0</p>
+  </body>
+</notes>
+
+	RXN0__45__7008	RXN0-7008	(reversible: False) :
+		1.0	Ubiquinones_c	(a ubiquinone)	1.0	PRO_CCO__45__IN	(L-proline)	|	1.0	Ubiquinols_c	(an ubiquinol)	1.0	PROTON_CCO__45__IN	(H+)	1.0	L__45__DELTA1__45__PYRROLINE_5__45__CARBOXYLATE_CCO__45__IN	((S)-1-pyrroline-5-carboxylate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN0-7008</p>
+    <p>EC Number: 1.5.5.2</p>
+    <p>GENE_ASSOCIATION: (Sfum_0833)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	RXN__45__18584	RXN-18584	(reversible: False) :
+		2.0	Oxidized__45__NapC__45__proteins_CCO__45__OUT	(an oxidized [NapC protein])	1.0	Ubiquinols_c	(an ubiquinol)	|	1.0	Ubiquinones_c	(a ubiquinone)	2.0	PROTON_CCO__45__OUT	(H+)	2.0	Reduced__45__NapC__45__proteins_CCO__45__OUT	(a reduced [NapC protein])	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-18584</p>
+    <p>EC Number: 1.10.2.2</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS21250)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN0__45__7008	RXN0-7008	(reversible: False) :
+		1.0	Ubiquinones_c	(a ubiquinone)	1.0	PRO_CCO__45__IN	(L-proline)	|	1.0	Ubiquinols_c	(an ubiquinol)	1.0	PROTON_CCO__45__IN	(H+)	1.0	L__45__DELTA1__45__PYRROLINE_5__45__CARBOXYLATE_CCO__45__IN	((S)-1-pyrroline-5-carboxylate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN0-7008</p>
+    <p>EC Number: 1.5.5.2</p>
+    <p>GENE_ASSOCIATION: (Sfum_0833)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	RXN__45__18580	RXN-18580	(reversible: False) :
+		1.0	Ubiquinols_c	(an ubiquinol)	2.0	Cytochromes__45__C__45__Oxidized_CCO__45__OUT	(an oxidized c-type cytochrome)	|	2.0	PROTON_CCO__45__OUT	(H+)	1.0	Ubiquinones_c	(a ubiquinone)	2.0	Cytochromes__45__C__45__Reduced_CCO__45__OUT	(a reduced c-type cytochrome)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-18580</p>
+    <p>EC Number: 1.10.2.2</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS21250)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN0__45__7008	RXN0-7008	(reversible: False) :
+		1.0	Ubiquinones_c	(a ubiquinone)	1.0	PRO_CCO__45__IN	(L-proline)	|	1.0	Ubiquinols_c	(an ubiquinol)	1.0	PROTON_CCO__45__IN	(H+)	1.0	L__45__DELTA1__45__PYRROLINE_5__45__CARBOXYLATE_CCO__45__IN	((S)-1-pyrroline-5-carboxylate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN0-7008</p>
+    <p>EC Number: 1.5.5.2</p>
+    <p>GENE_ASSOCIATION: (Sfum_0833)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	_1__46__10__46__2__46__2__45__RXN	1.10.2.2-RXN	(reversible: False) :
+		1.0	Ubiquinols_c	(an ubiquinol)	2.0	Cytochromes__45__C__45__Oxidized_CCO__45__OUT	(an oxidized c-type cytochrome)	|	2.0	PROTON_CCO__45__OUT	(H+)	1.0	Ubiquinones_c	(a ubiquinone)	2.0	Cytochromes__45__C__45__Reduced_CCO__45__OUT	(a reduced c-type cytochrome)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 1.10.2.2-RXN</p>
+    <p>EC Number: 1.10.2.2</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS21250)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN0__45__17	RXN0-17	(reversible: False) :
+		1.0	NACMUR_CCO__45__OUT	(N-acetyl-D-muramate)	1.0	Hpr__45__pi__45__phospho__45__L__45__histidines_CCO__45__IN	(an [HPr protein]-Npi-phospho-L-histidine)	|	1.0	CPD0__45__881_CCO__45__IN	(N-acetyl-D-muramate 6-phosphate)	1.0	Hpr__45__Histidine_CCO__45__IN	(an [HPr]-L-histidine)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN0-17</p>
+    <p>EC Number: 2.7.1.192</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	RXN__45__17355	RXN-17355	(reversible: False) :
+		1.0	PTS__45__I__45__pi__45__phospho__45__L__45__histidines_c	(a [PTS enzyme I]-Npi-phospho-L-histidine)	1.0	Hpr__45__Histidine_c	(an [HPr]-L-histidine)	|	1.0	PTS__45__I__45__Histidines_c	(a [PTS enzyme I]-L-histidine)	1.0	Hpr__45__pi__45__phospho__45__L__45__histidines_c	(an [HPr protein]-Npi-phospho-L-histidine)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-17355</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS04015)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN0__45__17	RXN0-17	(reversible: False) :
+		1.0	NACMUR_CCO__45__OUT	(N-acetyl-D-muramate)	1.0	Hpr__45__pi__45__phospho__45__L__45__histidines_CCO__45__IN	(an [HPr protein]-Npi-phospho-L-histidine)	|	1.0	CPD0__45__881_CCO__45__IN	(N-acetyl-D-muramate 6-phosphate)	1.0	Hpr__45__Histidine_CCO__45__IN	(an [HPr]-L-histidine)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN0-17</p>
+    <p>EC Number: 2.7.1.192</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	_2__46__7__46__3__46__9__45__RXN	2.7.3.9-RXN	(reversible: False) :
+		1.0	PHOSPHO__45__ENOL__45__PYRUVATE_c	(phosphoenolpyruvate)	1.0	Hpr__45__Histidine_c	(an [HPr]-L-histidine)	|	1.0	PYRUVATE_c	(pyruvate)	1.0	Hpr__45__pi__45__phospho__45__L__45__histidines_c	(an [HPr protein]-Npi-phospho-L-histidine)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 2.7.3.9-RXN</p>
+    <p>EC Number: 2.7.3.9</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS04015)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	TRANS__45__RXN__45__157__45__Hpr__45__pi__45__phospho__45__L__45__histidines__47__GLC__47____47__GLC__45__6__45__P__47__Hpr__45__Histidine__46__55__46__	TRANS-RXN-157-Hpr-pi-phospho-L-histidines/GLC//GLC-6-P/Hpr-Histidine.55.	(reversible: False) :
+		1.0	Hpr__45__pi__45__phospho__45__L__45__histidines_CCO__45__IN	(an [HPr protein]-Npi-phospho-L-histidine)	1.0	GLC_CCO__45__OUT	(beta-D-glucopyranose)	|	1.0	GLC__45__6__45__P_CCO__45__IN	(beta-D-glucose 6-phosphate)	1.0	Hpr__45__Histidine_CCO__45__IN	(an [HPr]-L-histidine)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: TRANS-RXN-157</p>
+    <p>EC Number: 2.7.1.199</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	RXN__45__17355	RXN-17355	(reversible: False) :
+		1.0	PTS__45__I__45__pi__45__phospho__45__L__45__histidines_c	(a [PTS enzyme I]-Npi-phospho-L-histidine)	1.0	Hpr__45__Histidine_c	(an [HPr]-L-histidine)	|	1.0	PTS__45__I__45__Histidines_c	(a [PTS enzyme I]-L-histidine)	1.0	Hpr__45__pi__45__phospho__45__L__45__histidines_c	(an [HPr protein]-Npi-phospho-L-histidine)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-17355</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS04015)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	TRANS__45__RXN__45__157__45__Hpr__45__pi__45__phospho__45__L__45__histidines__47__GLC__47____47__GLC__45__6__45__P__47__Hpr__45__Histidine__46__55__46__	TRANS-RXN-157-Hpr-pi-phospho-L-histidines/GLC//GLC-6-P/Hpr-Histidine.55.	(reversible: False) :
+		1.0	Hpr__45__pi__45__phospho__45__L__45__histidines_CCO__45__IN	(an [HPr protein]-Npi-phospho-L-histidine)	1.0	GLC_CCO__45__OUT	(beta-D-glucopyranose)	|	1.0	GLC__45__6__45__P_CCO__45__IN	(beta-D-glucose 6-phosphate)	1.0	Hpr__45__Histidine_CCO__45__IN	(an [HPr]-L-histidine)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: TRANS-RXN-157</p>
+    <p>EC Number: 2.7.1.199</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	_2__46__7__46__3__46__9__45__RXN	2.7.3.9-RXN	(reversible: False) :
+		1.0	PHOSPHO__45__ENOL__45__PYRUVATE_c	(phosphoenolpyruvate)	1.0	Hpr__45__Histidine_c	(an [HPr]-L-histidine)	|	1.0	PYRUVATE_c	(pyruvate)	1.0	Hpr__45__pi__45__phospho__45__L__45__histidines_c	(an [HPr protein]-Npi-phospho-L-histidine)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 2.7.3.9-RXN</p>
+    <p>EC Number: 2.7.3.9</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS04015)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	BETA__45__LACTAMASE__45__RXN	BETA-LACTAMASE-RXN	(reversible: False) :
+		1.0	WATER_c	(H2O)	1.0	Beta__45__Lactams_c	(a beta-lactam)	|	1.0	CPD__45__8550_c	(a substituted beta-amino acid)	1.0	PROTON_c	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: BETA-LACTAMASE-RXN</p>
+    <p>EC Number: 3.5.2.6</p>
+    <p>GENE_ASSOCIATION: (Sfum_3579) or (Sfum_0469) or (Sfum_4089) or (Sfum_0513) or (Sfum_0547) or (Sfum_0674) or (Sfum_1138) or (Sfum_1236) or (Sfum_1400) or (Sfum_1597) or (Sfum_1656) or (Sfum_1732) or (Sfum_1856) or (Sfum_1958) or (Sfum_2018) or (Sfum_2078)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	DIHYDROOROT__45__RXN	DIHYDROOROT-RXN	(reversible: False) :
+		1.0	PROTON_c	(H+)	1.0	CARBAMYUL__45__L__45__ASPARTATE_c	(N-carbamoyl-L-aspartate)	|	1.0	DI__45__H__45__OROTATE_c	((S)-dihydroorotate)	1.0	WATER_c	(H2O)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: DIHYDROOROT-RXN</p>
+    <p>EC Number: 3.5.2.3</p>
+    <p>SUBSYSTEM: PWY-7791</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS10820)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	TRANS__45__RXN__45__155B	TRANS-RXN-155B	(reversible: False) :
+		1.0	Hpr__45__pi__45__phospho__45__L__45__histidines_CCO__45__IN	(an [HPr protein]-Npi-phospho-L-histidine)	1.0	CHITOBIOSE_CCO__45__OUT	(N,N'-diacetylchitobiose)	|	1.0	DIACETYLCHITOBIOSE__45__6__45__PHOSPHATE_CCO__45__IN	(N,N'-diacetylchitobiose 6'-phosphate)	1.0	Hpr__45__Histidine_CCO__45__IN	(an [HPr]-L-histidine)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: TRANS-RXN-155B</p>
+    <p>EC Number: 2.7.1.196</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	RXN__45__17355	RXN-17355	(reversible: False) :
+		1.0	PTS__45__I__45__pi__45__phospho__45__L__45__histidines_c	(a [PTS enzyme I]-Npi-phospho-L-histidine)	1.0	Hpr__45__Histidine_c	(an [HPr]-L-histidine)	|	1.0	PTS__45__I__45__Histidines_c	(a [PTS enzyme I]-L-histidine)	1.0	Hpr__45__pi__45__phospho__45__L__45__histidines_c	(an [HPr protein]-Npi-phospho-L-histidine)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-17355</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS04015)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	TRANS__45__RXN__45__155B	TRANS-RXN-155B	(reversible: False) :
+		1.0	Hpr__45__pi__45__phospho__45__L__45__histidines_CCO__45__IN	(an [HPr protein]-Npi-phospho-L-histidine)	1.0	CHITOBIOSE_CCO__45__OUT	(N,N'-diacetylchitobiose)	|	1.0	DIACETYLCHITOBIOSE__45__6__45__PHOSPHATE_CCO__45__IN	(N,N'-diacetylchitobiose 6'-phosphate)	1.0	Hpr__45__Histidine_CCO__45__IN	(an [HPr]-L-histidine)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: TRANS-RXN-155B</p>
+    <p>EC Number: 2.7.1.196</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	_2__46__7__46__3__46__9__45__RXN	2.7.3.9-RXN	(reversible: False) :
+		1.0	PHOSPHO__45__ENOL__45__PYRUVATE_c	(phosphoenolpyruvate)	1.0	Hpr__45__Histidine_c	(an [HPr]-L-histidine)	|	1.0	PYRUVATE_c	(pyruvate)	1.0	Hpr__45__pi__45__phospho__45__L__45__histidines_c	(an [HPr protein]-Npi-phospho-L-histidine)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 2.7.3.9-RXN</p>
+    <p>EC Number: 2.7.3.9</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS04015)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	R11__45__RXN	R11-RXN	(reversible: True) :
+		1.0	BUTYRYL__45__COA_c	(butanoyl-CoA)	1.0	ACET_c	(acetate)	|	1.0	BUTYRIC_ACID_c	(butanoate)	1.0	ACETYL__45__COA_c	(acetyl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: R11-RXN</p>
+    <p>EC Number: 2.8.3.1/2.8.3.8</p>
+    <p>GENE_ASSOCIATION: (Sfum_3933) or (Sfum_2291)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	RXN__45__1082	RXN-1082	(reversible: True) :
+		1.0	ACETYL__45__COA_c	(acetyl-CoA)	1.0	R__45__2__45__HYDROXYGLUTARATE_c	((R)-2-hydroxyglutarate)	|	1.0	ACET_c	(acetate)	1.0	_2__45__HYDROXYGLUTARYL__45__COA_c	((R)-2-hydroxyglutaryl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-1082</p>
+    <p>EC Number: 2.8.3.12</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS19280) or (SFUM_RS04205) or (SFUM_RS04210) or (SFUM_RS05905)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	R11__45__RXN	R11-RXN	(reversible: True) :
+		1.0	BUTYRYL__45__COA_c	(butanoyl-CoA)	1.0	ACET_c	(acetate)	|	1.0	BUTYRIC_ACID_c	(butanoate)	1.0	ACETYL__45__COA_c	(acetyl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: R11-RXN</p>
+    <p>EC Number: 2.8.3.1/2.8.3.8</p>
+    <p>GENE_ASSOCIATION: (Sfum_3933) or (Sfum_2291)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	GLUTACONATE__45__COA__45__TRANSFERASE__45__RXN	GLUTACONATE-COA-TRANSFERASE-RXN	(reversible: True) :
+		1.0	ACETYL__45__COA_c	(acetyl-CoA)	1.0	GLUTACONATE_c	((E)-glutaconate)	|	1.0	ACET_c	(acetate)	1.0	GLUTACONYL__45__COA_c	((E)-glutaconyl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: GLUTACONATE-COA-TRANSFERASE-RXN</p>
+    <p>EC Number: 2.8.3.12</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS19280) or (SFUM_RS04205) or (SFUM_RS04210) or (SFUM_RS05905)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	R11__45__RXN	R11-RXN	(reversible: True) :
+		1.0	BUTYRYL__45__COA_c	(butanoyl-CoA)	1.0	ACET_c	(acetate)	|	1.0	BUTYRIC_ACID_c	(butanoate)	1.0	ACETYL__45__COA_c	(acetyl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: R11-RXN</p>
+    <p>EC Number: 2.8.3.1/2.8.3.8</p>
+    <p>GENE_ASSOCIATION: (Sfum_3933) or (Sfum_2291)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	ACETOACETYL__45__COA__45__TRANSFER__45__RXN	ACETOACETYL-COA-TRANSFER-RXN	(reversible: False) :
+		1.0	ACETYL__45__COA_c	(acetyl-CoA)	1.0	_3__45__KETOBUTYRATE_c	(acetoacetate)	|	1.0	ACET_c	(acetate)	1.0	ACETOACETYL__45__COA_c	(acetoacetyl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: ACETOACETYL-COA-TRANSFER-RXN</p>
+    <p>EC Number: 2.8.3.9</p>
+    <p>SUBSYSTEM: ACETOACETATE-DEG-PWY</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS11850)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__9550	RXN-9550	(reversible: False) :
+		1.0	Palmitoleoyl__45__ACPs_c	(a palmitoleoyl-[acp])	1.0	WATER_c	(H2O)	|	1.0	CPD__45__9245_c	(palmitoleate)	1.0	ACP_c	(a holo-[acyl-carrier protein])	1.0	PROTON_c	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-9550</p>
+    <p>EC Number: 3.1.2.14</p>
+    <p>SUBSYSTEM: PWY-6282</p>
+    <p>Confidence level: 0</p>
+  </body>
+</notes>
+	IGPSYN__45__RXN	IGPSYN-RXN	(reversible: False) :
+		1.0	PROTON_c	(H+)	1.0	CARBOXYPHENYLAMINO__45__DEOXYRIBULOSE__45__P_c	(1-(o-carboxyphenylamino)-1'-deoxyribulose 5'-phosphate)	|	1.0	INDOLE__45__3__45__GLYCEROL__45__P_c	((1S,2R)-1-C-(indol-3-yl)glycerol 3-phosphate)	1.0	CARBON__45__DIOXIDE_c	(CO2)	1.0	WATER_c	(H2O)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: IGPSYN-RXN</p>
+    <p>EC Number: 4.1.1.48</p>
+    <p>SUBSYSTEM: TRPSYN-PWY</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS09165)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__9550	RXN-9550	(reversible: False) :
+		1.0	Palmitoleoyl__45__ACPs_c	(a palmitoleoyl-[acp])	1.0	WATER_c	(H2O)	|	1.0	CPD__45__9245_c	(palmitoleate)	1.0	ACP_c	(a holo-[acyl-carrier protein])	1.0	PROTON_c	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-9550</p>
+    <p>EC Number: 3.1.2.14</p>
+    <p>SUBSYSTEM: PWY-6282</p>
+    <p>Confidence level: 0</p>
+  </body>
+</notes>
+	PREPHENATEDEHYDRAT__45__RXN	PREPHENATEDEHYDRAT-RXN	(reversible: True) :
+		1.0	PROTON_c	(H+)	1.0	PREPHENATE_c	(prephenate)	|	1.0	PHENYL__45__PYRUVATE_c	(keto-phenylpyruvate)	1.0	WATER_c	(H2O)	1.0	CARBON__45__DIOXIDE_c	(CO2)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: PREPHENATEDEHYDRAT-RXN</p>
+    <p>EC Number: 4.2.1.51</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS14115)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	TRANS__45__RXN__45__167A__45__Hpr__45__pi__45__phospho__45__L__45__histidines__47__GLUCOSAMINE__47____47__CPD__45__13469__47__Hpr__45__Histidine__46__65__46__	TRANS-RXN-167A-Hpr-pi-phospho-L-histidines/GLUCOSAMINE//CPD-13469/Hpr-Histidine.65.	(reversible: False) :
+		1.0	Hpr__45__pi__45__phospho__45__L__45__histidines_CCO__45__IN	(an [HPr protein]-Npi-phospho-L-histidine)	1.0	GLUCOSAMINE_CCO__45__OUT	(D-glucosamine)	|	1.0	CPD__45__13469_CCO__45__IN	(alpha-D-glucosamine 6-phosphate)	1.0	Hpr__45__Histidine_CCO__45__IN	(an [HPr]-L-histidine)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: TRANS-RXN-167A</p>
+    <p>EC Number: 2.7.1.191</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	RXN__45__17355	RXN-17355	(reversible: False) :
+		1.0	PTS__45__I__45__pi__45__phospho__45__L__45__histidines_c	(a [PTS enzyme I]-Npi-phospho-L-histidine)	1.0	Hpr__45__Histidine_c	(an [HPr]-L-histidine)	|	1.0	PTS__45__I__45__Histidines_c	(a [PTS enzyme I]-L-histidine)	1.0	Hpr__45__pi__45__phospho__45__L__45__histidines_c	(an [HPr protein]-Npi-phospho-L-histidine)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-17355</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS04015)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	TRANS__45__RXN__45__167A__45__Hpr__45__pi__45__phospho__45__L__45__histidines__47__GLUCOSAMINE__47____47__CPD__45__13469__47__Hpr__45__Histidine__46__65__46__	TRANS-RXN-167A-Hpr-pi-phospho-L-histidines/GLUCOSAMINE//CPD-13469/Hpr-Histidine.65.	(reversible: False) :
+		1.0	Hpr__45__pi__45__phospho__45__L__45__histidines_CCO__45__IN	(an [HPr protein]-Npi-phospho-L-histidine)	1.0	GLUCOSAMINE_CCO__45__OUT	(D-glucosamine)	|	1.0	CPD__45__13469_CCO__45__IN	(alpha-D-glucosamine 6-phosphate)	1.0	Hpr__45__Histidine_CCO__45__IN	(an [HPr]-L-histidine)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: TRANS-RXN-167A</p>
+    <p>EC Number: 2.7.1.191</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	_2__46__7__46__3__46__9__45__RXN	2.7.3.9-RXN	(reversible: False) :
+		1.0	PHOSPHO__45__ENOL__45__PYRUVATE_c	(phosphoenolpyruvate)	1.0	Hpr__45__Histidine_c	(an [HPr]-L-histidine)	|	1.0	PYRUVATE_c	(pyruvate)	1.0	Hpr__45__pi__45__phospho__45__L__45__histidines_c	(an [HPr protein]-Npi-phospho-L-histidine)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 2.7.3.9-RXN</p>
+    <p>EC Number: 2.7.3.9</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS04015)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	TRANS__45__RXN__45__168	TRANS-RXN-168	(reversible: True) :
+		1.0	Hpr__45__pi__45__phospho__45__L__45__histidines_CCO__45__IN	(an [HPr protein]-Npi-phospho-L-histidine)	1.0	TREHALOSE_CCO__45__OUT	(alpha,alpha-trehalose)	|	1.0	TREHALOSE__45__6P_CCO__45__IN	(alpha,alpha-trehalose 6-phosphate)	1.0	Hpr__45__Histidine_CCO__45__IN	(an [HPr]-L-histidine)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: TRANS-RXN-168</p>
+    <p>EC Number: 2.7.1.201</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	RXN__45__17355	RXN-17355	(reversible: False) :
+		1.0	PTS__45__I__45__pi__45__phospho__45__L__45__histidines_c	(a [PTS enzyme I]-Npi-phospho-L-histidine)	1.0	Hpr__45__Histidine_c	(an [HPr]-L-histidine)	|	1.0	PTS__45__I__45__Histidines_c	(a [PTS enzyme I]-L-histidine)	1.0	Hpr__45__pi__45__phospho__45__L__45__histidines_c	(an [HPr protein]-Npi-phospho-L-histidine)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-17355</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS04015)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	TRANS__45__RXN__45__168	TRANS-RXN-168	(reversible: True) :
+		1.0	Hpr__45__pi__45__phospho__45__L__45__histidines_CCO__45__IN	(an [HPr protein]-Npi-phospho-L-histidine)	1.0	TREHALOSE_CCO__45__OUT	(alpha,alpha-trehalose)	|	1.0	TREHALOSE__45__6P_CCO__45__IN	(alpha,alpha-trehalose 6-phosphate)	1.0	Hpr__45__Histidine_CCO__45__IN	(an [HPr]-L-histidine)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: TRANS-RXN-168</p>
+    <p>EC Number: 2.7.1.201</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	_2__46__7__46__3__46__9__45__RXN	2.7.3.9-RXN	(reversible: False) :
+		1.0	PHOSPHO__45__ENOL__45__PYRUVATE_c	(phosphoenolpyruvate)	1.0	Hpr__45__Histidine_c	(an [HPr]-L-histidine)	|	1.0	PYRUVATE_c	(pyruvate)	1.0	Hpr__45__pi__45__phospho__45__L__45__histidines_c	(an [HPr protein]-Npi-phospho-L-histidine)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 2.7.3.9-RXN</p>
+    <p>EC Number: 2.7.3.9</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS04015)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__14552	RXN-14552	(reversible: False) :
+		1.0	CARBAMOYL__45__P_c	(carbamoyl phosphate)	1.0	ATP_c	(ATP)	1.0	WATER_c	(H2O)	|	1.0	PPI_c	(diphosphate)	1.0	CPD__45__15424_c	(O-carbamoyladenylate)	1.0	Pi_c	(phosphate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-14552</p>
+    <p>GENE_ASSOCIATION: (Sfum_4013)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	ATPSYN__45__RXN	ATPSYN-RXN	(reversible: True) :
+		1.0	ADP_CCO__45__IN	(ADP)	1.0	Pi_CCO__45__IN	(phosphate)	4.0	PROTON_CCO__45__OUT	(H+)	|	1.0	ATP_CCO__45__IN	(ATP)	1.0	WATER_CCO__45__IN	(H2O)	3.0	PROTON_CCO__45__IN	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: ATPSYN-RXN</p>
+    <p>EC Number: 3.6.3.14</p>
+    <p>SUBSYSTEM: PWY-7219, PWY-7229</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__14552	RXN-14552	(reversible: False) :
+		1.0	CARBAMOYL__45__P_c	(carbamoyl phosphate)	1.0	ATP_c	(ATP)	1.0	WATER_c	(H2O)	|	1.0	PPI_c	(diphosphate)	1.0	CPD__45__15424_c	(O-carbamoyladenylate)	1.0	Pi_c	(phosphate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-14552</p>
+    <p>GENE_ASSOCIATION: (Sfum_4013)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	PRPPAMIDOTRANS__45__RXN	PRPPAMIDOTRANS-RXN	(reversible: True) :
+		1.0	_5__45__P__45__BETA__45__D__45__RIBOSYL__45__AMINE_c	(5-phospho-beta-D-ribosylamine)	1.0	PPI_c	(diphosphate)	1.0	GLT_c	(L-glutamate)	|	1.0	PRPP_c	(5-phospho-alpha-D-ribose 1-diphosphate)	1.0	GLN_c	(L-glutamine)	1.0	WATER_c	(H2O)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: PRPPAMIDOTRANS-RXN</p>
+    <p>EC Number: 2.4.2.14</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS00045) or (SFUM_RS01370)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__9929	RXN-9929	(reversible: False) :
+		1.0	DI__45__H__45__OROTATE_c	((S)-dihydroorotate)	1.0	FUM_c	(fumarate)	|	1.0	OROTATE_c	(orotate)	1.0	SUC_c	(succinate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-9929</p>
+    <p>EC Number: 1.3.98.1</p>
+    <p>SUBSYSTEM: PWY-7790</p>
+    <p>GENE_ASSOCIATION: (Sfum_2850) or (Sfum_2851)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	RXN__45__15378	RXN-15378	(reversible: False) :
+		1.0	CPD__45__9612_c	(caldariellaquinone)	1.0	SUC_CCO__45__IN	(succinate)	|	1.0	CPD__45__15301_c	(caldariellaquinol)	1.0	FUM_CCO__45__IN	(fumarate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-15378</p>
+    <p>EC Number: 1.3.5.1</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS10885) or (SFUM_RS10880) or (SFUM_RS10345) or (SFUM_RS10355) or (SFUM_RS00900) or (SFUM_RS11515)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__9929	RXN-9929	(reversible: False) :
+		1.0	DI__45__H__45__OROTATE_c	((S)-dihydroorotate)	1.0	FUM_c	(fumarate)	|	1.0	OROTATE_c	(orotate)	1.0	SUC_c	(succinate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-9929</p>
+    <p>EC Number: 1.3.98.1</p>
+    <p>SUBSYSTEM: PWY-7790</p>
+    <p>GENE_ASSOCIATION: (Sfum_2850) or (Sfum_2851)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	RXN__45__14971	RXN-14971	(reversible: False) :
+		1.0	ETR__45__Quinones_c	(an electron-transfer quinone)	1.0	SUC_CCO__45__IN	(succinate)	|	1.0	ETR__45__Quinols_c	(an electron-transfer quinol)	1.0	FUM_CCO__45__IN	(fumarate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-14971</p>
+    <p>EC Number: 1.3.5.1</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS11515) or (SFUM_RS00900) or (SFUM_RS10355) or (SFUM_RS10345) or (SFUM_RS10880) or (SFUM_RS10885)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__9929	RXN-9929	(reversible: False) :
+		1.0	DI__45__H__45__OROTATE_c	((S)-dihydroorotate)	1.0	FUM_c	(fumarate)	|	1.0	OROTATE_c	(orotate)	1.0	SUC_c	(succinate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-9929</p>
+    <p>EC Number: 1.3.98.1</p>
+    <p>SUBSYSTEM: PWY-7790</p>
+    <p>GENE_ASSOCIATION: (Sfum_2850) or (Sfum_2851)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	SUCCINATE__45__DEHYDROGENASE__45__UBIQUINONE__45__RXN	SUCCINATE-DEHYDROGENASE-UBIQUINONE-RXN	(reversible: False) :
+		1.0	Ubiquinones_c	(a ubiquinone)	1.0	SUC_CCO__45__IN	(succinate)	|	1.0	Ubiquinols_c	(an ubiquinol)	1.0	FUM_CCO__45__IN	(fumarate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: SUCCINATE-DEHYDROGENASE-UBIQUINONE-RXN</p>
+    <p>EC Number: 1.3.5.1</p>
+    <p>SUBSYSTEM: PWY0-1329, PWY0-1353</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS10885) or (SFUM_RS10880) or (SFUM_RS10345) or (SFUM_RS10355) or (SFUM_RS00900) or (SFUM_RS11515)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN0__45__6382	RXN0-6382	(reversible: True) :
+		1.0	ITP_c	(ITP)	1.0	WATER_c	(H2O)	|	1.0	PROTON_c	(H+)	1.0	IMP_c	(IMP)	1.0	PPI_c	(diphosphate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN0-6382</p>
+    <p>EC Number: 3.6.1.9/3.6.1.66</p>
+    <p>GENE_ASSOCIATION: (Sfum_0691)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	IGPSYN__45__RXN	IGPSYN-RXN	(reversible: False) :
+		1.0	PROTON_c	(H+)	1.0	CARBOXYPHENYLAMINO__45__DEOXYRIBULOSE__45__P_c	(1-(o-carboxyphenylamino)-1'-deoxyribulose 5'-phosphate)	|	1.0	INDOLE__45__3__45__GLYCEROL__45__P_c	((1S,2R)-1-C-(indol-3-yl)glycerol 3-phosphate)	1.0	CARBON__45__DIOXIDE_c	(CO2)	1.0	WATER_c	(H2O)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: IGPSYN-RXN</p>
+    <p>EC Number: 4.1.1.48</p>
+    <p>SUBSYSTEM: TRPSYN-PWY</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS09165)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN0__45__6382	RXN0-6382	(reversible: True) :
+		1.0	ITP_c	(ITP)	1.0	WATER_c	(H2O)	|	1.0	PROTON_c	(H+)	1.0	IMP_c	(IMP)	1.0	PPI_c	(diphosphate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN0-6382</p>
+    <p>EC Number: 3.6.1.9/3.6.1.66</p>
+    <p>GENE_ASSOCIATION: (Sfum_0691)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	PREPHENATEDEHYDRAT__45__RXN	PREPHENATEDEHYDRAT-RXN	(reversible: True) :
+		1.0	PROTON_c	(H+)	1.0	PREPHENATE_c	(prephenate)	|	1.0	PHENYL__45__PYRUVATE_c	(keto-phenylpyruvate)	1.0	WATER_c	(H2O)	1.0	CARBON__45__DIOXIDE_c	(CO2)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: PREPHENATEDEHYDRAT-RXN</p>
+    <p>EC Number: 4.2.1.51</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS14115)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN0__45__6491	RXN0-6491	(reversible: False) :
+		1.0	Ubiquinones_c	(a ubiquinone)	1.0	DI__45__H__45__OROTATE_CCO__45__IN	((S)-dihydroorotate)	|	1.0	Ubiquinols_c	(an ubiquinol)	1.0	OROTATE_CCO__45__IN	(orotate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN0-6491</p>
+    <p>EC Number: 1.3.5.2</p>
+    <p>GENE_ASSOCIATION: (Sfum_2850)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	RXN__45__6883	RXN-6883	(reversible: False) :
+		2.0	Ubiquinols_c	(an ubiquinol)	1.0	OXYGEN__45__MOLECULE_CCO__45__IN	(oxygen)	|	2.0	Ubiquinones_c	(a ubiquinone)	2.0	WATER_CCO__45__IN	(H2O)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-6883</p>
+    <p>EC Number: 1.10.3.11</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS15590) or (SFUM_RS15800) or (SFUM_RS01725)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	TRANS__45__RXN__45__167A__45__Hpr__45__pi__45__phospho__45__L__45__histidines__47__GLUCOSAMINE__47____47__D__45__GLUCOSAMINE__45__6__45__P__47__Hpr__45__Histidine__46__73__46__	TRANS-RXN-167A-Hpr-pi-phospho-L-histidines/GLUCOSAMINE//D-GLUCOSAMINE-6-P/Hpr-Histidine.73.	(reversible: False) :
+		1.0	Hpr__45__pi__45__phospho__45__L__45__histidines_CCO__45__IN	(an [HPr protein]-Npi-phospho-L-histidine)	1.0	GLUCOSAMINE_CCO__45__OUT	(D-glucosamine)	|	1.0	D__45__GLUCOSAMINE__45__6__45__P_CCO__45__IN	(D-glucosamine 6-phosphate)	1.0	Hpr__45__Histidine_CCO__45__IN	(an [HPr]-L-histidine)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: TRANS-RXN-167A</p>
+    <p>EC Number: 2.7.1.191</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	RXN__45__17355	RXN-17355	(reversible: False) :
+		1.0	PTS__45__I__45__pi__45__phospho__45__L__45__histidines_c	(a [PTS enzyme I]-Npi-phospho-L-histidine)	1.0	Hpr__45__Histidine_c	(an [HPr]-L-histidine)	|	1.0	PTS__45__I__45__Histidines_c	(a [PTS enzyme I]-L-histidine)	1.0	Hpr__45__pi__45__phospho__45__L__45__histidines_c	(an [HPr protein]-Npi-phospho-L-histidine)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-17355</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS04015)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	TRANS__45__RXN__45__167A__45__Hpr__45__pi__45__phospho__45__L__45__histidines__47__GLUCOSAMINE__47____47__D__45__GLUCOSAMINE__45__6__45__P__47__Hpr__45__Histidine__46__73__46__	TRANS-RXN-167A-Hpr-pi-phospho-L-histidines/GLUCOSAMINE//D-GLUCOSAMINE-6-P/Hpr-Histidine.73.	(reversible: False) :
+		1.0	Hpr__45__pi__45__phospho__45__L__45__histidines_CCO__45__IN	(an [HPr protein]-Npi-phospho-L-histidine)	1.0	GLUCOSAMINE_CCO__45__OUT	(D-glucosamine)	|	1.0	D__45__GLUCOSAMINE__45__6__45__P_CCO__45__IN	(D-glucosamine 6-phosphate)	1.0	Hpr__45__Histidine_CCO__45__IN	(an [HPr]-L-histidine)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: TRANS-RXN-167A</p>
+    <p>EC Number: 2.7.1.191</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	_2__46__7__46__3__46__9__45__RXN	2.7.3.9-RXN	(reversible: False) :
+		1.0	PHOSPHO__45__ENOL__45__PYRUVATE_c	(phosphoenolpyruvate)	1.0	Hpr__45__Histidine_c	(an [HPr]-L-histidine)	|	1.0	PYRUVATE_c	(pyruvate)	1.0	Hpr__45__pi__45__phospho__45__L__45__histidines_c	(an [HPr protein]-Npi-phospho-L-histidine)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 2.7.3.9-RXN</p>
+    <p>EC Number: 2.7.3.9</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS04015)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	ACECOATRANS__45__RXN__45__CPD__45__196__47__ACET__47____47__CPD__45__195__47__ACETYL__45__COA__46__33__46__	ACECOATRANS-RXN-CPD-196/ACET//CPD-195/ACETYL-COA.33.	(reversible: False) :
+		1.0	CPD__45__196_c	(octanoyl-CoA)	1.0	ACET_c	(acetate)	|	1.0	CPD__45__195_c	(octanoate)	1.0	ACETYL__45__COA_c	(acetyl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: ACECOATRANS-RXN</p>
+    <p>EC Number: 2.8.3.8</p>
+    <p>GENE_ASSOCIATION: (Sfum_2291)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	RXN__45__1082	RXN-1082	(reversible: True) :
+		1.0	ACETYL__45__COA_c	(acetyl-CoA)	1.0	R__45__2__45__HYDROXYGLUTARATE_c	((R)-2-hydroxyglutarate)	|	1.0	ACET_c	(acetate)	1.0	_2__45__HYDROXYGLUTARYL__45__COA_c	((R)-2-hydroxyglutaryl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-1082</p>
+    <p>EC Number: 2.8.3.12</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS19280) or (SFUM_RS04205) or (SFUM_RS04210) or (SFUM_RS05905)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	ACECOATRANS__45__RXN__45__CPD__45__196__47__ACET__47____47__CPD__45__195__47__ACETYL__45__COA__46__33__46__	ACECOATRANS-RXN-CPD-196/ACET//CPD-195/ACETYL-COA.33.	(reversible: False) :
+		1.0	CPD__45__196_c	(octanoyl-CoA)	1.0	ACET_c	(acetate)	|	1.0	CPD__45__195_c	(octanoate)	1.0	ACETYL__45__COA_c	(acetyl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: ACECOATRANS-RXN</p>
+    <p>EC Number: 2.8.3.8</p>
+    <p>GENE_ASSOCIATION: (Sfum_2291)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	GLUTACONATE__45__COA__45__TRANSFERASE__45__RXN	GLUTACONATE-COA-TRANSFERASE-RXN	(reversible: True) :
+		1.0	ACETYL__45__COA_c	(acetyl-CoA)	1.0	GLUTACONATE_c	((E)-glutaconate)	|	1.0	ACET_c	(acetate)	1.0	GLUTACONYL__45__COA_c	((E)-glutaconyl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: GLUTACONATE-COA-TRANSFERASE-RXN</p>
+    <p>EC Number: 2.8.3.12</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS19280) or (SFUM_RS04205) or (SFUM_RS04210) or (SFUM_RS05905)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	ACECOATRANS__45__RXN__45__CPD__45__196__47__ACET__47____47__CPD__45__195__47__ACETYL__45__COA__46__33__46__	ACECOATRANS-RXN-CPD-196/ACET//CPD-195/ACETYL-COA.33.	(reversible: False) :
+		1.0	CPD__45__196_c	(octanoyl-CoA)	1.0	ACET_c	(acetate)	|	1.0	CPD__45__195_c	(octanoate)	1.0	ACETYL__45__COA_c	(acetyl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: ACECOATRANS-RXN</p>
+    <p>EC Number: 2.8.3.8</p>
+    <p>GENE_ASSOCIATION: (Sfum_2291)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	ACETOACETYL__45__COA__45__TRANSFER__45__RXN	ACETOACETYL-COA-TRANSFER-RXN	(reversible: False) :
+		1.0	ACETYL__45__COA_c	(acetyl-CoA)	1.0	_3__45__KETOBUTYRATE_c	(acetoacetate)	|	1.0	ACET_c	(acetate)	1.0	ACETOACETYL__45__COA_c	(acetoacetyl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: ACETOACETYL-COA-TRANSFER-RXN</p>
+    <p>EC Number: 2.8.3.9</p>
+    <p>SUBSYSTEM: ACETOACETATE-DEG-PWY</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS11850)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__1381__45__TETRADECANOYL__45__COA__47__GLYCEROL__45__3P__47____47__CPD__45__18379__47__CO__45__A__46__46__46__	RXN-1381-TETRADECANOYL-COA/GLYCEROL-3P//CPD-18379/CO-A.46.	(reversible: False) :
+		1.0	TETRADECANOYL__45__COA_c	(myristoyl-CoA)	1.0	GLYCEROL__45__3P_c	(sn-glycerol 3-phosphate)	|	1.0	CPD__45__18379_c	(1-myristoylglycerol 3-phosphate)	1.0	CO__45__A_c	(coenzyme A)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-1381</p>
+    <p>EC Number: 2.3.1.15</p>
+    <p>SUBSYSTEM: PWY-5667, PWY4FS-8</p>
+    <p>GENE_ASSOCIATION: (Sfum_3097)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	_2__46__3__46__1__46__155__45__RXN	2.3.1.155-RXN	(reversible: False) :
+		1.0	CO__45__A_c	(coenzyme A)	1.0	_3__45__OXOPALMITOYL__45__COA_c	(3-oxo-palmitoyl-CoA)	|	1.0	ACETYL__45__COA_c	(acetyl-CoA)	1.0	TETRADECANOYL__45__COA_c	(myristoyl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 2.3.1.155-RXN</p>
+    <p>EC Number: 2.3.1.155</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS07285) or (SFUM_RS18500) or (SFUM_RS11785)</p>
+    <p>Confidence level: 0</p>
+  </body>
+</notes>
+
+	SERINE__45__C__45__PALMITOYLTRANSFERASE__45__RXN	SERINE-C-PALMITOYLTRANSFERASE-RXN	(reversible: True) :
+		1.0	PROTON_c	(H+)	1.0	SER_c	(L-serine)	1.0	PALMITYL__45__COA_c	(palmitoyl-CoA)	|	1.0	CARBON__45__DIOXIDE_c	(CO2)	1.0	DEHYDROSPHINGANINE_c	(3-dehydrosphinganine)	1.0	CO__45__A_c	(coenzyme A)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: SERINE-C-PALMITOYLTRANSFERASE-RXN</p>
+    <p>EC Number: 2.3.1.50</p>
+    <p>GENE_ASSOCIATION: (Sfum_2235)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	CARBAMATE__45__KINASE__45__RXN	CARBAMATE-KINASE-RXN	(reversible: True) :
+		1.0	AMMONIUM_c	(ammonium)	1.0	CARBON__45__DIOXIDE_c	(CO2)	1.0	ATP_c	(ATP)	|	2.0	PROTON_c	(H+)	1.0	CARBAMOYL__45__P_c	(carbamoyl phosphate)	1.0	ADP_c	(ADP)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: CARBAMATE-KINASE-RXN</p>
+    <p>EC Number: 2.7.2.2</p>
+    <p>SUBSYSTEM: CITRULLINE-DEG-PWY</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS00255)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	SERINE__45__C__45__PALMITOYLTRANSFERASE__45__RXN	SERINE-C-PALMITOYLTRANSFERASE-RXN	(reversible: True) :
+		1.0	PROTON_c	(H+)	1.0	SER_c	(L-serine)	1.0	PALMITYL__45__COA_c	(palmitoyl-CoA)	|	1.0	CARBON__45__DIOXIDE_c	(CO2)	1.0	DEHYDROSPHINGANINE_c	(3-dehydrosphinganine)	1.0	CO__45__A_c	(coenzyme A)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: SERINE-C-PALMITOYLTRANSFERASE-RXN</p>
+    <p>EC Number: 2.3.1.50</p>
+    <p>GENE_ASSOCIATION: (Sfum_2235)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	RXN__45__9623	RXN-9623	(reversible: False) :
+		1.0	PALMITATE_c	(palmitate)	1.0	CO__45__A_c	(coenzyme A)	1.0	ATP_c	(ATP)	|	1.0	PALMITYL__45__COA_c	(palmitoyl-CoA)	1.0	PPI_c	(diphosphate)	1.0	AMP_c	(AMP)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-9623</p>
+    <p>EC Number: 6.2.1.3</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS10175) or (SFUM_RS01520) or (SFUM_RS00580)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	_3__46__1__46__1__46__73__45__RXN	3.1.1.73-RXN	(reversible: False) :
+		1.0	Feruloyl__45__polysaccharides_c	(a feruloyl-polysaccharide)	1.0	WATER_c	(H2O)	|	1.0	FERULIC__45__ACID_c	(ferulate)	1.0	Polysaccharides_c	(a polysaccharide)	1.0	PROTON_c	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 3.1.1.73-RXN</p>
+    <p>EC Number: 3.1.1.73</p>
+    <p>GENE_ASSOCIATION: (Sfum_0784)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	IGPSYN__45__RXN	IGPSYN-RXN	(reversible: False) :
+		1.0	PROTON_c	(H+)	1.0	CARBOXYPHENYLAMINO__45__DEOXYRIBULOSE__45__P_c	(1-(o-carboxyphenylamino)-1'-deoxyribulose 5'-phosphate)	|	1.0	INDOLE__45__3__45__GLYCEROL__45__P_c	((1S,2R)-1-C-(indol-3-yl)glycerol 3-phosphate)	1.0	CARBON__45__DIOXIDE_c	(CO2)	1.0	WATER_c	(H2O)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: IGPSYN-RXN</p>
+    <p>EC Number: 4.1.1.48</p>
+    <p>SUBSYSTEM: TRPSYN-PWY</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS09165)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	_3__46__1__46__1__46__73__45__RXN	3.1.1.73-RXN	(reversible: False) :
+		1.0	Feruloyl__45__polysaccharides_c	(a feruloyl-polysaccharide)	1.0	WATER_c	(H2O)	|	1.0	FERULIC__45__ACID_c	(ferulate)	1.0	Polysaccharides_c	(a polysaccharide)	1.0	PROTON_c	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 3.1.1.73-RXN</p>
+    <p>EC Number: 3.1.1.73</p>
+    <p>GENE_ASSOCIATION: (Sfum_0784)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	PREPHENATEDEHYDRAT__45__RXN	PREPHENATEDEHYDRAT-RXN	(reversible: True) :
+		1.0	PROTON_c	(H+)	1.0	PREPHENATE_c	(prephenate)	|	1.0	PHENYL__45__PYRUVATE_c	(keto-phenylpyruvate)	1.0	WATER_c	(H2O)	1.0	CARBON__45__DIOXIDE_c	(CO2)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: PREPHENATEDEHYDRAT-RXN</p>
+    <p>EC Number: 4.2.1.51</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS14115)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	R8__45__RXN	R8-RXN	(reversible: False) :
+		1.0	CPD__45__20_c	(3-hydroxy-5- oxohexanoyl-CoA)	1.0	ACET_c	(acetate)	|	1.0	CPD__45__19_c	(3-hydroxy-5-oxohexanoate)	1.0	ACETYL__45__COA_c	(acetyl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: R8-RXN</p>
+    <p>EC Number: 2.8.3.8</p>
+    <p>GENE_ASSOCIATION: (Sfum_2291)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	RXN__45__1082	RXN-1082	(reversible: True) :
+		1.0	ACETYL__45__COA_c	(acetyl-CoA)	1.0	R__45__2__45__HYDROXYGLUTARATE_c	((R)-2-hydroxyglutarate)	|	1.0	ACET_c	(acetate)	1.0	_2__45__HYDROXYGLUTARYL__45__COA_c	((R)-2-hydroxyglutaryl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-1082</p>
+    <p>EC Number: 2.8.3.12</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS19280) or (SFUM_RS04205) or (SFUM_RS04210) or (SFUM_RS05905)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	R8__45__RXN	R8-RXN	(reversible: False) :
+		1.0	CPD__45__20_c	(3-hydroxy-5- oxohexanoyl-CoA)	1.0	ACET_c	(acetate)	|	1.0	CPD__45__19_c	(3-hydroxy-5-oxohexanoate)	1.0	ACETYL__45__COA_c	(acetyl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: R8-RXN</p>
+    <p>EC Number: 2.8.3.8</p>
+    <p>GENE_ASSOCIATION: (Sfum_2291)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	GLUTACONATE__45__COA__45__TRANSFERASE__45__RXN	GLUTACONATE-COA-TRANSFERASE-RXN	(reversible: True) :
+		1.0	ACETYL__45__COA_c	(acetyl-CoA)	1.0	GLUTACONATE_c	((E)-glutaconate)	|	1.0	ACET_c	(acetate)	1.0	GLUTACONYL__45__COA_c	((E)-glutaconyl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: GLUTACONATE-COA-TRANSFERASE-RXN</p>
+    <p>EC Number: 2.8.3.12</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS19280) or (SFUM_RS04205) or (SFUM_RS04210) or (SFUM_RS05905)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	R8__45__RXN	R8-RXN	(reversible: False) :
+		1.0	CPD__45__20_c	(3-hydroxy-5- oxohexanoyl-CoA)	1.0	ACET_c	(acetate)	|	1.0	CPD__45__19_c	(3-hydroxy-5-oxohexanoate)	1.0	ACETYL__45__COA_c	(acetyl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: R8-RXN</p>
+    <p>EC Number: 2.8.3.8</p>
+    <p>GENE_ASSOCIATION: (Sfum_2291)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	ACETOACETYL__45__COA__45__TRANSFER__45__RXN	ACETOACETYL-COA-TRANSFER-RXN	(reversible: False) :
+		1.0	ACETYL__45__COA_c	(acetyl-CoA)	1.0	_3__45__KETOBUTYRATE_c	(acetoacetate)	|	1.0	ACET_c	(acetate)	1.0	ACETOACETYL__45__COA_c	(acetoacetyl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: ACETOACETYL-COA-TRANSFER-RXN</p>
+    <p>EC Number: 2.8.3.9</p>
+    <p>SUBSYSTEM: ACETOACETATE-DEG-PWY</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS11850)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	ACECOATRANS__45__RXN__45__PALMITYL__45__COA__47__ACET__47____47__PALMITATE__47__ACETYL__45__COA__46__40__46__	ACECOATRANS-RXN-PALMITYL-COA/ACET//PALMITATE/ACETYL-COA.40.	(reversible: False) :
+		1.0	PALMITYL__45__COA_c	(palmitoyl-CoA)	1.0	ACET_c	(acetate)	|	1.0	PALMITATE_c	(palmitate)	1.0	ACETYL__45__COA_c	(acetyl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: ACECOATRANS-RXN</p>
+    <p>EC Number: 2.8.3.8</p>
+    <p>GENE_ASSOCIATION: (Sfum_2291)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	RXN__45__1082	RXN-1082	(reversible: True) :
+		1.0	ACETYL__45__COA_c	(acetyl-CoA)	1.0	R__45__2__45__HYDROXYGLUTARATE_c	((R)-2-hydroxyglutarate)	|	1.0	ACET_c	(acetate)	1.0	_2__45__HYDROXYGLUTARYL__45__COA_c	((R)-2-hydroxyglutaryl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-1082</p>
+    <p>EC Number: 2.8.3.12</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS19280) or (SFUM_RS04205) or (SFUM_RS04210) or (SFUM_RS05905)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	ACECOATRANS__45__RXN__45__PALMITYL__45__COA__47__ACET__47____47__PALMITATE__47__ACETYL__45__COA__46__40__46__	ACECOATRANS-RXN-PALMITYL-COA/ACET//PALMITATE/ACETYL-COA.40.	(reversible: False) :
+		1.0	PALMITYL__45__COA_c	(palmitoyl-CoA)	1.0	ACET_c	(acetate)	|	1.0	PALMITATE_c	(palmitate)	1.0	ACETYL__45__COA_c	(acetyl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: ACECOATRANS-RXN</p>
+    <p>EC Number: 2.8.3.8</p>
+    <p>GENE_ASSOCIATION: (Sfum_2291)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	GLUTACONATE__45__COA__45__TRANSFERASE__45__RXN	GLUTACONATE-COA-TRANSFERASE-RXN	(reversible: True) :
+		1.0	ACETYL__45__COA_c	(acetyl-CoA)	1.0	GLUTACONATE_c	((E)-glutaconate)	|	1.0	ACET_c	(acetate)	1.0	GLUTACONYL__45__COA_c	((E)-glutaconyl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: GLUTACONATE-COA-TRANSFERASE-RXN</p>
+    <p>EC Number: 2.8.3.12</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS19280) or (SFUM_RS04205) or (SFUM_RS04210) or (SFUM_RS05905)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	ACECOATRANS__45__RXN__45__PALMITYL__45__COA__47__ACET__47____47__PALMITATE__47__ACETYL__45__COA__46__40__46__	ACECOATRANS-RXN-PALMITYL-COA/ACET//PALMITATE/ACETYL-COA.40.	(reversible: False) :
+		1.0	PALMITYL__45__COA_c	(palmitoyl-CoA)	1.0	ACET_c	(acetate)	|	1.0	PALMITATE_c	(palmitate)	1.0	ACETYL__45__COA_c	(acetyl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: ACECOATRANS-RXN</p>
+    <p>EC Number: 2.8.3.8</p>
+    <p>GENE_ASSOCIATION: (Sfum_2291)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	ACETOACETYL__45__COA__45__TRANSFER__45__RXN	ACETOACETYL-COA-TRANSFER-RXN	(reversible: False) :
+		1.0	ACETYL__45__COA_c	(acetyl-CoA)	1.0	_3__45__KETOBUTYRATE_c	(acetoacetate)	|	1.0	ACET_c	(acetate)	1.0	ACETOACETYL__45__COA_c	(acetoacetyl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: ACETOACETYL-COA-TRANSFER-RXN</p>
+    <p>EC Number: 2.8.3.9</p>
+    <p>SUBSYSTEM: ACETOACETATE-DEG-PWY</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS11850)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	PSERTRANSAM__45__RXN	PSERTRANSAM-RXN	(reversible: True) :
+		1.0	_3__45__P__45__SERINE_c	(3-phospho-L-serine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	|	1.0	GLT_c	(L-glutamate)	1.0	_3__45__P__45__HYDROXYPYRUVATE_c	(3-phosphooxypyruvate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: PSERTRANSAM-RXN</p>
+    <p>EC Number: 2.6.1.52</p>
+    <p>GENE_ASSOCIATION: (Sfum_2083)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	PSERTRANSAMPYR__45__RXN	PSERTRANSAMPYR-RXN	(reversible: True) :
+		1.0	_3OH__45__4P__45__OH__45__ALPHA__45__KETOBUTYRATE_c	((3R)-3-hydroxy-2-oxo-4 phosphooxybutanoate)	1.0	GLT_c	(L-glutamate)	|	1.0	_4__45__PHOSPHONOOXY__45__THREONINE_c	(4-phosphooxy-L-threonine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: PSERTRANSAMPYR-RXN</p>
+    <p>EC Number: 2.6.1.52</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS10785)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	PSERTRANSAM__45__RXN	PSERTRANSAM-RXN	(reversible: True) :
+		1.0	_3__45__P__45__SERINE_c	(3-phospho-L-serine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	|	1.0	GLT_c	(L-glutamate)	1.0	_3__45__P__45__HYDROXYPYRUVATE_c	(3-phosphooxypyruvate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: PSERTRANSAM-RXN</p>
+    <p>EC Number: 2.6.1.52</p>
+    <p>GENE_ASSOCIATION: (Sfum_2083)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	BRANCHED__45__CHAINAMINOTRANSFERVAL__45__RXN	BRANCHED-CHAINAMINOTRANSFERVAL-RXN	(reversible: False) :
+		1.0	GLT_c	(L-glutamate)	1.0	_2__45__KETO__45__ISOVALERATE_c	(3-methyl-2-oxobutanoate)	|	1.0	VAL_c	(L-valine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: BRANCHED-CHAINAMINOTRANSFERVAL-RXN</p>
+    <p>EC Number: 2.6.1.42</p>
+    <p>SUBSYSTEM: VALSYN-PWY, BRANCHED-CHAIN-AA-SYN-PWY</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS16025)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	PSERTRANSAM__45__RXN	PSERTRANSAM-RXN	(reversible: True) :
+		1.0	_3__45__P__45__SERINE_c	(3-phospho-L-serine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	|	1.0	GLT_c	(L-glutamate)	1.0	_3__45__P__45__HYDROXYPYRUVATE_c	(3-phosphooxypyruvate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: PSERTRANSAM-RXN</p>
+    <p>EC Number: 2.6.1.52</p>
+    <p>GENE_ASSOCIATION: (Sfum_2083)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	BRANCHED__45__CHAINAMINOTRANSFERLEU__45__RXN	BRANCHED-CHAINAMINOTRANSFERLEU-RXN	(reversible: False) :
+		1.0	GLT_c	(L-glutamate)	1.0	_2K__45__4CH3__45__PENTANOATE_c	(4-methyl-2-oxopentanoate)	|	1.0	LEU_c	(L-leucine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: BRANCHED-CHAINAMINOTRANSFERLEU-RXN</p>
+    <p>EC Number: 2.6.1.6/2.6.1.42</p>
+    <p>SUBSYSTEM: LEUSYN-PWY, BRANCHED-CHAIN-AA-SYN-PWY</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS16025)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	PSERTRANSAM__45__RXN	PSERTRANSAM-RXN	(reversible: True) :
+		1.0	_3__45__P__45__SERINE_c	(3-phospho-L-serine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	|	1.0	GLT_c	(L-glutamate)	1.0	_3__45__P__45__HYDROXYPYRUVATE_c	(3-phosphooxypyruvate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: PSERTRANSAM-RXN</p>
+    <p>EC Number: 2.6.1.52</p>
+    <p>GENE_ASSOCIATION: (Sfum_2083)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	BRANCHED__45__CHAINAMINOTRANSFERILEU__45__RXN	BRANCHED-CHAINAMINOTRANSFERILEU-RXN	(reversible: False) :
+		1.0	GLT_c	(L-glutamate)	1.0	_2__45__KETO__45__3__45__METHYL__45__VALERATE_c	((S)-3-methyl-2-oxopentanoate)	|	1.0	ILE_c	(L-isoleucine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: BRANCHED-CHAINAMINOTRANSFERILEU-RXN</p>
+    <p>EC Number: 2.6.1.42</p>
+    <p>SUBSYSTEM: ILEUSYN-PWY, BRANCHED-CHAIN-AA-SYN-PWY</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS16025)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	PSERTRANSAM__45__RXN	PSERTRANSAM-RXN	(reversible: True) :
+		1.0	_3__45__P__45__SERINE_c	(3-phospho-L-serine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	|	1.0	GLT_c	(L-glutamate)	1.0	_3__45__P__45__HYDROXYPYRUVATE_c	(3-phosphooxypyruvate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: PSERTRANSAM-RXN</p>
+    <p>EC Number: 2.6.1.52</p>
+    <p>GENE_ASSOCIATION: (Sfum_2083)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	ACETYLORNTRANSAM__45__RXN	ACETYLORNTRANSAM-RXN	(reversible: False) :
+		1.0	GLT_c	(L-glutamate)	1.0	CPD__45__469_c	(N-acetyl-L-glutamate 5-semialdehyde)	|	1.0	N__45__ALPHA__45__ACETYLORNITHINE_c	(N-acetyl-L-ornithine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: ACETYLORNTRANSAM-RXN</p>
+    <p>EC Number: 2.6.1.11</p>
+    <p>SUBSYSTEM: ARGSYNBSUB-PWY</p>
+    <p>Confidence level: 0</p>
+  </body>
+</notes>
+
+	_1__46__2__46__1__46__65__45__RXN	1.2.1.65-RXN	(reversible: True) :
+		1.0	SALICYLALDEHYDE_c	(salicylaldehyde)	1.0	NAD_c	(NAD+)	1.0	WATER_c	(H2O)	|	1.0	CPD__45__110_c	(salicylate)	1.0	NADH_c	(NADH)	2.0	PROTON_c	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 1.2.1.65-RXN</p>
+    <p>EC Number: 1.2.1.65</p>
+    <p>GENE_ASSOCIATION: (Sfum_1309)</p>
+    <p>Confidence level: 0</p>
+  </body>
+</notes>
+	RXN0__45__5268	RXN0-5268	(reversible: False) :
+		1.0	OXYGEN__45__MOLECULE_CCO__45__IN	(oxygen)	5.0	PROTON_CCO__45__IN	(H+)	2.0	Ubiquinols_c	(an ubiquinol)	|	2.0	WATER_CCO__45__IN	(H2O)	2.0	Ubiquinones_c	(a ubiquinone)	5.0	PROTON_CCO__45__OUT	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN0-5268</p>
+    <p>EC Number: 1.10.3.10</p>
+    <p>SUBSYSTEM: PWY0-1329, PWY0-1335, PWY0-1561</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS15595) or (SFUM_RS15805) or (SFUM_RS01730)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	_1__46__2__46__1__46__65__45__RXN	1.2.1.65-RXN	(reversible: True) :
+		1.0	SALICYLALDEHYDE_c	(salicylaldehyde)	1.0	NAD_c	(NAD+)	1.0	WATER_c	(H2O)	|	1.0	CPD__45__110_c	(salicylate)	1.0	NADH_c	(NADH)	2.0	PROTON_c	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 1.2.1.65-RXN</p>
+    <p>EC Number: 1.2.1.65</p>
+    <p>GENE_ASSOCIATION: (Sfum_1309)</p>
+    <p>Confidence level: 0</p>
+  </body>
+</notes>
+	RXN0__45__5266	RXN0-5266	(reversible: False) :
+		2.0	Ubiquinols_c	(an ubiquinol)	1.0	OXYGEN__45__MOLECULE_CCO__45__IN	(oxygen)	4.0	PROTON_CCO__45__IN	(H+)	|	2.0	Ubiquinones_c	(a ubiquinone)	4.0	PROTON_CCO__45__OUT	(H+)	2.0	WATER_CCO__45__IN	(H2O)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN0-5266</p>
+    <p>EC Number: 1.10.3.14</p>
+    <p>SUBSYSTEM: PWY0-1353, PWY0-1334</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS15590) or (SFUM_RS15595) or (SFUM_RS15800) or (SFUM_RS15805) or (SFUM_RS01725) or (SFUM_RS01730)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	_1__46__2__46__1__46__65__45__RXN	1.2.1.65-RXN	(reversible: True) :
+		1.0	SALICYLALDEHYDE_c	(salicylaldehyde)	1.0	NAD_c	(NAD+)	1.0	WATER_c	(H2O)	|	1.0	CPD__45__110_c	(salicylate)	1.0	NADH_c	(NADH)	2.0	PROTON_c	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 1.2.1.65-RXN</p>
+    <p>EC Number: 1.2.1.65</p>
+    <p>GENE_ASSOCIATION: (Sfum_1309)</p>
+    <p>Confidence level: 0</p>
+  </body>
+</notes>
+	RXN__45__8348	RXN-8348	(reversible: True) :
+		1.0	CPD__45__8122_c	(molybdopterin adenine dinucleotide)	1.0	CPD__45__3_c	(molybdate)	1.0	PROTON_c	(H+)	|	1.0	CPD__45__8123_c	(MoO2-molybdopterin cofactor)	1.0	AMP_c	(AMP)	1.0	WATER_c	(H2O)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-8348</p>
+    <p>EC Number: 2.10.1.1</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS15920) or (SFUM_RS08785)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	_1__46__2__46__1__46__65__45__RXN	1.2.1.65-RXN	(reversible: True) :
+		1.0	SALICYLALDEHYDE_c	(salicylaldehyde)	1.0	NAD_c	(NAD+)	1.0	WATER_c	(H2O)	|	1.0	CPD__45__110_c	(salicylate)	1.0	NADH_c	(NADH)	2.0	PROTON_c	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 1.2.1.65-RXN</p>
+    <p>EC Number: 1.2.1.65</p>
+    <p>GENE_ASSOCIATION: (Sfum_1309)</p>
+    <p>Confidence level: 0</p>
+  </body>
+</notes>
+	RXN__45__982__45__ARSENATE__47__Reduced__45__NrdH__45__Proteins__47__PROTON__47____47__CPD__45__763__47__Oxidized__45__NrdH__45__Proteins__47__WATER__46__76__46__	RXN-982-ARSENATE/Reduced-NrdH-Proteins/PROTON//CPD-763/Oxidized-NrdH-Proteins/WATER.76.	(reversible: True) :
+		1.0	ARSENATE_c	(arsenate)	1.0	Reduced__45__NrdH__45__Proteins_c	(a reduced NrdH glutaredoxin-like protein)	1.0	PROTON_c	(H+)	|	1.0	CPD__45__763_c	(arsenite)	1.0	Oxidized__45__NrdH__45__Proteins_c	(an oxidized NrdH glutaredoxin-like protein)	1.0	WATER_c	(H2O)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-982</p>
+    <p>EC Number: 1.20.4.1</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS18600)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	_1__46__2__46__1__46__65__45__RXN	1.2.1.65-RXN	(reversible: True) :
+		1.0	SALICYLALDEHYDE_c	(salicylaldehyde)	1.0	NAD_c	(NAD+)	1.0	WATER_c	(H2O)	|	1.0	CPD__45__110_c	(salicylate)	1.0	NADH_c	(NADH)	2.0	PROTON_c	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 1.2.1.65-RXN</p>
+    <p>EC Number: 1.2.1.65</p>
+    <p>GENE_ASSOCIATION: (Sfum_1309)</p>
+    <p>Confidence level: 0</p>
+  </body>
+</notes>
+	RXN__45__982	RXN-982	(reversible: True) :
+		1.0	ARSENATE_c	(arsenate)	1.0	Red__45__Glutaredoxins_c	(a reduced glutaredoxin)	1.0	PROTON_c	(H+)	|	1.0	CPD__45__763_c	(arsenite)	1.0	Ox__45__Glutaredoxins_c	(an oxidized glutaredoxin)	1.0	WATER_c	(H2O)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-982</p>
+    <p>EC Number: 1.20.4.1</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS18600)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	_1__46__2__46__1__46__65__45__RXN	1.2.1.65-RXN	(reversible: True) :
+		1.0	SALICYLALDEHYDE_c	(salicylaldehyde)	1.0	NAD_c	(NAD+)	1.0	WATER_c	(H2O)	|	1.0	CPD__45__110_c	(salicylate)	1.0	NADH_c	(NADH)	2.0	PROTON_c	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 1.2.1.65-RXN</p>
+    <p>EC Number: 1.2.1.65</p>
+    <p>GENE_ASSOCIATION: (Sfum_1309)</p>
+    <p>Confidence level: 0</p>
+  </body>
+</notes>
+	ATPSYN__45__RXN	ATPSYN-RXN	(reversible: True) :
+		1.0	ADP_CCO__45__IN	(ADP)	1.0	Pi_CCO__45__IN	(phosphate)	4.0	PROTON_CCO__45__OUT	(H+)	|	1.0	ATP_CCO__45__IN	(ATP)	1.0	WATER_CCO__45__IN	(H2O)	3.0	PROTON_CCO__45__IN	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: ATPSYN-RXN</p>
+    <p>EC Number: 3.6.3.14</p>
+    <p>SUBSYSTEM: PWY-7219, PWY-7229</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	_1__46__2__46__1__46__65__45__RXN	1.2.1.65-RXN	(reversible: True) :
+		1.0	SALICYLALDEHYDE_c	(salicylaldehyde)	1.0	NAD_c	(NAD+)	1.0	WATER_c	(H2O)	|	1.0	CPD__45__110_c	(salicylate)	1.0	NADH_c	(NADH)	2.0	PROTON_c	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 1.2.1.65-RXN</p>
+    <p>EC Number: 1.2.1.65</p>
+    <p>GENE_ASSOCIATION: (Sfum_1309)</p>
+    <p>Confidence level: 0</p>
+  </body>
+</notes>
+	RXN__45__16564	RXN-16564	(reversible: False) :
+		3.0	Menaquinols_c	(a menaquinol)	2.0	PROTON_CCO__45__OUT	(H+)	1.0	NITRITE_CCO__45__OUT	(nitrite)	|	3.0	Menaquinones_c	(a menaquinone)	2.0	WATER_CCO__45__OUT	(H2O)	1.0	AMMONIUM_CCO__45__OUT	(ammonium)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-16564</p>
+    <p>EC Number: 1.7.2.2</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS12410) or (SFUM_RS12405)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	_1__46__2__46__1__46__65__45__RXN	1.2.1.65-RXN	(reversible: True) :
+		1.0	SALICYLALDEHYDE_c	(salicylaldehyde)	1.0	NAD_c	(NAD+)	1.0	WATER_c	(H2O)	|	1.0	CPD__45__110_c	(salicylate)	1.0	NADH_c	(NADH)	2.0	PROTON_c	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 1.2.1.65-RXN</p>
+    <p>EC Number: 1.2.1.65</p>
+    <p>GENE_ASSOCIATION: (Sfum_1309)</p>
+    <p>Confidence level: 0</p>
+  </body>
+</notes>
+	_1__46__7__46__2__46__2__45__RXN__45__NITRITE__47__Reduced__45__cytochromes__45__c2__47__PROTON__47____47__AMMONIUM__47__Oxidized__45__cytochromes__45__c2__47__WATER__46__78__46__	1.7.2.2-RXN-NITRITE/Reduced-cytochromes-c2/PROTON//AMMONIUM/Oxidized-cytochromes-c2/WATER.78.	(reversible: False) :
+		1.0	NITRITE_CCO__45__OUT	(nitrite)	6.0	Reduced__45__cytochromes__45__c2_CCO__45__OUT	(a reduced cytochrome c2)	8.0	PROTON_CCO__45__OUT	(H+)	|	1.0	AMMONIUM_CCO__45__OUT	(ammonium)	6.0	Oxidized__45__cytochromes__45__c2_CCO__45__OUT	(an oxidized cytochrome c2)	2.0	WATER_CCO__45__OUT	(H2O)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 1.7.2.2-RXN</p>
+    <p>EC Number: 1.7.2.2</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	_1__46__2__46__1__46__65__45__RXN	1.2.1.65-RXN	(reversible: True) :
+		1.0	SALICYLALDEHYDE_c	(salicylaldehyde)	1.0	NAD_c	(NAD+)	1.0	WATER_c	(H2O)	|	1.0	CPD__45__110_c	(salicylate)	1.0	NADH_c	(NADH)	2.0	PROTON_c	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 1.2.1.65-RXN</p>
+    <p>EC Number: 1.2.1.65</p>
+    <p>GENE_ASSOCIATION: (Sfum_1309)</p>
+    <p>Confidence level: 0</p>
+  </body>
+</notes>
+	_1__46__7__46__2__46__2__45__RXN__45__NITRITE__47__a__45__reduced__45__NrfB__45__protein__47__PROTON__47____47__AMMONIUM__47__an__45__oxidized__45__NrfB__45__protein__47__WATER__46__79__46__	1.7.2.2-RXN-NITRITE/a-reduced-NrfB-protein/PROTON//AMMONIUM/an-oxidized-NrfB-protein/WATER.79.	(reversible: False) :
+		1.0	NITRITE_CCO__45__OUT	(nitrite)	6.0	a__45__reduced__45__NrfB__45__protein_CCO__45__OUT	(a reduced [NrfB protein])	8.0	PROTON_CCO__45__OUT	(H+)	|	1.0	AMMONIUM_CCO__45__OUT	(ammonium)	6.0	an__45__oxidized__45__NrfB__45__protein_CCO__45__OUT	(an oxidized [NrfB protein])	2.0	WATER_CCO__45__OUT	(H2O)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 1.7.2.2-RXN</p>
+    <p>EC Number: 1.7.2.2</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	_1__46__2__46__1__46__65__45__RXN	1.2.1.65-RXN	(reversible: True) :
+		1.0	SALICYLALDEHYDE_c	(salicylaldehyde)	1.0	NAD_c	(NAD+)	1.0	WATER_c	(H2O)	|	1.0	CPD__45__110_c	(salicylate)	1.0	NADH_c	(NADH)	2.0	PROTON_c	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 1.2.1.65-RXN</p>
+    <p>EC Number: 1.2.1.65</p>
+    <p>GENE_ASSOCIATION: (Sfum_1309)</p>
+    <p>Confidence level: 0</p>
+  </body>
+</notes>
+	_1__46__7__46__2__46__2__45__RXN__45__NITRITE__47__Cytochromes__45__C552__45__Red__47__PROTON__47____47__AMMONIUM__47__Cytochromes__45__C552__45__Ox__47__WATER__46__72__46__	1.7.2.2-RXN-NITRITE/Cytochromes-C552-Red/PROTON//AMMONIUM/Cytochromes-C552-Ox/WATER.72.	(reversible: False) :
+		1.0	NITRITE_CCO__45__OUT	(nitrite)	6.0	Cytochromes__45__C552__45__Red_CCO__45__OUT	(a reduced cytochrome c552)	8.0	PROTON_CCO__45__OUT	(H+)	|	1.0	AMMONIUM_CCO__45__OUT	(ammonium)	6.0	Cytochromes__45__C552__45__Ox_CCO__45__OUT	(an oxidized cytochrome c552)	2.0	WATER_CCO__45__OUT	(H2O)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 1.7.2.2-RXN</p>
+    <p>EC Number: 1.7.2.2</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	_1__46__2__46__1__46__65__45__RXN	1.2.1.65-RXN	(reversible: True) :
+		1.0	SALICYLALDEHYDE_c	(salicylaldehyde)	1.0	NAD_c	(NAD+)	1.0	WATER_c	(H2O)	|	1.0	CPD__45__110_c	(salicylate)	1.0	NADH_c	(NADH)	2.0	PROTON_c	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 1.2.1.65-RXN</p>
+    <p>EC Number: 1.2.1.65</p>
+    <p>GENE_ASSOCIATION: (Sfum_1309)</p>
+    <p>Confidence level: 0</p>
+  </body>
+</notes>
+	_1__46__7__46__2__46__2__45__RXN__45__NITRITE__47__Cytochromes__45__CL__45__Red__47__PROTON__47____47__AMMONIUM__47__Cytochromes__45__CL__45__Ox__47__WATER__46__68__46__	1.7.2.2-RXN-NITRITE/Cytochromes-CL-Red/PROTON//AMMONIUM/Cytochromes-CL-Ox/WATER.68.	(reversible: False) :
+		1.0	NITRITE_CCO__45__OUT	(nitrite)	6.0	Cytochromes__45__CL__45__Red_CCO__45__OUT	(a reduced cytochrome cL)	8.0	PROTON_CCO__45__OUT	(H+)	|	1.0	AMMONIUM_CCO__45__OUT	(ammonium)	6.0	Cytochromes__45__CL__45__Ox_CCO__45__OUT	(an oxidized cytochrome cL)	2.0	WATER_CCO__45__OUT	(H2O)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 1.7.2.2-RXN</p>
+    <p>EC Number: 1.7.2.2</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	_1__46__2__46__1__46__65__45__RXN	1.2.1.65-RXN	(reversible: True) :
+		1.0	SALICYLALDEHYDE_c	(salicylaldehyde)	1.0	NAD_c	(NAD+)	1.0	WATER_c	(H2O)	|	1.0	CPD__45__110_c	(salicylate)	1.0	NADH_c	(NADH)	2.0	PROTON_c	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 1.2.1.65-RXN</p>
+    <p>EC Number: 1.2.1.65</p>
+    <p>GENE_ASSOCIATION: (Sfum_1309)</p>
+    <p>Confidence level: 0</p>
+  </body>
+</notes>
+	_1__46__7__46__2__46__2__45__RXN__45__NITRITE__47__Reduced__45__cytochromes__45__C4__47__PROTON__47____47__AMMONIUM__47__Oxidized__45__cytochromes__45__C4__47__WATER__46__78__46__	1.7.2.2-RXN-NITRITE/Reduced-cytochromes-C4/PROTON//AMMONIUM/Oxidized-cytochromes-C4/WATER.78.	(reversible: False) :
+		1.0	NITRITE_CCO__45__OUT	(nitrite)	6.0	Reduced__45__cytochromes__45__C4_CCO__45__OUT	(a reduced cytochrome c4)	8.0	PROTON_CCO__45__OUT	(H+)	|	1.0	AMMONIUM_CCO__45__OUT	(ammonium)	6.0	Oxidized__45__cytochromes__45__C4_CCO__45__OUT	(an oxidized cytochrome c4)	2.0	WATER_CCO__45__OUT	(H2O)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 1.7.2.2-RXN</p>
+    <p>EC Number: 1.7.2.2</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	_1__46__2__46__1__46__65__45__RXN	1.2.1.65-RXN	(reversible: True) :
+		1.0	SALICYLALDEHYDE_c	(salicylaldehyde)	1.0	NAD_c	(NAD+)	1.0	WATER_c	(H2O)	|	1.0	CPD__45__110_c	(salicylate)	1.0	NADH_c	(NADH)	2.0	PROTON_c	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 1.2.1.65-RXN</p>
+    <p>EC Number: 1.2.1.65</p>
+    <p>GENE_ASSOCIATION: (Sfum_1309)</p>
+    <p>Confidence level: 0</p>
+  </body>
+</notes>
+	_1__46__7__46__2__46__2__45__RXN__45__NITRITE__47__Reduced__45__CycA1__45__cytochromes__47__PROTON__47____47__AMMONIUM__47__Oxidized__45__CycA1__45__cytochromes__47__WATER__46__84__46__	1.7.2.2-RXN-NITRITE/Reduced-CycA1-cytochromes/PROTON//AMMONIUM/Oxidized-CycA1-cytochromes/WATER.84.	(reversible: False) :
+		1.0	NITRITE_CCO__45__OUT	(nitrite)	6.0	Reduced__45__CycA1__45__cytochromes_CCO__45__OUT	(a reduced CycA1 cytochrome)	8.0	PROTON_CCO__45__OUT	(H+)	|	1.0	AMMONIUM_CCO__45__OUT	(ammonium)	6.0	Oxidized__45__CycA1__45__cytochromes_CCO__45__OUT	(an oxidized CycA1 cytochrome)	2.0	WATER_CCO__45__OUT	(H2O)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 1.7.2.2-RXN</p>
+    <p>EC Number: 1.7.2.2</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	_1__46__2__46__1__46__65__45__RXN	1.2.1.65-RXN	(reversible: True) :
+		1.0	SALICYLALDEHYDE_c	(salicylaldehyde)	1.0	NAD_c	(NAD+)	1.0	WATER_c	(H2O)	|	1.0	CPD__45__110_c	(salicylate)	1.0	NADH_c	(NADH)	2.0	PROTON_c	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 1.2.1.65-RXN</p>
+    <p>EC Number: 1.2.1.65</p>
+    <p>GENE_ASSOCIATION: (Sfum_1309)</p>
+    <p>Confidence level: 0</p>
+  </body>
+</notes>
+	_1__46__7__46__2__46__2__45__RXN__45__NITRITE__47__Reduced__45__cytochromes__45__c553__47__PROTON__47____47__AMMONIUM__47__Oxidized__45__cytochromes__45__c553__47__WATER__46__82__46__	1.7.2.2-RXN-NITRITE/Reduced-cytochromes-c553/PROTON//AMMONIUM/Oxidized-cytochromes-c553/WATER.82.	(reversible: False) :
+		1.0	NITRITE_CCO__45__OUT	(nitrite)	6.0	Reduced__45__cytochromes__45__c553_CCO__45__OUT	(a reduced cytochrome c-553)	8.0	PROTON_CCO__45__OUT	(H+)	|	1.0	AMMONIUM_CCO__45__OUT	(ammonium)	6.0	Oxidized__45__cytochromes__45__c553_CCO__45__OUT	(an oxidized cytochrome c-553)	2.0	WATER_CCO__45__OUT	(H2O)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 1.7.2.2-RXN</p>
+    <p>EC Number: 1.7.2.2</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	_1__46__2__46__1__46__65__45__RXN	1.2.1.65-RXN	(reversible: True) :
+		1.0	SALICYLALDEHYDE_c	(salicylaldehyde)	1.0	NAD_c	(NAD+)	1.0	WATER_c	(H2O)	|	1.0	CPD__45__110_c	(salicylate)	1.0	NADH_c	(NADH)	2.0	PROTON_c	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 1.2.1.65-RXN</p>
+    <p>EC Number: 1.2.1.65</p>
+    <p>GENE_ASSOCIATION: (Sfum_1309)</p>
+    <p>Confidence level: 0</p>
+  </body>
+</notes>
+	_1__46__7__46__2__46__2__45__RXN__45__NITRITE__47__Reduced__45__NapC__45__proteins__47__PROTON__47____47__AMMONIUM__47__Oxidized__45__NapC__45__proteins__47__WATER__46__76__46__	1.7.2.2-RXN-NITRITE/Reduced-NapC-proteins/PROTON//AMMONIUM/Oxidized-NapC-proteins/WATER.76.	(reversible: False) :
+		1.0	NITRITE_CCO__45__OUT	(nitrite)	6.0	Reduced__45__NapC__45__proteins_CCO__45__OUT	(a reduced [NapC protein])	8.0	PROTON_CCO__45__OUT	(H+)	|	1.0	AMMONIUM_CCO__45__OUT	(ammonium)	6.0	Oxidized__45__NapC__45__proteins_CCO__45__OUT	(an oxidized [NapC protein])	2.0	WATER_CCO__45__OUT	(H2O)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 1.7.2.2-RXN</p>
+    <p>EC Number: 1.7.2.2</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	_1__46__2__46__1__46__65__45__RXN	1.2.1.65-RXN	(reversible: True) :
+		1.0	SALICYLALDEHYDE_c	(salicylaldehyde)	1.0	NAD_c	(NAD+)	1.0	WATER_c	(H2O)	|	1.0	CPD__45__110_c	(salicylate)	1.0	NADH_c	(NADH)	2.0	PROTON_c	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 1.2.1.65-RXN</p>
+    <p>EC Number: 1.2.1.65</p>
+    <p>GENE_ASSOCIATION: (Sfum_1309)</p>
+    <p>Confidence level: 0</p>
+  </body>
+</notes>
+	_1__46__7__46__2__46__2__45__RXN__45__NITRITE__47__Cytochromes__45__C554__45__Red__47__PROTON__47____47__AMMONIUM__47__Cytochromes__45__C554__45__Ox__47__WATER__46__72__46__	1.7.2.2-RXN-NITRITE/Cytochromes-C554-Red/PROTON//AMMONIUM/Cytochromes-C554-Ox/WATER.72.	(reversible: False) :
+		1.0	NITRITE_CCO__45__OUT	(nitrite)	6.0	Cytochromes__45__C554__45__Red_CCO__45__OUT	(a reduced cytochrome c554)	8.0	PROTON_CCO__45__OUT	(H+)	|	1.0	AMMONIUM_CCO__45__OUT	(ammonium)	6.0	Cytochromes__45__C554__45__Ox_CCO__45__OUT	(an oxidized cytochrome c554)	2.0	WATER_CCO__45__OUT	(H2O)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 1.7.2.2-RXN</p>
+    <p>EC Number: 1.7.2.2</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	_1__46__2__46__1__46__65__45__RXN	1.2.1.65-RXN	(reversible: True) :
+		1.0	SALICYLALDEHYDE_c	(salicylaldehyde)	1.0	NAD_c	(NAD+)	1.0	WATER_c	(H2O)	|	1.0	CPD__45__110_c	(salicylate)	1.0	NADH_c	(NADH)	2.0	PROTON_c	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 1.2.1.65-RXN</p>
+    <p>EC Number: 1.2.1.65</p>
+    <p>GENE_ASSOCIATION: (Sfum_1309)</p>
+    <p>Confidence level: 0</p>
+  </body>
+</notes>
+	_1__46__7__46__2__46__2__45__RXN__45__NITRITE__47__Cytochromes__45__c3__45__Reduced__47__PROTON__47____47__AMMONIUM__47__Cytochromes__45__c3__45__Oxidized__47__WATER__46__78__46__	1.7.2.2-RXN-NITRITE/Cytochromes-c3-Reduced/PROTON//AMMONIUM/Cytochromes-c3-Oxidized/WATER.78.	(reversible: False) :
+		1.0	NITRITE_CCO__45__OUT	(nitrite)	6.0	Cytochromes__45__c3__45__Reduced_CCO__45__OUT	(a reduced cytochrome c3)	8.0	PROTON_CCO__45__OUT	(H+)	|	1.0	AMMONIUM_CCO__45__OUT	(ammonium)	6.0	Cytochromes__45__c3__45__Oxidized_CCO__45__OUT	(an oxidized cytochrome c3)	2.0	WATER_CCO__45__OUT	(H2O)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 1.7.2.2-RXN</p>
+    <p>EC Number: 1.7.2.2</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	_1__46__2__46__1__46__65__45__RXN	1.2.1.65-RXN	(reversible: True) :
+		1.0	SALICYLALDEHYDE_c	(salicylaldehyde)	1.0	NAD_c	(NAD+)	1.0	WATER_c	(H2O)	|	1.0	CPD__45__110_c	(salicylate)	1.0	NADH_c	(NADH)	2.0	PROTON_c	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 1.2.1.65-RXN</p>
+    <p>EC Number: 1.2.1.65</p>
+    <p>GENE_ASSOCIATION: (Sfum_1309)</p>
+    <p>Confidence level: 0</p>
+  </body>
+</notes>
+	_1__46__7__46__2__46__2__45__RXN__45__NITRITE__47__Cytochromes__45__C__45__Reduced__47__PROTON__47____47__AMMONIUM__47__Cytochromes__45__C__45__Oxidized__47__WATER__46__76__46__	1.7.2.2-RXN-NITRITE/Cytochromes-C-Reduced/PROTON//AMMONIUM/Cytochromes-C-Oxidized/WATER.76.	(reversible: False) :
+		1.0	NITRITE_CCO__45__OUT	(nitrite)	6.0	Cytochromes__45__C__45__Reduced_CCO__45__OUT	(a reduced c-type cytochrome)	8.0	PROTON_CCO__45__OUT	(H+)	|	1.0	AMMONIUM_CCO__45__OUT	(ammonium)	6.0	Cytochromes__45__C__45__Oxidized_CCO__45__OUT	(an oxidized c-type cytochrome)	2.0	WATER_CCO__45__OUT	(H2O)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 1.7.2.2-RXN</p>
+    <p>EC Number: 1.7.2.2</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	_1__46__2__46__1__46__65__45__RXN	1.2.1.65-RXN	(reversible: True) :
+		1.0	SALICYLALDEHYDE_c	(salicylaldehyde)	1.0	NAD_c	(NAD+)	1.0	WATER_c	(H2O)	|	1.0	CPD__45__110_c	(salicylate)	1.0	NADH_c	(NADH)	2.0	PROTON_c	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 1.2.1.65-RXN</p>
+    <p>EC Number: 1.2.1.65</p>
+    <p>GENE_ASSOCIATION: (Sfum_1309)</p>
+    <p>Confidence level: 0</p>
+  </body>
+</notes>
+	RXN__45__18605__45__NITRITE__47__a__45__reduced__45__NrfB__45__protein__47__PROTON__47____47__an__45__oxidized__45__NrfB__45__protein__47__AMMONIUM__47__WATER__46__79__46__	RXN-18605-NITRITE/a-reduced-NrfB-protein/PROTON//an-oxidized-NrfB-protein/AMMONIUM/WATER.79.	(reversible: False) :
+		1.0	NITRITE_CCO__45__OUT	(nitrite)	6.0	a__45__reduced__45__NrfB__45__protein_CCO__45__OUT	(a reduced [NrfB protein])	8.0	PROTON_CCO__45__OUT	(H+)	|	6.0	an__45__oxidized__45__NrfB__45__protein_CCO__45__OUT	(an oxidized [NrfB protein])	1.0	AMMONIUM_CCO__45__OUT	(ammonium)	2.0	WATER_CCO__45__OUT	(H2O)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-18605</p>
+    <p>EC Number: 1.7.2.2</p>
+    <p>SUBSYSTEM: PWY0-1585</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	_1__46__2__46__1__46__65__45__RXN	1.2.1.65-RXN	(reversible: True) :
+		1.0	SALICYLALDEHYDE_c	(salicylaldehyde)	1.0	NAD_c	(NAD+)	1.0	WATER_c	(H2O)	|	1.0	CPD__45__110_c	(salicylate)	1.0	NADH_c	(NADH)	2.0	PROTON_c	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 1.2.1.65-RXN</p>
+    <p>EC Number: 1.2.1.65</p>
+    <p>GENE_ASSOCIATION: (Sfum_1309)</p>
+    <p>Confidence level: 0</p>
+  </body>
+</notes>
+	NADH__45__DEHYDROG__45__A__45__RXN	NADH-DEHYDROG-A-RXN	(reversible: True) :
+		1.0	NADH_CCO__45__IN	(NADH)	5.0	PROTON_CCO__45__IN	(H+)	1.0	Ubiquinones_c	(a ubiquinone)	|	4.0	PROTON_CCO__45__OUT	(H+)	1.0	NAD_CCO__45__IN	(NAD+)	1.0	Ubiquinols_c	(an ubiquinol)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: NADH-DEHYDROG-A-RXN</p>
+    <p>EC Number: 1.6.5.3</p>
+    <p>SUBSYSTEM: PWY0-1334, PWY0-1335</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS01045) or (SFUM_RS10025) or (SFUM_RS21720) or (SFUM_RS10120)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__1223	RXN-1223	(reversible: True) :
+		1.0	UDP__45__SULFOQUINOVOSE_c	(UDP-alpha-D-sulfoquinovopyranose)	1.0	WATER_c	(H2O)	|	1.0	CPD__45__12575_c	(UDP-alpha-D-glucose)	1.0	SO3_c	(sulfite)	1.0	PROTON_c	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-1223</p>
+    <p>EC Number: 3.13.1.1</p>
+    <p>GENE_ASSOCIATION: (Sfum_2192)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	IGPSYN__45__RXN	IGPSYN-RXN	(reversible: False) :
+		1.0	PROTON_c	(H+)	1.0	CARBOXYPHENYLAMINO__45__DEOXYRIBULOSE__45__P_c	(1-(o-carboxyphenylamino)-1'-deoxyribulose 5'-phosphate)	|	1.0	INDOLE__45__3__45__GLYCEROL__45__P_c	((1S,2R)-1-C-(indol-3-yl)glycerol 3-phosphate)	1.0	CARBON__45__DIOXIDE_c	(CO2)	1.0	WATER_c	(H2O)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: IGPSYN-RXN</p>
+    <p>EC Number: 4.1.1.48</p>
+    <p>SUBSYSTEM: TRPSYN-PWY</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS09165)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__1223	RXN-1223	(reversible: True) :
+		1.0	UDP__45__SULFOQUINOVOSE_c	(UDP-alpha-D-sulfoquinovopyranose)	1.0	WATER_c	(H2O)	|	1.0	CPD__45__12575_c	(UDP-alpha-D-glucose)	1.0	SO3_c	(sulfite)	1.0	PROTON_c	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-1223</p>
+    <p>EC Number: 3.13.1.1</p>
+    <p>GENE_ASSOCIATION: (Sfum_2192)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	PREPHENATEDEHYDRAT__45__RXN	PREPHENATEDEHYDRAT-RXN	(reversible: True) :
+		1.0	PROTON_c	(H+)	1.0	PREPHENATE_c	(prephenate)	|	1.0	PHENYL__45__PYRUVATE_c	(keto-phenylpyruvate)	1.0	WATER_c	(H2O)	1.0	CARBON__45__DIOXIDE_c	(CO2)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: PREPHENATEDEHYDRAT-RXN</p>
+    <p>EC Number: 4.2.1.51</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS14115)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN0__45__2461	RXN0-2461	(reversible: True) :
+		1.0	Hpr__45__pi__45__phospho__45__L__45__histidines_CCO__45__IN	(an [HPr protein]-Npi-phospho-L-histidine)	1.0	ASCORBATE_CCO__45__OUT	(L-ascorbate)	|	1.0	L__45__ASCORBATE__45__6__45__PHOSPHATE_CCO__45__IN	(L-ascorbate 6-phosphate)	1.0	Hpr__45__Histidine_CCO__45__IN	(an [HPr]-L-histidine)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN0-2461</p>
+    <p>EC Number: 2.7.1.194</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	RXN__45__17355	RXN-17355	(reversible: False) :
+		1.0	PTS__45__I__45__pi__45__phospho__45__L__45__histidines_c	(a [PTS enzyme I]-Npi-phospho-L-histidine)	1.0	Hpr__45__Histidine_c	(an [HPr]-L-histidine)	|	1.0	PTS__45__I__45__Histidines_c	(a [PTS enzyme I]-L-histidine)	1.0	Hpr__45__pi__45__phospho__45__L__45__histidines_c	(an [HPr protein]-Npi-phospho-L-histidine)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-17355</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS04015)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN0__45__2461	RXN0-2461	(reversible: True) :
+		1.0	Hpr__45__pi__45__phospho__45__L__45__histidines_CCO__45__IN	(an [HPr protein]-Npi-phospho-L-histidine)	1.0	ASCORBATE_CCO__45__OUT	(L-ascorbate)	|	1.0	L__45__ASCORBATE__45__6__45__PHOSPHATE_CCO__45__IN	(L-ascorbate 6-phosphate)	1.0	Hpr__45__Histidine_CCO__45__IN	(an [HPr]-L-histidine)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN0-2461</p>
+    <p>EC Number: 2.7.1.194</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	_2__46__7__46__3__46__9__45__RXN	2.7.3.9-RXN	(reversible: False) :
+		1.0	PHOSPHO__45__ENOL__45__PYRUVATE_c	(phosphoenolpyruvate)	1.0	Hpr__45__Histidine_c	(an [HPr]-L-histidine)	|	1.0	PYRUVATE_c	(pyruvate)	1.0	Hpr__45__pi__45__phospho__45__L__45__histidines_c	(an [HPr protein]-Npi-phospho-L-histidine)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 2.7.3.9-RXN</p>
+    <p>EC Number: 2.7.3.9</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS04015)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	TRANS__45__RXN__45__156	TRANS-RXN-156	(reversible: True) :
+		1.0	Hpr__45__pi__45__phospho__45__L__45__histidines_CCO__45__IN	(an [HPr protein]-Npi-phospho-L-histidine)	1.0	MANNITOL_CCO__45__OUT	(D-mannitol)	|	1.0	MANNITOL__45__1P_CCO__45__IN	(D-mannitol 1-phosphate)	1.0	Hpr__45__Histidine_CCO__45__IN	(an [HPr]-L-histidine)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: TRANS-RXN-156</p>
+    <p>EC Number: 2.7.1.197</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	RXN__45__17355	RXN-17355	(reversible: False) :
+		1.0	PTS__45__I__45__pi__45__phospho__45__L__45__histidines_c	(a [PTS enzyme I]-Npi-phospho-L-histidine)	1.0	Hpr__45__Histidine_c	(an [HPr]-L-histidine)	|	1.0	PTS__45__I__45__Histidines_c	(a [PTS enzyme I]-L-histidine)	1.0	Hpr__45__pi__45__phospho__45__L__45__histidines_c	(an [HPr protein]-Npi-phospho-L-histidine)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-17355</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS04015)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	TRANS__45__RXN__45__156	TRANS-RXN-156	(reversible: True) :
+		1.0	Hpr__45__pi__45__phospho__45__L__45__histidines_CCO__45__IN	(an [HPr protein]-Npi-phospho-L-histidine)	1.0	MANNITOL_CCO__45__OUT	(D-mannitol)	|	1.0	MANNITOL__45__1P_CCO__45__IN	(D-mannitol 1-phosphate)	1.0	Hpr__45__Histidine_CCO__45__IN	(an [HPr]-L-histidine)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: TRANS-RXN-156</p>
+    <p>EC Number: 2.7.1.197</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	_2__46__7__46__3__46__9__45__RXN	2.7.3.9-RXN	(reversible: False) :
+		1.0	PHOSPHO__45__ENOL__45__PYRUVATE_c	(phosphoenolpyruvate)	1.0	Hpr__45__Histidine_c	(an [HPr]-L-histidine)	|	1.0	PYRUVATE_c	(pyruvate)	1.0	Hpr__45__pi__45__phospho__45__L__45__histidines_c	(an [HPr protein]-Npi-phospho-L-histidine)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 2.7.3.9-RXN</p>
+    <p>EC Number: 2.7.3.9</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS04015)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	TRANS__45__RXN__45__157__45__Hpr__45__pi__45__phospho__45__L__45__histidines__47__GLC__47____47__D__45__glucopyranose__45__6__45__phosphate__47__Hpr__45__Histidine__46__75__46__	TRANS-RXN-157-Hpr-pi-phospho-L-histidines/GLC//D-glucopyranose-6-phosphate/Hpr-Histidine.75.	(reversible: False) :
+		1.0	Hpr__45__pi__45__phospho__45__L__45__histidines_CCO__45__IN	(an [HPr protein]-Npi-phospho-L-histidine)	1.0	GLC_CCO__45__OUT	(beta-D-glucopyranose)	|	1.0	D__45__glucopyranose__45__6__45__phosphate_CCO__45__IN	(D-glucopyranose 6-phosphate)	1.0	Hpr__45__Histidine_CCO__45__IN	(an [HPr]-L-histidine)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: TRANS-RXN-157</p>
+    <p>EC Number: 2.7.1.199</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	RXN__45__17355	RXN-17355	(reversible: False) :
+		1.0	PTS__45__I__45__pi__45__phospho__45__L__45__histidines_c	(a [PTS enzyme I]-Npi-phospho-L-histidine)	1.0	Hpr__45__Histidine_c	(an [HPr]-L-histidine)	|	1.0	PTS__45__I__45__Histidines_c	(a [PTS enzyme I]-L-histidine)	1.0	Hpr__45__pi__45__phospho__45__L__45__histidines_c	(an [HPr protein]-Npi-phospho-L-histidine)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-17355</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS04015)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	TRANS__45__RXN__45__157__45__Hpr__45__pi__45__phospho__45__L__45__histidines__47__GLC__47____47__D__45__glucopyranose__45__6__45__phosphate__47__Hpr__45__Histidine__46__75__46__	TRANS-RXN-157-Hpr-pi-phospho-L-histidines/GLC//D-glucopyranose-6-phosphate/Hpr-Histidine.75.	(reversible: False) :
+		1.0	Hpr__45__pi__45__phospho__45__L__45__histidines_CCO__45__IN	(an [HPr protein]-Npi-phospho-L-histidine)	1.0	GLC_CCO__45__OUT	(beta-D-glucopyranose)	|	1.0	D__45__glucopyranose__45__6__45__phosphate_CCO__45__IN	(D-glucopyranose 6-phosphate)	1.0	Hpr__45__Histidine_CCO__45__IN	(an [HPr]-L-histidine)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: TRANS-RXN-157</p>
+    <p>EC Number: 2.7.1.199</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	_2__46__7__46__3__46__9__45__RXN	2.7.3.9-RXN	(reversible: False) :
+		1.0	PHOSPHO__45__ENOL__45__PYRUVATE_c	(phosphoenolpyruvate)	1.0	Hpr__45__Histidine_c	(an [HPr]-L-histidine)	|	1.0	PYRUVATE_c	(pyruvate)	1.0	Hpr__45__pi__45__phospho__45__L__45__histidines_c	(an [HPr protein]-Npi-phospho-L-histidine)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 2.7.3.9-RXN</p>
+    <p>EC Number: 2.7.3.9</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS04015)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__8342	RXN-8342	(reversible: False) :
+		1.0	PRECURSOR__45__Z_c	(cyclic pyranopterin phosphate)	2.0	Thiocarboxylated__45__MPT__45__synthases_c	(a thiocarboxylated [small subunit of molybdopterin synthase])	1.0	WATER_c	(H2O)	|	1.0	CPD__45__4_c	(molybdopterin)	2.0	MPT__45__Synthase__45__small__45__subunits_c	(a small subunit of molybdopterin synthase)	4.0	PROTON_c	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-8342</p>
+    <p>EC Number: 2.8.1.12</p>
+    <p>GENE_ASSOCIATION: (Sfum_0459)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	RXN0__45__5268	RXN0-5268	(reversible: False) :
+		1.0	OXYGEN__45__MOLECULE_CCO__45__IN	(oxygen)	5.0	PROTON_CCO__45__IN	(H+)	2.0	Ubiquinols_c	(an ubiquinol)	|	2.0	WATER_CCO__45__IN	(H2O)	2.0	Ubiquinones_c	(a ubiquinone)	5.0	PROTON_CCO__45__OUT	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN0-5268</p>
+    <p>EC Number: 1.10.3.10</p>
+    <p>SUBSYSTEM: PWY0-1329, PWY0-1335, PWY0-1561</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS15595) or (SFUM_RS15805) or (SFUM_RS01730)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__8342	RXN-8342	(reversible: False) :
+		1.0	PRECURSOR__45__Z_c	(cyclic pyranopterin phosphate)	2.0	Thiocarboxylated__45__MPT__45__synthases_c	(a thiocarboxylated [small subunit of molybdopterin synthase])	1.0	WATER_c	(H2O)	|	1.0	CPD__45__4_c	(molybdopterin)	2.0	MPT__45__Synthase__45__small__45__subunits_c	(a small subunit of molybdopterin synthase)	4.0	PROTON_c	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-8342</p>
+    <p>EC Number: 2.8.1.12</p>
+    <p>GENE_ASSOCIATION: (Sfum_0459)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	RXN0__45__5266	RXN0-5266	(reversible: False) :
+		2.0	Ubiquinols_c	(an ubiquinol)	1.0	OXYGEN__45__MOLECULE_CCO__45__IN	(oxygen)	4.0	PROTON_CCO__45__IN	(H+)	|	2.0	Ubiquinones_c	(a ubiquinone)	4.0	PROTON_CCO__45__OUT	(H+)	2.0	WATER_CCO__45__IN	(H2O)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN0-5266</p>
+    <p>EC Number: 1.10.3.14</p>
+    <p>SUBSYSTEM: PWY0-1353, PWY0-1334</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS15590) or (SFUM_RS15595) or (SFUM_RS15800) or (SFUM_RS15805) or (SFUM_RS01725) or (SFUM_RS01730)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__8342	RXN-8342	(reversible: False) :
+		1.0	PRECURSOR__45__Z_c	(cyclic pyranopterin phosphate)	2.0	Thiocarboxylated__45__MPT__45__synthases_c	(a thiocarboxylated [small subunit of molybdopterin synthase])	1.0	WATER_c	(H2O)	|	1.0	CPD__45__4_c	(molybdopterin)	2.0	MPT__45__Synthase__45__small__45__subunits_c	(a small subunit of molybdopterin synthase)	4.0	PROTON_c	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-8342</p>
+    <p>EC Number: 2.8.1.12</p>
+    <p>GENE_ASSOCIATION: (Sfum_0459)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	RXN__45__8348	RXN-8348	(reversible: True) :
+		1.0	CPD__45__8122_c	(molybdopterin adenine dinucleotide)	1.0	CPD__45__3_c	(molybdate)	1.0	PROTON_c	(H+)	|	1.0	CPD__45__8123_c	(MoO2-molybdopterin cofactor)	1.0	AMP_c	(AMP)	1.0	WATER_c	(H2O)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-8348</p>
+    <p>EC Number: 2.10.1.1</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS15920) or (SFUM_RS08785)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__8342	RXN-8342	(reversible: False) :
+		1.0	PRECURSOR__45__Z_c	(cyclic pyranopterin phosphate)	2.0	Thiocarboxylated__45__MPT__45__synthases_c	(a thiocarboxylated [small subunit of molybdopterin synthase])	1.0	WATER_c	(H2O)	|	1.0	CPD__45__4_c	(molybdopterin)	2.0	MPT__45__Synthase__45__small__45__subunits_c	(a small subunit of molybdopterin synthase)	4.0	PROTON_c	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-8342</p>
+    <p>EC Number: 2.8.1.12</p>
+    <p>GENE_ASSOCIATION: (Sfum_0459)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	RXN__45__982__45__ARSENATE__47__Reduced__45__NrdH__45__Proteins__47__PROTON__47____47__CPD__45__763__47__Oxidized__45__NrdH__45__Proteins__47__WATER__46__76__46__	RXN-982-ARSENATE/Reduced-NrdH-Proteins/PROTON//CPD-763/Oxidized-NrdH-Proteins/WATER.76.	(reversible: True) :
+		1.0	ARSENATE_c	(arsenate)	1.0	Reduced__45__NrdH__45__Proteins_c	(a reduced NrdH glutaredoxin-like protein)	1.0	PROTON_c	(H+)	|	1.0	CPD__45__763_c	(arsenite)	1.0	Oxidized__45__NrdH__45__Proteins_c	(an oxidized NrdH glutaredoxin-like protein)	1.0	WATER_c	(H2O)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-982</p>
+    <p>EC Number: 1.20.4.1</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS18600)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__8342	RXN-8342	(reversible: False) :
+		1.0	PRECURSOR__45__Z_c	(cyclic pyranopterin phosphate)	2.0	Thiocarboxylated__45__MPT__45__synthases_c	(a thiocarboxylated [small subunit of molybdopterin synthase])	1.0	WATER_c	(H2O)	|	1.0	CPD__45__4_c	(molybdopterin)	2.0	MPT__45__Synthase__45__small__45__subunits_c	(a small subunit of molybdopterin synthase)	4.0	PROTON_c	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-8342</p>
+    <p>EC Number: 2.8.1.12</p>
+    <p>GENE_ASSOCIATION: (Sfum_0459)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	RXN__45__982	RXN-982	(reversible: True) :
+		1.0	ARSENATE_c	(arsenate)	1.0	Red__45__Glutaredoxins_c	(a reduced glutaredoxin)	1.0	PROTON_c	(H+)	|	1.0	CPD__45__763_c	(arsenite)	1.0	Ox__45__Glutaredoxins_c	(an oxidized glutaredoxin)	1.0	WATER_c	(H2O)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-982</p>
+    <p>EC Number: 1.20.4.1</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS18600)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__8342	RXN-8342	(reversible: False) :
+		1.0	PRECURSOR__45__Z_c	(cyclic pyranopterin phosphate)	2.0	Thiocarboxylated__45__MPT__45__synthases_c	(a thiocarboxylated [small subunit of molybdopterin synthase])	1.0	WATER_c	(H2O)	|	1.0	CPD__45__4_c	(molybdopterin)	2.0	MPT__45__Synthase__45__small__45__subunits_c	(a small subunit of molybdopterin synthase)	4.0	PROTON_c	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-8342</p>
+    <p>EC Number: 2.8.1.12</p>
+    <p>GENE_ASSOCIATION: (Sfum_0459)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	ATPSYN__45__RXN	ATPSYN-RXN	(reversible: True) :
+		1.0	ADP_CCO__45__IN	(ADP)	1.0	Pi_CCO__45__IN	(phosphate)	4.0	PROTON_CCO__45__OUT	(H+)	|	1.0	ATP_CCO__45__IN	(ATP)	1.0	WATER_CCO__45__IN	(H2O)	3.0	PROTON_CCO__45__IN	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: ATPSYN-RXN</p>
+    <p>EC Number: 3.6.3.14</p>
+    <p>SUBSYSTEM: PWY-7219, PWY-7229</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__8342	RXN-8342	(reversible: False) :
+		1.0	PRECURSOR__45__Z_c	(cyclic pyranopterin phosphate)	2.0	Thiocarboxylated__45__MPT__45__synthases_c	(a thiocarboxylated [small subunit of molybdopterin synthase])	1.0	WATER_c	(H2O)	|	1.0	CPD__45__4_c	(molybdopterin)	2.0	MPT__45__Synthase__45__small__45__subunits_c	(a small subunit of molybdopterin synthase)	4.0	PROTON_c	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-8342</p>
+    <p>EC Number: 2.8.1.12</p>
+    <p>GENE_ASSOCIATION: (Sfum_0459)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	RXN__45__16564	RXN-16564	(reversible: False) :
+		3.0	Menaquinols_c	(a menaquinol)	2.0	PROTON_CCO__45__OUT	(H+)	1.0	NITRITE_CCO__45__OUT	(nitrite)	|	3.0	Menaquinones_c	(a menaquinone)	2.0	WATER_CCO__45__OUT	(H2O)	1.0	AMMONIUM_CCO__45__OUT	(ammonium)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-16564</p>
+    <p>EC Number: 1.7.2.2</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS12410) or (SFUM_RS12405)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__8342	RXN-8342	(reversible: False) :
+		1.0	PRECURSOR__45__Z_c	(cyclic pyranopterin phosphate)	2.0	Thiocarboxylated__45__MPT__45__synthases_c	(a thiocarboxylated [small subunit of molybdopterin synthase])	1.0	WATER_c	(H2O)	|	1.0	CPD__45__4_c	(molybdopterin)	2.0	MPT__45__Synthase__45__small__45__subunits_c	(a small subunit of molybdopterin synthase)	4.0	PROTON_c	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-8342</p>
+    <p>EC Number: 2.8.1.12</p>
+    <p>GENE_ASSOCIATION: (Sfum_0459)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	_1__46__7__46__2__46__2__45__RXN__45__NITRITE__47__Reduced__45__cytochromes__45__c2__47__PROTON__47____47__AMMONIUM__47__Oxidized__45__cytochromes__45__c2__47__WATER__46__78__46__	1.7.2.2-RXN-NITRITE/Reduced-cytochromes-c2/PROTON//AMMONIUM/Oxidized-cytochromes-c2/WATER.78.	(reversible: False) :
+		1.0	NITRITE_CCO__45__OUT	(nitrite)	6.0	Reduced__45__cytochromes__45__c2_CCO__45__OUT	(a reduced cytochrome c2)	8.0	PROTON_CCO__45__OUT	(H+)	|	1.0	AMMONIUM_CCO__45__OUT	(ammonium)	6.0	Oxidized__45__cytochromes__45__c2_CCO__45__OUT	(an oxidized cytochrome c2)	2.0	WATER_CCO__45__OUT	(H2O)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 1.7.2.2-RXN</p>
+    <p>EC Number: 1.7.2.2</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__8342	RXN-8342	(reversible: False) :
+		1.0	PRECURSOR__45__Z_c	(cyclic pyranopterin phosphate)	2.0	Thiocarboxylated__45__MPT__45__synthases_c	(a thiocarboxylated [small subunit of molybdopterin synthase])	1.0	WATER_c	(H2O)	|	1.0	CPD__45__4_c	(molybdopterin)	2.0	MPT__45__Synthase__45__small__45__subunits_c	(a small subunit of molybdopterin synthase)	4.0	PROTON_c	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-8342</p>
+    <p>EC Number: 2.8.1.12</p>
+    <p>GENE_ASSOCIATION: (Sfum_0459)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	_1__46__7__46__2__46__2__45__RXN__45__NITRITE__47__a__45__reduced__45__NrfB__45__protein__47__PROTON__47____47__AMMONIUM__47__an__45__oxidized__45__NrfB__45__protein__47__WATER__46__79__46__	1.7.2.2-RXN-NITRITE/a-reduced-NrfB-protein/PROTON//AMMONIUM/an-oxidized-NrfB-protein/WATER.79.	(reversible: False) :
+		1.0	NITRITE_CCO__45__OUT	(nitrite)	6.0	a__45__reduced__45__NrfB__45__protein_CCO__45__OUT	(a reduced [NrfB protein])	8.0	PROTON_CCO__45__OUT	(H+)	|	1.0	AMMONIUM_CCO__45__OUT	(ammonium)	6.0	an__45__oxidized__45__NrfB__45__protein_CCO__45__OUT	(an oxidized [NrfB protein])	2.0	WATER_CCO__45__OUT	(H2O)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 1.7.2.2-RXN</p>
+    <p>EC Number: 1.7.2.2</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__8342	RXN-8342	(reversible: False) :
+		1.0	PRECURSOR__45__Z_c	(cyclic pyranopterin phosphate)	2.0	Thiocarboxylated__45__MPT__45__synthases_c	(a thiocarboxylated [small subunit of molybdopterin synthase])	1.0	WATER_c	(H2O)	|	1.0	CPD__45__4_c	(molybdopterin)	2.0	MPT__45__Synthase__45__small__45__subunits_c	(a small subunit of molybdopterin synthase)	4.0	PROTON_c	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-8342</p>
+    <p>EC Number: 2.8.1.12</p>
+    <p>GENE_ASSOCIATION: (Sfum_0459)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	_1__46__7__46__2__46__2__45__RXN__45__NITRITE__47__Cytochromes__45__C552__45__Red__47__PROTON__47____47__AMMONIUM__47__Cytochromes__45__C552__45__Ox__47__WATER__46__72__46__	1.7.2.2-RXN-NITRITE/Cytochromes-C552-Red/PROTON//AMMONIUM/Cytochromes-C552-Ox/WATER.72.	(reversible: False) :
+		1.0	NITRITE_CCO__45__OUT	(nitrite)	6.0	Cytochromes__45__C552__45__Red_CCO__45__OUT	(a reduced cytochrome c552)	8.0	PROTON_CCO__45__OUT	(H+)	|	1.0	AMMONIUM_CCO__45__OUT	(ammonium)	6.0	Cytochromes__45__C552__45__Ox_CCO__45__OUT	(an oxidized cytochrome c552)	2.0	WATER_CCO__45__OUT	(H2O)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 1.7.2.2-RXN</p>
+    <p>EC Number: 1.7.2.2</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__8342	RXN-8342	(reversible: False) :
+		1.0	PRECURSOR__45__Z_c	(cyclic pyranopterin phosphate)	2.0	Thiocarboxylated__45__MPT__45__synthases_c	(a thiocarboxylated [small subunit of molybdopterin synthase])	1.0	WATER_c	(H2O)	|	1.0	CPD__45__4_c	(molybdopterin)	2.0	MPT__45__Synthase__45__small__45__subunits_c	(a small subunit of molybdopterin synthase)	4.0	PROTON_c	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-8342</p>
+    <p>EC Number: 2.8.1.12</p>
+    <p>GENE_ASSOCIATION: (Sfum_0459)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	_1__46__7__46__2__46__2__45__RXN__45__NITRITE__47__Cytochromes__45__CL__45__Red__47__PROTON__47____47__AMMONIUM__47__Cytochromes__45__CL__45__Ox__47__WATER__46__68__46__	1.7.2.2-RXN-NITRITE/Cytochromes-CL-Red/PROTON//AMMONIUM/Cytochromes-CL-Ox/WATER.68.	(reversible: False) :
+		1.0	NITRITE_CCO__45__OUT	(nitrite)	6.0	Cytochromes__45__CL__45__Red_CCO__45__OUT	(a reduced cytochrome cL)	8.0	PROTON_CCO__45__OUT	(H+)	|	1.0	AMMONIUM_CCO__45__OUT	(ammonium)	6.0	Cytochromes__45__CL__45__Ox_CCO__45__OUT	(an oxidized cytochrome cL)	2.0	WATER_CCO__45__OUT	(H2O)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 1.7.2.2-RXN</p>
+    <p>EC Number: 1.7.2.2</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__8342	RXN-8342	(reversible: False) :
+		1.0	PRECURSOR__45__Z_c	(cyclic pyranopterin phosphate)	2.0	Thiocarboxylated__45__MPT__45__synthases_c	(a thiocarboxylated [small subunit of molybdopterin synthase])	1.0	WATER_c	(H2O)	|	1.0	CPD__45__4_c	(molybdopterin)	2.0	MPT__45__Synthase__45__small__45__subunits_c	(a small subunit of molybdopterin synthase)	4.0	PROTON_c	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-8342</p>
+    <p>EC Number: 2.8.1.12</p>
+    <p>GENE_ASSOCIATION: (Sfum_0459)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	_1__46__7__46__2__46__2__45__RXN__45__NITRITE__47__Reduced__45__cytochromes__45__C4__47__PROTON__47____47__AMMONIUM__47__Oxidized__45__cytochromes__45__C4__47__WATER__46__78__46__	1.7.2.2-RXN-NITRITE/Reduced-cytochromes-C4/PROTON//AMMONIUM/Oxidized-cytochromes-C4/WATER.78.	(reversible: False) :
+		1.0	NITRITE_CCO__45__OUT	(nitrite)	6.0	Reduced__45__cytochromes__45__C4_CCO__45__OUT	(a reduced cytochrome c4)	8.0	PROTON_CCO__45__OUT	(H+)	|	1.0	AMMONIUM_CCO__45__OUT	(ammonium)	6.0	Oxidized__45__cytochromes__45__C4_CCO__45__OUT	(an oxidized cytochrome c4)	2.0	WATER_CCO__45__OUT	(H2O)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 1.7.2.2-RXN</p>
+    <p>EC Number: 1.7.2.2</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__8342	RXN-8342	(reversible: False) :
+		1.0	PRECURSOR__45__Z_c	(cyclic pyranopterin phosphate)	2.0	Thiocarboxylated__45__MPT__45__synthases_c	(a thiocarboxylated [small subunit of molybdopterin synthase])	1.0	WATER_c	(H2O)	|	1.0	CPD__45__4_c	(molybdopterin)	2.0	MPT__45__Synthase__45__small__45__subunits_c	(a small subunit of molybdopterin synthase)	4.0	PROTON_c	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-8342</p>
+    <p>EC Number: 2.8.1.12</p>
+    <p>GENE_ASSOCIATION: (Sfum_0459)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	_1__46__7__46__2__46__2__45__RXN__45__NITRITE__47__Reduced__45__CycA1__45__cytochromes__47__PROTON__47____47__AMMONIUM__47__Oxidized__45__CycA1__45__cytochromes__47__WATER__46__84__46__	1.7.2.2-RXN-NITRITE/Reduced-CycA1-cytochromes/PROTON//AMMONIUM/Oxidized-CycA1-cytochromes/WATER.84.	(reversible: False) :
+		1.0	NITRITE_CCO__45__OUT	(nitrite)	6.0	Reduced__45__CycA1__45__cytochromes_CCO__45__OUT	(a reduced CycA1 cytochrome)	8.0	PROTON_CCO__45__OUT	(H+)	|	1.0	AMMONIUM_CCO__45__OUT	(ammonium)	6.0	Oxidized__45__CycA1__45__cytochromes_CCO__45__OUT	(an oxidized CycA1 cytochrome)	2.0	WATER_CCO__45__OUT	(H2O)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 1.7.2.2-RXN</p>
+    <p>EC Number: 1.7.2.2</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__8342	RXN-8342	(reversible: False) :
+		1.0	PRECURSOR__45__Z_c	(cyclic pyranopterin phosphate)	2.0	Thiocarboxylated__45__MPT__45__synthases_c	(a thiocarboxylated [small subunit of molybdopterin synthase])	1.0	WATER_c	(H2O)	|	1.0	CPD__45__4_c	(molybdopterin)	2.0	MPT__45__Synthase__45__small__45__subunits_c	(a small subunit of molybdopterin synthase)	4.0	PROTON_c	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-8342</p>
+    <p>EC Number: 2.8.1.12</p>
+    <p>GENE_ASSOCIATION: (Sfum_0459)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	_1__46__7__46__2__46__2__45__RXN__45__NITRITE__47__Reduced__45__cytochromes__45__c553__47__PROTON__47____47__AMMONIUM__47__Oxidized__45__cytochromes__45__c553__47__WATER__46__82__46__	1.7.2.2-RXN-NITRITE/Reduced-cytochromes-c553/PROTON//AMMONIUM/Oxidized-cytochromes-c553/WATER.82.	(reversible: False) :
+		1.0	NITRITE_CCO__45__OUT	(nitrite)	6.0	Reduced__45__cytochromes__45__c553_CCO__45__OUT	(a reduced cytochrome c-553)	8.0	PROTON_CCO__45__OUT	(H+)	|	1.0	AMMONIUM_CCO__45__OUT	(ammonium)	6.0	Oxidized__45__cytochromes__45__c553_CCO__45__OUT	(an oxidized cytochrome c-553)	2.0	WATER_CCO__45__OUT	(H2O)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 1.7.2.2-RXN</p>
+    <p>EC Number: 1.7.2.2</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__8342	RXN-8342	(reversible: False) :
+		1.0	PRECURSOR__45__Z_c	(cyclic pyranopterin phosphate)	2.0	Thiocarboxylated__45__MPT__45__synthases_c	(a thiocarboxylated [small subunit of molybdopterin synthase])	1.0	WATER_c	(H2O)	|	1.0	CPD__45__4_c	(molybdopterin)	2.0	MPT__45__Synthase__45__small__45__subunits_c	(a small subunit of molybdopterin synthase)	4.0	PROTON_c	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-8342</p>
+    <p>EC Number: 2.8.1.12</p>
+    <p>GENE_ASSOCIATION: (Sfum_0459)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	_1__46__7__46__2__46__2__45__RXN__45__NITRITE__47__Reduced__45__NapC__45__proteins__47__PROTON__47____47__AMMONIUM__47__Oxidized__45__NapC__45__proteins__47__WATER__46__76__46__	1.7.2.2-RXN-NITRITE/Reduced-NapC-proteins/PROTON//AMMONIUM/Oxidized-NapC-proteins/WATER.76.	(reversible: False) :
+		1.0	NITRITE_CCO__45__OUT	(nitrite)	6.0	Reduced__45__NapC__45__proteins_CCO__45__OUT	(a reduced [NapC protein])	8.0	PROTON_CCO__45__OUT	(H+)	|	1.0	AMMONIUM_CCO__45__OUT	(ammonium)	6.0	Oxidized__45__NapC__45__proteins_CCO__45__OUT	(an oxidized [NapC protein])	2.0	WATER_CCO__45__OUT	(H2O)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 1.7.2.2-RXN</p>
+    <p>EC Number: 1.7.2.2</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__8342	RXN-8342	(reversible: False) :
+		1.0	PRECURSOR__45__Z_c	(cyclic pyranopterin phosphate)	2.0	Thiocarboxylated__45__MPT__45__synthases_c	(a thiocarboxylated [small subunit of molybdopterin synthase])	1.0	WATER_c	(H2O)	|	1.0	CPD__45__4_c	(molybdopterin)	2.0	MPT__45__Synthase__45__small__45__subunits_c	(a small subunit of molybdopterin synthase)	4.0	PROTON_c	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-8342</p>
+    <p>EC Number: 2.8.1.12</p>
+    <p>GENE_ASSOCIATION: (Sfum_0459)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	_1__46__7__46__2__46__2__45__RXN__45__NITRITE__47__Cytochromes__45__C554__45__Red__47__PROTON__47____47__AMMONIUM__47__Cytochromes__45__C554__45__Ox__47__WATER__46__72__46__	1.7.2.2-RXN-NITRITE/Cytochromes-C554-Red/PROTON//AMMONIUM/Cytochromes-C554-Ox/WATER.72.	(reversible: False) :
+		1.0	NITRITE_CCO__45__OUT	(nitrite)	6.0	Cytochromes__45__C554__45__Red_CCO__45__OUT	(a reduced cytochrome c554)	8.0	PROTON_CCO__45__OUT	(H+)	|	1.0	AMMONIUM_CCO__45__OUT	(ammonium)	6.0	Cytochromes__45__C554__45__Ox_CCO__45__OUT	(an oxidized cytochrome c554)	2.0	WATER_CCO__45__OUT	(H2O)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 1.7.2.2-RXN</p>
+    <p>EC Number: 1.7.2.2</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__8342	RXN-8342	(reversible: False) :
+		1.0	PRECURSOR__45__Z_c	(cyclic pyranopterin phosphate)	2.0	Thiocarboxylated__45__MPT__45__synthases_c	(a thiocarboxylated [small subunit of molybdopterin synthase])	1.0	WATER_c	(H2O)	|	1.0	CPD__45__4_c	(molybdopterin)	2.0	MPT__45__Synthase__45__small__45__subunits_c	(a small subunit of molybdopterin synthase)	4.0	PROTON_c	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-8342</p>
+    <p>EC Number: 2.8.1.12</p>
+    <p>GENE_ASSOCIATION: (Sfum_0459)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	_1__46__7__46__2__46__2__45__RXN__45__NITRITE__47__Cytochromes__45__c3__45__Reduced__47__PROTON__47____47__AMMONIUM__47__Cytochromes__45__c3__45__Oxidized__47__WATER__46__78__46__	1.7.2.2-RXN-NITRITE/Cytochromes-c3-Reduced/PROTON//AMMONIUM/Cytochromes-c3-Oxidized/WATER.78.	(reversible: False) :
+		1.0	NITRITE_CCO__45__OUT	(nitrite)	6.0	Cytochromes__45__c3__45__Reduced_CCO__45__OUT	(a reduced cytochrome c3)	8.0	PROTON_CCO__45__OUT	(H+)	|	1.0	AMMONIUM_CCO__45__OUT	(ammonium)	6.0	Cytochromes__45__c3__45__Oxidized_CCO__45__OUT	(an oxidized cytochrome c3)	2.0	WATER_CCO__45__OUT	(H2O)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 1.7.2.2-RXN</p>
+    <p>EC Number: 1.7.2.2</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__8342	RXN-8342	(reversible: False) :
+		1.0	PRECURSOR__45__Z_c	(cyclic pyranopterin phosphate)	2.0	Thiocarboxylated__45__MPT__45__synthases_c	(a thiocarboxylated [small subunit of molybdopterin synthase])	1.0	WATER_c	(H2O)	|	1.0	CPD__45__4_c	(molybdopterin)	2.0	MPT__45__Synthase__45__small__45__subunits_c	(a small subunit of molybdopterin synthase)	4.0	PROTON_c	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-8342</p>
+    <p>EC Number: 2.8.1.12</p>
+    <p>GENE_ASSOCIATION: (Sfum_0459)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	_1__46__7__46__2__46__2__45__RXN__45__NITRITE__47__Cytochromes__45__C__45__Reduced__47__PROTON__47____47__AMMONIUM__47__Cytochromes__45__C__45__Oxidized__47__WATER__46__76__46__	1.7.2.2-RXN-NITRITE/Cytochromes-C-Reduced/PROTON//AMMONIUM/Cytochromes-C-Oxidized/WATER.76.	(reversible: False) :
+		1.0	NITRITE_CCO__45__OUT	(nitrite)	6.0	Cytochromes__45__C__45__Reduced_CCO__45__OUT	(a reduced c-type cytochrome)	8.0	PROTON_CCO__45__OUT	(H+)	|	1.0	AMMONIUM_CCO__45__OUT	(ammonium)	6.0	Cytochromes__45__C__45__Oxidized_CCO__45__OUT	(an oxidized c-type cytochrome)	2.0	WATER_CCO__45__OUT	(H2O)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 1.7.2.2-RXN</p>
+    <p>EC Number: 1.7.2.2</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__8342	RXN-8342	(reversible: False) :
+		1.0	PRECURSOR__45__Z_c	(cyclic pyranopterin phosphate)	2.0	Thiocarboxylated__45__MPT__45__synthases_c	(a thiocarboxylated [small subunit of molybdopterin synthase])	1.0	WATER_c	(H2O)	|	1.0	CPD__45__4_c	(molybdopterin)	2.0	MPT__45__Synthase__45__small__45__subunits_c	(a small subunit of molybdopterin synthase)	4.0	PROTON_c	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-8342</p>
+    <p>EC Number: 2.8.1.12</p>
+    <p>GENE_ASSOCIATION: (Sfum_0459)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	RXN__45__18605__45__NITRITE__47__a__45__reduced__45__NrfB__45__protein__47__PROTON__47____47__an__45__oxidized__45__NrfB__45__protein__47__AMMONIUM__47__WATER__46__79__46__	RXN-18605-NITRITE/a-reduced-NrfB-protein/PROTON//an-oxidized-NrfB-protein/AMMONIUM/WATER.79.	(reversible: False) :
+		1.0	NITRITE_CCO__45__OUT	(nitrite)	6.0	a__45__reduced__45__NrfB__45__protein_CCO__45__OUT	(a reduced [NrfB protein])	8.0	PROTON_CCO__45__OUT	(H+)	|	6.0	an__45__oxidized__45__NrfB__45__protein_CCO__45__OUT	(an oxidized [NrfB protein])	1.0	AMMONIUM_CCO__45__OUT	(ammonium)	2.0	WATER_CCO__45__OUT	(H2O)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-18605</p>
+    <p>EC Number: 1.7.2.2</p>
+    <p>SUBSYSTEM: PWY0-1585</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__2901	RXN-2901	(reversible: True) :
+		1.0	B__45__ALANINE_c	(beta-alanine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	|	1.0	MALONATE__45__S__45__ALD_c	(3-oxopropanoate)	1.0	GLT_c	(L-glutamate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-2901</p>
+    <p>EC Number: 2.6.1.19</p>
+    <p>GENE_ASSOCIATION: (Sfum_2649)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	PSERTRANSAMPYR__45__RXN	PSERTRANSAMPYR-RXN	(reversible: True) :
+		1.0	_3OH__45__4P__45__OH__45__ALPHA__45__KETOBUTYRATE_c	((3R)-3-hydroxy-2-oxo-4 phosphooxybutanoate)	1.0	GLT_c	(L-glutamate)	|	1.0	_4__45__PHOSPHONOOXY__45__THREONINE_c	(4-phosphooxy-L-threonine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: PSERTRANSAMPYR-RXN</p>
+    <p>EC Number: 2.6.1.52</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS10785)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__2901	RXN-2901	(reversible: True) :
+		1.0	B__45__ALANINE_c	(beta-alanine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	|	1.0	MALONATE__45__S__45__ALD_c	(3-oxopropanoate)	1.0	GLT_c	(L-glutamate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-2901</p>
+    <p>EC Number: 2.6.1.19</p>
+    <p>GENE_ASSOCIATION: (Sfum_2649)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	BRANCHED__45__CHAINAMINOTRANSFERVAL__45__RXN	BRANCHED-CHAINAMINOTRANSFERVAL-RXN	(reversible: False) :
+		1.0	GLT_c	(L-glutamate)	1.0	_2__45__KETO__45__ISOVALERATE_c	(3-methyl-2-oxobutanoate)	|	1.0	VAL_c	(L-valine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: BRANCHED-CHAINAMINOTRANSFERVAL-RXN</p>
+    <p>EC Number: 2.6.1.42</p>
+    <p>SUBSYSTEM: VALSYN-PWY, BRANCHED-CHAIN-AA-SYN-PWY</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS16025)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__2901	RXN-2901	(reversible: True) :
+		1.0	B__45__ALANINE_c	(beta-alanine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	|	1.0	MALONATE__45__S__45__ALD_c	(3-oxopropanoate)	1.0	GLT_c	(L-glutamate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-2901</p>
+    <p>EC Number: 2.6.1.19</p>
+    <p>GENE_ASSOCIATION: (Sfum_2649)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	BRANCHED__45__CHAINAMINOTRANSFERLEU__45__RXN	BRANCHED-CHAINAMINOTRANSFERLEU-RXN	(reversible: False) :
+		1.0	GLT_c	(L-glutamate)	1.0	_2K__45__4CH3__45__PENTANOATE_c	(4-methyl-2-oxopentanoate)	|	1.0	LEU_c	(L-leucine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: BRANCHED-CHAINAMINOTRANSFERLEU-RXN</p>
+    <p>EC Number: 2.6.1.6/2.6.1.42</p>
+    <p>SUBSYSTEM: LEUSYN-PWY, BRANCHED-CHAIN-AA-SYN-PWY</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS16025)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__2901	RXN-2901	(reversible: True) :
+		1.0	B__45__ALANINE_c	(beta-alanine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	|	1.0	MALONATE__45__S__45__ALD_c	(3-oxopropanoate)	1.0	GLT_c	(L-glutamate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-2901</p>
+    <p>EC Number: 2.6.1.19</p>
+    <p>GENE_ASSOCIATION: (Sfum_2649)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	BRANCHED__45__CHAINAMINOTRANSFERILEU__45__RXN	BRANCHED-CHAINAMINOTRANSFERILEU-RXN	(reversible: False) :
+		1.0	GLT_c	(L-glutamate)	1.0	_2__45__KETO__45__3__45__METHYL__45__VALERATE_c	((S)-3-methyl-2-oxopentanoate)	|	1.0	ILE_c	(L-isoleucine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: BRANCHED-CHAINAMINOTRANSFERILEU-RXN</p>
+    <p>EC Number: 2.6.1.42</p>
+    <p>SUBSYSTEM: ILEUSYN-PWY, BRANCHED-CHAIN-AA-SYN-PWY</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS16025)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__2901	RXN-2901	(reversible: True) :
+		1.0	B__45__ALANINE_c	(beta-alanine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	|	1.0	MALONATE__45__S__45__ALD_c	(3-oxopropanoate)	1.0	GLT_c	(L-glutamate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-2901</p>
+    <p>EC Number: 2.6.1.19</p>
+    <p>GENE_ASSOCIATION: (Sfum_2649)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	ACETYLORNTRANSAM__45__RXN	ACETYLORNTRANSAM-RXN	(reversible: False) :
+		1.0	GLT_c	(L-glutamate)	1.0	CPD__45__469_c	(N-acetyl-L-glutamate 5-semialdehyde)	|	1.0	N__45__ALPHA__45__ACETYLORNITHINE_c	(N-acetyl-L-ornithine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: ACETYLORNTRANSAM-RXN</p>
+    <p>EC Number: 2.6.1.11</p>
+    <p>SUBSYSTEM: ARGSYNBSUB-PWY</p>
+    <p>Confidence level: 0</p>
+  </body>
+</notes>
+
+	RXN__45__14903	RXN-14903	(reversible: False) :
+		1.0	ETR__45__Quinones_c	(an electron-transfer quinone)	1.0	PRO_CCO__45__IN	(L-proline)	|	1.0	ETR__45__Quinols_c	(an electron-transfer quinol)	1.0	PROTON_CCO__45__IN	(H+)	1.0	L__45__DELTA1__45__PYRROLINE_5__45__CARBOXYLATE_CCO__45__IN	((S)-1-pyrroline-5-carboxylate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-14903</p>
+    <p>EC Number: 1.5.5.2</p>
+    <p>SUBSYSTEM: PROUT-PWY</p>
+    <p>GENE_ASSOCIATION: (Sfum_0833)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	RXN__45__15816	RXN-15816	(reversible: False) :
+		1.0	ETR__45__Quinols_c	(an electron-transfer quinol)	2.0	Cytochromes__45__C__45__Oxidized_CCO__45__OUT	(an oxidized c-type cytochrome)	|	1.0	ETR__45__Quinones_c	(an electron-transfer quinone)	2.0	PROTON_CCO__45__IN	(H+)	2.0	Cytochromes__45__C__45__Reduced_CCO__45__OUT	(a reduced c-type cytochrome)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-15816</p>
+    <p>EC Number: 1.10.2.2</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS21250)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	TRANS__45__RXN__45__157__45__Hpr__45__pi__45__phospho__45__L__45__histidines__47__Glucopyranose__47____47__D__45__glucopyranose__45__6__45__phosphate__47__Hpr__45__Histidine__46__85__46__	TRANS-RXN-157-Hpr-pi-phospho-L-histidines/Glucopyranose//D-glucopyranose-6-phosphate/Hpr-Histidine.85.	(reversible: False) :
+		1.0	Hpr__45__pi__45__phospho__45__L__45__histidines_CCO__45__IN	(an [HPr protein]-Npi-phospho-L-histidine)	1.0	Glucopyranose_CCO__45__OUT	(D-glucopyranose)	|	1.0	D__45__glucopyranose__45__6__45__phosphate_CCO__45__IN	(D-glucopyranose 6-phosphate)	1.0	Hpr__45__Histidine_CCO__45__IN	(an [HPr]-L-histidine)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: TRANS-RXN-157</p>
+    <p>EC Number: 2.7.1.199</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	RXN__45__17355	RXN-17355	(reversible: False) :
+		1.0	PTS__45__I__45__pi__45__phospho__45__L__45__histidines_c	(a [PTS enzyme I]-Npi-phospho-L-histidine)	1.0	Hpr__45__Histidine_c	(an [HPr]-L-histidine)	|	1.0	PTS__45__I__45__Histidines_c	(a [PTS enzyme I]-L-histidine)	1.0	Hpr__45__pi__45__phospho__45__L__45__histidines_c	(an [HPr protein]-Npi-phospho-L-histidine)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-17355</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS04015)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	TRANS__45__RXN__45__157__45__Hpr__45__pi__45__phospho__45__L__45__histidines__47__Glucopyranose__47____47__D__45__glucopyranose__45__6__45__phosphate__47__Hpr__45__Histidine__46__85__46__	TRANS-RXN-157-Hpr-pi-phospho-L-histidines/Glucopyranose//D-glucopyranose-6-phosphate/Hpr-Histidine.85.	(reversible: False) :
+		1.0	Hpr__45__pi__45__phospho__45__L__45__histidines_CCO__45__IN	(an [HPr protein]-Npi-phospho-L-histidine)	1.0	Glucopyranose_CCO__45__OUT	(D-glucopyranose)	|	1.0	D__45__glucopyranose__45__6__45__phosphate_CCO__45__IN	(D-glucopyranose 6-phosphate)	1.0	Hpr__45__Histidine_CCO__45__IN	(an [HPr]-L-histidine)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: TRANS-RXN-157</p>
+    <p>EC Number: 2.7.1.199</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	_2__46__7__46__3__46__9__45__RXN	2.7.3.9-RXN	(reversible: False) :
+		1.0	PHOSPHO__45__ENOL__45__PYRUVATE_c	(phosphoenolpyruvate)	1.0	Hpr__45__Histidine_c	(an [HPr]-L-histidine)	|	1.0	PYRUVATE_c	(pyruvate)	1.0	Hpr__45__pi__45__phospho__45__L__45__histidines_c	(an [HPr protein]-Npi-phospho-L-histidine)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: 2.7.3.9-RXN</p>
+    <p>EC Number: 2.7.3.9</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS04015)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	GLUTAMATE__45__DEHYDROGENASE__45__RXN	GLUTAMATE-DEHYDROGENASE-RXN	(reversible: False) :
+		1.0	GLT_c	(L-glutamate)	1.0	WATER_c	(H2O)	1.0	NAD_c	(NAD+)	|	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	1.0	AMMONIUM_c	(ammonium)	1.0	NADH_c	(NADH)	1.0	PROTON_c	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: GLUTAMATE-DEHYDROGENASE-RXN</p>
+    <p>EC Number: 1.4.1.2</p>
+    <p>SUBSYSTEM: GLUTAMATE-DEG1-PWY</p>
+    <p>GENE_ASSOCIATION: (Sfum_3265) or (Sfum_3244)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	NAD__45__SYNTH__45__NH3__45__RXN	NAD-SYNTH-NH3-RXN	(reversible: False) :
+		1.0	AMMONIUM_c	(ammonium)	1.0	ATP_c	(ATP)	1.0	DEAMIDO__45__NAD_c	(nicotinate adenine dinucleotide)	|	1.0	PROTON_c	(H+)	1.0	AMP_c	(AMP)	1.0	PPI_c	(diphosphate)	1.0	NAD_c	(NAD+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: NAD-SYNTH-NH3-RXN</p>
+    <p>EC Number: 6.3.1.5</p>
+    <p>SUBSYSTEM: PYRIDNUCSYN-PWY</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS02950)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	ARYLSULFAT__45__RXN	ARYLSULFAT-RXN	(reversible: False) :
+		1.0	Aryl__45__sulfates_c	(an aryl sulfate)	1.0	WATER_c	(H2O)	|	1.0	Phenols_c	(a phenol)	1.0	SULFATE_c	(sulfate)	1.0	PROTON_c	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: ARYLSULFAT-RXN</p>
+    <p>EC Number: 3.1.6.1</p>
+    <p>GENE_ASSOCIATION: (Sfum_2156)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	IGPSYN__45__RXN	IGPSYN-RXN	(reversible: False) :
+		1.0	PROTON_c	(H+)	1.0	CARBOXYPHENYLAMINO__45__DEOXYRIBULOSE__45__P_c	(1-(o-carboxyphenylamino)-1'-deoxyribulose 5'-phosphate)	|	1.0	INDOLE__45__3__45__GLYCEROL__45__P_c	((1S,2R)-1-C-(indol-3-yl)glycerol 3-phosphate)	1.0	CARBON__45__DIOXIDE_c	(CO2)	1.0	WATER_c	(H2O)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: IGPSYN-RXN</p>
+    <p>EC Number: 4.1.1.48</p>
+    <p>SUBSYSTEM: TRPSYN-PWY</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS09165)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	ARYLSULFAT__45__RXN	ARYLSULFAT-RXN	(reversible: False) :
+		1.0	Aryl__45__sulfates_c	(an aryl sulfate)	1.0	WATER_c	(H2O)	|	1.0	Phenols_c	(a phenol)	1.0	SULFATE_c	(sulfate)	1.0	PROTON_c	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: ARYLSULFAT-RXN</p>
+    <p>EC Number: 3.1.6.1</p>
+    <p>GENE_ASSOCIATION: (Sfum_2156)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	PREPHENATEDEHYDRAT__45__RXN	PREPHENATEDEHYDRAT-RXN	(reversible: True) :
+		1.0	PROTON_c	(H+)	1.0	PREPHENATE_c	(prephenate)	|	1.0	PHENYL__45__PYRUVATE_c	(keto-phenylpyruvate)	1.0	WATER_c	(H2O)	1.0	CARBON__45__DIOXIDE_c	(CO2)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: PREPHENATEDEHYDRAT-RXN</p>
+    <p>EC Number: 4.2.1.51</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS14115)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+

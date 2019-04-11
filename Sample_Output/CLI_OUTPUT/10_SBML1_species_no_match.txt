@@ -1,0 +1,216 @@
+C:\Users\ultra\Desktop\FInalScripts\SBMLComp\Sample_Input\Sfu2014_1_PWYTools.xml: 1436 Species	C:\Users\ultra\Desktop\FInalScripts\SBMLComp\Sample_Input\Sfu2017_1_PWYTools.xml: 1480 Species
+
+DNA__45__Adenines_c	an adenine in DNA
+DNA__45__Containing__45__N6__45__Methyladenine_c	an N6-methyladenine in DNA
+_1__45__AMINO__45__PROPAN__45__2__45__OL_c	(R)-1-aminopropan-2-ol
+CPD__45__68_c	1-aminocyclopropane-1-carboxylate
+_2E__45__5Z__45__tetradeca__45__2__45__5__45__dienoyl__45__ACPs_c	a (2E,5Z)-tetradeca-2,5-dienoyl-[acp]
+Trans__45__D3__45__cis__45__D5__45__dodecenoyl__45__ACPs_c	a (3E,5Z)-dodeca-3,5-dienoyl-[acp]
+_2E__45__7Z__45__hexadeca__45__2__45__7__45__dienoyl__45__ACPs_c	a (2E,7Z)-hexadeca-2,7-dienoyl-[acp]
+Enoylglutaryl__45__ACP__45__methyl__45__esters_c	an enoylglutaryl-[acp] methyl ester
+_2E__45__9Z__45__octadeca__45__2__45__9__45__dienoyl__45__ACPs_c	a (2E,9Z)-octadeca-2,9-dienoyl-[acp]
+Enoylpimeloyl__45__ACP__45__methyl__45__esters_c	an enoylpimeloyl-[acp] methyl ester
+_2E__45__11Z__45__icosa__45__2__45__11__45__dienoyl__45__ACPs_c	an (2E,11Z)-icosa-2,11-dienoyl-[acp]
+_3__45__P__45__SERINE_c	3-phospho-L-serine
+Ribosomal__45__protein__45__L3__45__L__45__glutamine_c	a [ribosomal protein L3]-L-glutamine
+Ribosomal__45__protein__45__L3__45__N5M__45__L__45__glutamine_c	a [ribosomal protein L3]-N5-methyl-L-glutamine
+CPD__45__9862_c	2-decaprenylphenol
+CPD__45__9863_c	2-nonaprenylphenol
+CPD__45__9853_c	2-heptaprenylphenol
+CPD__45__9610_c	all-trans-decaprenyl diphosphate
+CPD__45__9864_c	3-decaprenyl-4-hydroxybenzoate
+ALL__45__TRANS__45__HEXAPRENYL__45__DIPHOSPHATE_c	all-trans-hexaprenyl diphosphate
+_3__45__HEXAPRENYL__45__4__45__HYDROXYBENZOATE_c	3-hexaprenyl-4-hydroxybenzoate
+SOLANESYL__45__PYROPHOSPHATE_c	all-trans-nonaprenyl diphosphate
+NONAPRENYL__45__4__45__HYDROXYBENZOATE_c	3-nonaprenyl-4-hydroxybenzoate
+CPD__45__9852_c	3-heptaprenyl-4-hydroxybenzoate
+_2__45__OCTAPRENYLPHENOL_c	2-octaprenylphenol
+CPD__45__13518_c	Nomega-hydroxy-L-arginine
+NITRIC__45__OXIDE_c	nitric oxide
+KDO2__45__LIPID__45__IVA_c	alpha-Kdo-(2->4)-alpha-Kdo-(2->6)-lipid IVA
+HEPTOSYL__45__KDO2__45__LIPID__45__IVA_c	heptosyl-Kdo2-lipid IVA
+COBALT__45__FACTOR__45__III_c	cobalt-factor III
+CPD__45__671_c	a 5-formiminotetrahydrofolate
+_6__45__PYRUVOYL__45__5678__45__TETRAHYDROPTERIN_c	(6R)-6-pyruvoyl-5,6,7,8-tetrahydropterin
+UDP__45__SULFOQUINOVOSE_c	UDP-alpha-D-sulfoquinovopyranose
+CPD__45__15424_c	O-carbamoyladenylate
+HypE__45__Proteins_c	a HypE hydrogenase maturation protein
+HypE__45__S__45__carboxamide_c	a HypE hydrogenase maturation protein-S-carboxamide
+Beta__45__Lactams_c	a beta-lactam
+CPD__45__8550_c	a substituted beta-amino acid
+DEHYDROSPHINGANINE_c	3-dehydrosphinganine
+CPD__45__20_c	3-hydroxy-5- oxohexanoyl-CoA
+CPD__45__19_c	3-hydroxy-5-oxohexanoate
+CPD__45__15360_c	2-sulfanyl-N6-dimethylallyladenosine37 in tRNA
+CPD__45__11592_c	2-methylsulfanyl-N6-dimethylallyladenosine37 in tRNA
+PENTANOYLCOA__45__CPD_c	pentanoyl-CoA
+VALERATE_c	pentanoate
+Aryl__45__sulfates_c	an aryl sulfate
+Mercapturates_c	a mercapturate
+S__45__Substituted__45__L__45__Cysteines_c	an L-cysteine-S-conjugate
+N__45__Acylated__45__Aliphatic__45__Amino__45__Acids_c	an N-acylated aliphatic-L-amino acid
+Aliphatic__45__L__45__Amino__45__Acids_c	an aliphatic L-amino acid
+CPD__45__13339_c	(2Z,4E)-2-hydroxyhexa-2,4-dienedioate
+CPD__45__8742_c	(3E)-2-oxohex-3-enedioate
+Thiocarboxylated__45__MPT__45__synthases_c	a thiocarboxylated [small subunit of molybdopterin synthase]
+CPD__45__4_c	molybdopterin
+tRNA__45__Adenine__45__58_c	an adenine58 in tRNA
+tRNA__45__Containing__45__N1__45__MethylAdenine__45__58_c	an N1-methyladenine58 in tRNA
+CPD__45__8990_c	L-methionine-(R)-S-oxide
+_4__45__AMINO__45__BUTYRATE_c	4-aminobutanoate
+SUCC__45__S__45__ALD_c	succinate semialdehyde
+MALONATE__45__S__45__ALD_c	3-oxopropanoate
+CPD__45__12260_c	a peptidoglycan dimer (mycobacteria)
+CPD__45__11984_c	omega, mono-trans,octa-cis-decaprenyl diphosphate
+XTP_c	XTP
+CPD__45__10014_c	31-O-desmethylFK-506
+CPD__45__10016_c	FK-506
+DIMP_c	dIMP
+SALICYLALDEHYDE_c	salicylaldehyde
+CPD__45__110_c	salicylate
+Oleoyl__45__lipid_c	a [glycerolipid]-oleate
+Lipid__45__dihydrosterculate_c	a [glycerolipid]-dihydrosterculate
+cis__45__D21__45__39__45__oxo__45__40__45__Me__45__C59__45__1__45__ACPs_c	a cis-delta21-39-oxo-40-methyl-C59:1-[acp]
+cis__45__21__45__CP__45__39__45__keto__45__40__45__Me__45__C60__45__ACPs_c	a cis-keto-C60-meroacyl-[acp]
+Phospholipid__45__Olefinic__45__Fatty__45__Acids_c	a [phospholipid] olefinic fatty acid
+Phospholipid__45__Cyclopropane__45__Fatty__45__Acids_c	a [phospholipid] cyclopropane fatty acid
+cis__45__D19__45__37__45__MOH__45__38__45__Me__45__C57__45__1__45__ACPs_c	a cis-delta19-37-methoxy-38-methyl-C57:1-[acp]
+cis__45__19__45__CP__45__37__45__Mex__45__38__45__Me__45__C59__45__ACPs_c	a cis-methoxy-C59-meroacyl-[acp]
+COPROPORPHYRINOGEN_III_c	coproporphyrinogen III
+PROTOPORPHYRINOGEN_c	protoporphyrinogen IX
+ASCORBATE_CCO__45__OUT	L-ascorbate
+L__45__ASCORBATE__45__6__45__PHOSPHATE_CCO__45__IN	L-ascorbate 6-phosphate
+TREHALOSE_CCO__45__OUT	alpha,alpha-trehalose
+TREHALOSE__45__6P_CCO__45__IN	alpha,alpha-trehalose 6-phosphate
+GLUCOSAMINE_CCO__45__OUT	D-glucosamine
+_2__45__O__45__ALPHA__45__MANNOSYL__45__D__45__GLYCERATE_CCO__45__OUT	2-O-(alpha-D-mannosyl)-D-glycerate
+CPD0__45__1063_CCO__45__IN	2-O-(6-phospho-alpha-D-mannosyl)-D-glycerate
+MANNITOL_CCO__45__OUT	D-mannitol
+MANNITOL__45__1P_CCO__45__IN	D-mannitol 1-phosphate
+DIACETYLCHITOBIOSE__45__6__45__PHOSPHATE_CCO__45__IN	N,N'-diacetylchitobiose 6'-phosphate
+CPD0__45__881_CCO__45__IN	N-acetyl-D-muramate 6-phosphate
+Feruloyl__45__polysaccharides_c	a feruloyl-polysaccharide
+FERULIC__45__ACID_c	ferulate
+Polysaccharides_c	a polysaccharide
+Trans__45__D3__45__cis__45__D9__45__hexadecenoyl__45__ACPs_c	a trans-Delta3-cis-Delta9-hexadecenoyl-[acp]
+Trans__45__D3__45__cis__45__D7__45__tetradecenoyl__45__ACPs_c	a trans-Delta3-cis-Delta7-tetradecenoyl-[acp]
+_23S__45__rRNA__45__uridine1911__45__1915__45__1917_c	a 23S rRNA uridine1911/1915/1917
+_23S__45__rRNA__45__pseudouridine1911__45__1915__45__1917_c	a pseudouridine1911/1915/1917 in 23S rRNA
+_23S__45__rRNA__45__uridine2604_c	a uridine2604 in 23S rRNA
+_23S__45__rRNA__45__pseudouridine2604_c	a pseudouridine2604 in 23S rRNA
+UBIQUINONE__45__6_c	ubiquinone-6
+_23S__45__rRNA__45__uridine955__45__2504__45__2580_c	uridine955/2504/2580 in 23S rRNA
+_23S__45__rRNA__45__pseudouridine955__45__2504__45__2580_c	a pseudouridine955/2504/2580 in 23S rRNA
+_23S__45__rRNA__45__uridine2605_c	uridine2605 in 23S rRNA
+_23S__45__rRNA__45__pseudouridine2605_c	a pseudouridine2605 in 23S rRNA
+_23S__45__rRNA__45__uridine2457_c	uridine2457 in 23S rRNA
+_23S__45__rRNA__45__pseudouridine2457_c	a pseudouridine2457 in 23S rRNA
+Uridine32__45__in__45__tRNA_c	a uridine32 in tRNA
+tRNA__45__pseudouridine32_c	a pseudouridine32 in tRNA
+Cytidine__45__34__45__tRNAIle2_c	a cytidine34 in tRNAIle2
+Lysidine__45__tRNA__45__Ile2_c	a lysidine34 in tRNAIle2
+N__45__terminal__45__L__45__cysteine__45__sulfonate_c	an N-terminal 3-sulfo-L-alanyl-[protein]
+N__45__terminal__45__L__45__cysteine__45__sulfinate_c	an N-terminal 3-sulfino-L-alanyl-[protein]
+N__45__terminal__45__L__45__alanine__45__sulfenate_c	an N-terminal 3-sulfeno-L-alanyl-[protein]
+UBIQUINONE__45__10_c	ubiquinone-10
+CPD__45__14772_c	hexadecanedioyl-CoA
+CPD__45__14828_c	1-C16:0-alpha,omega-dicarboxyl-2-lysophosphatidate
+ARABINOSE__45__5P_c	aldehydo-D-arabinose 5-phosphate
+CPD__45__226_c	vinylacetyl-CoA
+OCTAPRENYL__45__METHYL__45__OH__45__METHOXY__45__BENZQ_c	3-demethylubiquinol-8
+CPD__45__9956_c	ubiquinol-8
+CPD__45__9861_c	3-demethylubiquinol-7
+CPD__45__9955_c	ubiquinol-7
+CPD__45__9040_c	cobalt-precorrin-3
+CPD__45__9041_c	cobalt-precorrin-4
+LysW__45__L__45__ornithine_c	a [2-aminoadipate carrier protein]-L-ornithine
+CPD__45__9873_c	3-demethylubiquinol-10
+CPD__45__9958_c	ubiquinol-10
+_2__45__HEXAPRENYL__45__3__45__METHYL__45__5__45__HYDROXY__45__6__45__METHOX_c	3-demethylubiquinol-6
+UBIQUINOL__45__30_c	ubiquinol-6
+Demethylated__45__Ubiquinols_c	a demethylated ubiquinol
+BENZOYLSUCCINYL__45__COA_c	benzoylsuccinyl-CoA
+S__45__3__45__HYDROXYBUTANOYL__45__COA_c	(S)-3-hydroxybutanoyl-CoA
+CPD__45__13694_c	24-hydroxy-3-oxocholest-4-en-26-oyl-CoA
+CPD__45__13695_c	3,24-dioxocholest-4-en-26-oyl-CoA
+CPD__45__13757_c	3-[(3aS,4S,5R,7aS)-5-hydroxy-7a-methyl-1-oxo-octahydro-1H-inden-4-yl]-3-hydroxypropanoyl-CoA
+CPD__45__13758_c	3-[(3aS,4S,5R,7aS)-5-hydroxy-7a-methyl-1-oxo-octahydro-1H-inden-4-yl]-3-oxopropanoyl-CoA
+_3__45__KETO__45__ADIPYL__45__COA_c	3-oxoadipyl-CoA
+tRNA__45__Containing__45__5AminoMe__45__2__45__ThioUrdines_c	a 5-aminomethyl-2-thiouridine34 in tRNA
+tRNA__45__Containing__45__5MeAminoMe__45__2__45__ThioU_c	a 5-methylaminomethyl-2-thiouridine34 in tRNA
+CPD__45__19154_c	(S)-3-hydroxy-(7Z)-tetradecenoyl-CoA
+CPD__45__19151_c	(S)-3-hydroxy-(5Z)-dodecenoyl-CoA
+CPD0__45__2244_c	(S)-3-hydroxydecanoyl-CoA
+T2__45__DECENOYL__45__COA_c	(2E)-dec-2-enoyl-CoA
+CPD__45__17813_c	(2E,11Z)-hexadec-2,11-dienoyl-CoA
+CPD__45__17814_c	(11Z)-(S)-3-hydroxyhexadec-11-enoyl-CoA
+CPD__45__17464_c	(9Z)-tetradecenoyl-CoA
+CPD__45__17815_c	(11Z)-3-oxo-hexadecenoyl-CoA
+CPD0__45__1163_c	(S)-3-hydroxy-(5Z)-tetradecenoyl-CoA
+CPD0__45__2171_c	(S)-3-hydroxytetradecanoyl-CoA
+CPD__45__15568_c	2E)-tetradec-2-enoyl-CoA
+CPD0__45__2232_c	(S)-3-hydroxyhexadecanoyl-CoA
+CPD0__45__2117_c	trans-hexadec-2-enoyl-CoA
+CPD__45__17387_c	(3S)-hydroxy-(6Z,9Z,12Z,15Z,18Z,21Z)-tetracosahexaenoyl-CoA
+CPD__45__17386_c	(2E,6Z,9Z,12Z,15Z,18Z,21Z)-tetracosaheptaenoyl-CoA
+OH__45__HEXANOYL__45__COA_c	(S)-3-hydroxyhexanoyl-CoA
+CPD0__45__2121_c	trans-hex-2-enoyl-CoA
+CPD__45__18493_c	(3S)-hydroxy-(6Z,9Z,12Z,15Z,18Z)-tetracosapentaenoyl-CoA
+CPD__45__18492_c	(2E,6Z,9Z,12Z,15Z,18Z)-tetracosahexaenoyl-CoA
+CARBOXYMETHYL__45__HYDROXYPHENYLPROPCOA_c	2-carboxymethyl-3-hydroxyphenylpropanoyl-CoA
+E__45__PHENYLITACONYL__45__COA_c	(E)-2-benzylidenesuccinyl-CoA
+_3__45__HYDROXY__45__ISOVALERYL__45__COA_c	3-hydroxyisovaleryl-CoA
+CPD__45__12173_c	(S)-3-hydroxy-isobutanoyl-CoA
+METHACRYLYL__45__COA_c	methylacrylyl-CoA
+CPD__45__11519_c	3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-(3R-hydroxyoctanoyl)-CoA
+CPD__45__11518_c	3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-(E-octa-2-enoyl)-CoA
+CPD__45__11523_c	3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-(3R-hydroxyhexanoyl)-CoA
+CPD__45__11522_c	3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-(E-hexa-2-enoyl)-CoA
+CPD__45__11527_c	3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-(3R-hydroxybutanoyl)-CoA
+CPD__45__11526_c	3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-(E-buta-2-enoyl)-CoA
+_3__45__HYDROXYADIPYL__45__COA_c	(3S)-hydroxyadipyl-CoA
+TRANS__45__23__45__DEHYDROADIPYL__45__COA_c	trans-2,3-dehydroadipyl-coA
+CPD__45__12199_c	3S-(4-hydroxyphenyl)-3-hydroxy-propanoyl-CoA
+P__45__COUMAROYL__45__COA_c	4-coumaroyl-CoA
+D__45__3__45__HYDROXYACYL__45__COA_c	a (3R)-3-hydroxyacyl-CoA
+CIS__45__D2__45__ENOYL__45__COA_c	a cis-2-enoyl-CoA
+_2__45__METHYL__45__3__45__HYDROXY__45__BUTYRYL__45__COA_c	(2S,3S)-3-hydroxy-2-methylbutanoyl-CoA
+CPD__45__1083_c	(E)-2-methylcrotonoyl-CoA
+L__45__methionyl__45__L__45__alanyl__45__Protein_c	an N-terminal-L-methionyl-L-alanyl-[protein]
+N__45__terminal__45__L__45__alanine_c	an N-terminal L-alanyl-[protein]
+CPD__45__19171_c	(S)-3-hydroxy-(9Z)-octadecenoyl-CoA
+L__45__methionyl__45__L__45__cysteinyl__45__Protein_c	an N-terminal-L-methionyl-L-cysteinyl-[protein]
+N__45__terminal__45__L__45__cysteine_c	an N-terminal L-cysteinyl-[protein]
+CPD__45__19168_c	(S)-3-hydroxy-(7Z)-hexadecenoyl-CoA
+L__45__methionyl__45__glycyl__45__Protein_c	an N-terminal-L-methionyl-glycyl-[protein]
+N__45__terminal__45__glycine_c	an N-terminal glycyl-[protein]
+CPD__45__19159_c	(S)-3-hydroxy-(11Z)-octadecenoyl-CoA
+L__45__methionyl__45__L__45__seryl__45__Protein_c	an N-terminal-L-methionyl-L-seryl-[protein]
+N__45__terminal__45__L__45__Serine_c	an N-terminal L-seryl-[protein]
+CPD__45__19155_c	(S)-3-hydroxy-(9Z)-hexadecenoyl-CoA
+L__45__methionyl__45__L__45__threonyl__45__Protein_c	an N-terminal-L-methionyl-L-threonyl-[protein]
+Protein__45__N__45__terminal__45__L__45__threonine_c	an N-terminal L-threonyl-[protein]
+L__45__methionyl__45__L__45__valyl__45__Protein_c	an N-terminal-L-methionyl-L-valyl-[protein]
+N__45__terminal__45__L__45__valine_c	an N-terminal L-valyl-[protein]
+Protein__45__With__45__N__45__Terminal__45__Met_c	a peptide with an N-terminal L-methionine
+_8__45__AMINO__45__7__45__OXONONANOATE_c	8-amino-7-oxononanoate
+S__45__ADENOSYL__45__4__45__METHYLTHIO__45__2__45__OXOBUTANOATE_c	S-adenosyl-4-methylthio-2-oxobutanoate
+ACRYLAMIDE_c	acrylamide
+ACRYLATE_c	acrylate
+ACETAMIDE_c	acetamide
+CPD__45__19042_c	2-hydroxyisobutyramide
+CPD__45__237_c	(indol-3-yl)acetamide
+PYRAZINAMIDE_c	pyrazinamide
+PYRAZINOIC__45__ACID_c	pyrazine-2-carboxylate
+CPD__45__479_c	4-(methylsulfanyl)-2-oxobutanoate
+P__45__HYDROXY__45__PHENYLPYRUVATE_c	4-hydroxyphenylpyruvate
+PROPIONAMIDE_c	propionamide
+_4__45__GUANIDO__45__BUTYRAMIDE_c	4-guanidinobutyramide
+CPD__45__592_c	4-guanidinobutanoate
+N__45__ACETYL__45__D__45__GLUCOSAMINE__45__6__45__P_c	N-acetyl-D-glucosamine 6-phosphate
+D__45__LACTOYL__45__COA_c	(R)-lactoyl-CoA
+L__45__LACTATE_c	(S)-lactate
+LACTOYL__45__COA_c	(S)-lactoyl-CoA
+CPD__45__233_c	L-beta-lysine
+_2__45__OCTAPRENYL__45__6__45__HYDROXYPHENOL_c	3-(all-trans-octaprenyl)benzene-1,2-diol
+_2__45__OCTAPRENYL__45__6__45__METHOXYPHENOL_c	2-methoxy-6-(all-trans-octaprenyl)phenol

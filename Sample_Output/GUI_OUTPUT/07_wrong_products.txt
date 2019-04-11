@@ -1,0 +1,20 @@
+	UROGENIIISYN__45__RXN	UROGENIIISYN-RXN	(reversible: False) :
+		1.0	HYDROXYMETHYLBILANE_c	(preuroporphyrinogen)	|	1.0	UROPORPHYRINOGEN__45__III_c	(uroporphyrinogen-III)	1.0	WATER_c	(H2O)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: UROGENIIISYN-RXN</p>
+    <p>EC Number: 4.2.1.75</p>
+    <p>SUBSYSTEM: PWY-5188</p>
+    <p>GENE_ASSOCIATION: (Sfum_3201)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	RXN__45__14396	RXN-14396	(reversible: False) :
+		1.0	HYDROXYMETHYLBILANE_c	(preuroporphyrinogen)	|	1.0	CPD__45__11444_c	(uroporphyrinogen-I)	1.0	WATER_c	(H2O)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-14396</p>
+    <p>Confidence level: 0</p>
+  </body>
+</notes>
+

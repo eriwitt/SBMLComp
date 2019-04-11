@@ -1,0 +1,43 @@
+	RXNN__45__404	RXNN-404	(reversible: False) :
+		1.0	CPD__45__237_c	((indol-3-yl)acetamide)	1.0	WATER_c	(H2O)	|	1.0	INDOLE_ACETATE_AUXIN_c	((indol-3-yl)acetate)	1.0	AMMONIUM_c	(ammonium)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXNN-404</p>
+    <p>EC Number: 3.5.1.4</p>
+    <p>GENE_ASSOCIATION: (Sfum_3366)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	RXN__45__1404	RXN-1404	(reversible: False) :
+		1.0	INDOLEYL__45__CPD_c	((indole-3-yl)acetonitrile)	2.0	WATER_c	(H2O)	|	1.0	INDOLE_ACETATE_AUXIN_c	((indol-3-yl)acetate)	1.0	AMMONIUM_c	(ammonium)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-1404</p>
+    <p>EC Number: 3.5.5.1</p>
+    <p>SUBSYSTEM: PWY-5026</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS11955)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	RXN__45__17608	RXN-17608	(reversible: False) :
+		1.0	CPD__45__19042_c	(2-hydroxyisobutyramide)	1.0	WATER_c	(H2O)	|	1.0	CPD__45__19014_c	(2-hydroxy-2-methylpropanoate)	1.0	AMMONIUM_c	(ammonium)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-17608</p>
+    <p>EC Number: 3.5.1.4</p>
+    <p>GENE_ASSOCIATION: (Sfum_3366)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	RXN__45__17607	RXN-17607	(reversible: True) :
+		1.0	_2__45__HYDROXY__45__2__45__METHYLPROPANENITRILE_c	(2-hydroxy-2-methylpropanenitrile)	2.0	WATER_c	(H2O)	|	1.0	CPD__45__19014_c	(2-hydroxy-2-methylpropanoate)	1.0	AMMONIUM_c	(ammonium)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-17607</p>
+    <p>EC Number: 3.5.5.1</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS11955)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+

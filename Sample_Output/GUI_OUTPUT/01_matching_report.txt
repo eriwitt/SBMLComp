@@ -1,0 +1,138 @@
+SBML1:	Sfu2014_1_PWYTools.xml
+SBML2:	Sfu2017_1_PWYTools.xml
+Analysing SBML files:
+	1. Check SBML1-Species-Ids for KEGG-Id:
+		- KEGG-Ids found:	0
+	2. Check SBML2-Species-Ids for KEGG-Id:
+		- KEGG-Ids found:	0
+	3. Check SBML1-Model for Ids (KEGG,ChEBI,PubChem, Inchi, BioCyc, HMDB, CAS, Chemspider, Metabolights):
+		- process-time: 0:00:00.917000
+		- KEGG:	834
+		- ChEBI:	888
+		- PubChem:	964
+		- Inchi:	963
+		- BioCyc:	1436
+		- HMDB:	564
+		- CAS:	394
+		- Chemspider:	392
+		- Metabolights:	394
+	4. Check SBML2-Model for Ids (KEGG,ChEBI,PubChem, Inchi, BioCyc, HMDB, CAS, Chemspider, Metabolights):
+		- process-time: 0:00:00.941000
+		- KEGG:	854
+		- ChEBI:	904
+		- PubChem:	976
+		- Inchi:	976
+		- BioCyc:	1480
+		- HMDB:	562
+		- CAS:	405
+		- Chemspider:	415
+		- Metabolights:	416
+Species-Matching:
+	5. ID-Matching:
+		5.1 KEGG-ID-Matching:
+		- process-time: 0:06:21.392000
+			- SBML1-Matches:	734
+			- SBML2-Matches:	737
+			- total SBML1-Species with assignment to SBML2-Species: 734
+		5.2 ChEBI-ID-Matching:
+		- process-time: 0:07:13.247000
+			- SBML1-Matches:	124
+			- SBML2-Matches:	124
+			- total SBML1-Species with assignment to SBML2-Species: 858
+		5.3 PubChem-ID-Matching:
+		- process-time: 0:08:20.308000
+			- SBML1-Matches:	92
+			- SBML2-Matches:	92
+			- total SBML1-Species with assignment to SBML2-Species: 950
+		5.4 INCHI-Matching:
+		- process-time: 0:08:20.379000
+			- SBML1-Matches:	3
+			- SBML2-Matches:	3
+			- total SBML1-Species with assignment to SBML2-Species: 953
+		5.5 BioCyc-ID-Matching:
+		- process-time: 0:18:58.492000
+			- SBML1-Matches:	267
+			- SBML2-Matches:	267
+			- total SBML1-Species with assignment to SBML2-Species: 1220
+		5.6 HMDB-ID-Matching:
+		- process-time: 0:02:48.991000
+			- SBML1-Matches:	0
+			- SBML2-Matches:	0
+			- total SBML1-Species with assignment to SBML2-Species: 1220
+		5.7 CAS-ID-Matching:
+		- process-time: 0:01:24.324000
+			- SBML1-Matches:	0
+			- SBML2-Matches:	0
+			- total SBML1-Species with assignment to SBML2-Species: 1220
+		5.8 Chemspider-ID-Matching:
+		- process-time: 0:01:26.459000
+			- SBML1-Matches:	0
+			- SBML2-Matches:	0
+			- total SBML1-Species with assignment to SBML2-Species: 1220
+		5.9 Metabolights-ID-Matching:
+		- process-time: 0:01:27.163000
+			- SBML1-Matches:	0
+			- SBML2-Matches:	0
+			- total SBML1-Species with assignment to SBML2-Species: 1220
+	6. Name-Matching:
+		- process-time: 0:19:42.893000
+		- SBML1-Matches:	2
+		- SBML2-Matches:	2
+		- total SBML1-Species with assignment to SBML2-Species: 1222
+	7. Restrict candidates for synonym-matching by formula:
+		- process-time: 0:01:57.152000
+		- total candidates: 1436
+	8. KEGG-Symonym-Matching
+		- process-time: 0:00:21.906000
+		- SBML1-Matches:	0
+		- SBML2-Matches:	0
+		- total SBML1-Species with assignment to SBML2-Species: 1222
+	9. ChEBI-Synonym-Matching
+		- process-time: 0:00:03.928000
+		- SBML1-Matches:	0
+		- SBML2-Matches:	0
+		- total SBML1-Species with assignment to SBML2-Species: 1222
+	10. PubChem-Synonym-Matching
+		- process-time: 0:01:14.457000
+		- SBML1-Matches:	0
+		- SBML2-Matches:	0
+		- total SBML1-Species with assignment to SBML2-Species: 1222
+Species-Matching completed!
+	- process-time: 1:19:53.329000
+	- SBML1-Matches:	1222	/	1436	Species
+	- SBML2-Matches:	1225	/	1480	Species
+	- total SBML1-Species with assignment to SBML2-Species: 1222
+Reaction-Matching:
+	1.Reaction-Comparison:
+		- process-time: 0:16:47.974000
+		- SBML1-Matches:	932
+		- SBML2-Matches:	931
+		- total SBML1-Reactions with assignment to SBML2-Reactions: 932
+		- Reaction-Matches: 
+			- 1 = Reaction_SBML1(Reactants&Products) == Reaction_SBML2(Reactants&Products)
+			- 2 = Reaction_SBML1(Reversebility) == Reaction_SBML2(Reversebility)
+			- 3 = Reaction_SBML1(Stoichiometry) == Reaction_SBML2(Stoichiometry)
+		- total 123_Reaction_Match:	912
+		- total 12_Reaction_Match:	1
+		- total 13_Reaction_Match:	32
+		- total 1_Reaction_Match:	0
+		- Reactions reactants and products changed:
+		- total:	4
+		- Reactions with some(i) products and (j) reactants missing, i between 0 < i < length(productlist),    j beetween 0 < j < length(reactantlist):
+		- total:	53
+		- Reactions with some(i) products missing, i between 0 < i < length(productlist):
+		- total:	1
+		- Reactions with some(j) reactants missing,j between 0 < j < length(reactantlist):
+		- total:	2
+Reaction-Matching completed!
+	- process-time: 0:16:48.030000
+No-Matches:
+	- SBML1-Species:	214	of	1436	Species
+	- SBML2-Species:	255	of	1480	Species
+	- SBML1-Reactions:	251	of	1183	Reactions
+	- SBML2-Reactions:	299	of	1230	Reactions
+
+Model-Similarity:
+Jaccard similarity coefficient:	0.628879892038
+Jaccard distanz:	0.371120107962
+-total process-time:	1:37:22.193000

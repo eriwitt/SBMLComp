@@ -1,0 +1,88 @@
+	PHEAMINOTRANS__45__RXN	PHEAMINOTRANS-RXN	(reversible: True) :
+		1.0	PHENYL__45__PYRUVATE_c	(keto-phenylpyruvate)	1.0	GLT_c	(L-glutamate)	|	1.0	PHE_c	(L-phenylalanine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: PHEAMINOTRANS-RXN</p>
+    <p>EC Number: 2.6.1.57</p>
+    <p>SUBSYSTEM: PHESYN, COMPLETE-ARO-PWY</p>
+    <p>GENE_ASSOCIATION: (Sfum_3898)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	RXN__45__10814	RXN-10814	(reversible: True) :
+		1.0	PHE_c	(L-phenylalanine)	1.0	_2__45__KETOGLUTARATE_c	(2-oxoglutarate)	|	1.0	PHENYL__45__PYRUVATE_c	(keto-phenylpyruvate)	1.0	GLT_c	(L-glutamate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: RXN-10814</p>
+    <p>EC Number: 2.6.1.1</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS11825) or (SFUM_RS13740) or (SFUM_RS15170) or (SFUM_RS00335) or (SFUM_RS06355) or (SFUM_RS06110) or (SFUM_RS20880)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	METHYLMALONYL__45__COA__45__MUT__45__RXN	METHYLMALONYL-COA-MUT-RXN	(reversible: True) :
+		1.0	METHYL__45__MALONYL__45__COA_c	((R)-methylmalonyl-CoA)	|	1.0	SUC__45__COA_c	(succinyl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: METHYLMALONYL-COA-MUT-RXN</p>
+    <p>EC Number: 5.4.99.2</p>
+    <p>GENE_ASSOCIATION: (Sfum_0458)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	METHYLMALONYL__45__COA__45__MUT__45__RXN	METHYLMALONYL-COA-MUT-RXN	(reversible: False) :
+		1.0	SUC__45__COA_c	(succinyl-CoA)	|	1.0	METHYL__45__MALONYL__45__COA_c	((R)-methylmalonyl-CoA)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: METHYLMALONYL-COA-MUT-RXN</p>
+    <p>EC Number: 5.4.99.2</p>
+    <p>SUBSYSTEM: P108-PWY</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS02340) or (SFUM_RS02345)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	GLUTRNAREDUCT__45__RXN	GLUTRNAREDUCT-RXN	(reversible: False) :
+		1.0	Charged__45__GLT__45__tRNAs_c	(an L-glutamyl-[tRNAGlu])	1.0	NADPH_c	(NADPH)	1.0	PROTON_c	(H+)	|	1.0	GLUTAMATE__45__1__45__SEMIALDEHYDE_c	((S)-4-amino-5-oxopentanoate)	1.0	NADP_c	(NADP+)	1.0	GLT__45__tRNAs_c	(a tRNAglu)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: GLUTRNAREDUCT-RXN</p>
+    <p>EC Number: 1.2.1.70</p>
+    <p>SUBSYSTEM: PWY-5188</p>
+    <p>GENE_ASSOCIATION: (Sfum_1590)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	GLUTRNAREDUCT__45__RXN	GLUTRNAREDUCT-RXN	(reversible: True) :
+		1.0	GLUTAMATE__45__1__45__SEMIALDEHYDE_c	((S)-4-amino-5-oxopentanoate)	1.0	NADP_c	(NADP+)	1.0	GLT__45__tRNAs_c	(a tRNAglu)	|	1.0	Charged__45__GLT__45__tRNAs_c	(an L-glutamyl-[tRNAGlu])	1.0	NADPH_c	(NADPH)	1.0	PROTON_c	(H+)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: GLUTRNAREDUCT-RXN</p>
+    <p>EC Number: 1.2.1.70</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS08225)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
+	PRPPAMIDOTRANS__45__RXN	PRPPAMIDOTRANS-RXN	(reversible: False) :
+		1.0	PRPP_c	(5-phospho-alpha-D-ribose 1-diphosphate)	1.0	GLN_c	(L-glutamine)	1.0	WATER_c	(H2O)	|	1.0	_5__45__P__45__BETA__45__D__45__RIBOSYL__45__AMINE_c	(5-phospho-beta-D-ribosylamine)	1.0	PPI_c	(diphosphate)	1.0	GLT_c	(L-glutamate)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: PRPPAMIDOTRANS-RXN</p>
+    <p>EC Number: 2.4.2.14</p>
+    <p>SUBSYSTEM: PWY-6121</p>
+    <p>GENE_ASSOCIATION: (Sfum_0007) or (Sfum_0268)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+	PRPPAMIDOTRANS__45__RXN	PRPPAMIDOTRANS-RXN	(reversible: True) :
+		1.0	_5__45__P__45__BETA__45__D__45__RIBOSYL__45__AMINE_c	(5-phospho-beta-D-ribosylamine)	1.0	PPI_c	(diphosphate)	1.0	GLT_c	(L-glutamate)	|	1.0	PRPP_c	(5-phospho-alpha-D-ribose 1-diphosphate)	1.0	GLN_c	(L-glutamine)	1.0	WATER_c	(H2O)	
+<notes>
+  <body xmlns="http://www.w3.org/1999/xhtml">
+    <p>BIOCYC: PRPPAMIDOTRANS-RXN</p>
+    <p>EC Number: 2.4.2.14</p>
+    <p>GENE_ASSOCIATION: (SFUM_RS00045) or (SFUM_RS01370)</p>
+    <p>Confidence level: 2</p>
+  </body>
+</notes>
+
